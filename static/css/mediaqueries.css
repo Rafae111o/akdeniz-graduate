@@ -1,0 +1,3717 @@
+/* Media Queries  */
+
+@media screen and (max-width: 1899px){
+    .navbar .outer-div {
+        margin-left: 165px;
+    }
+    .navbar-brand {
+        margin-right: 110px;
+        padding-top: 12px;
+    }
+    .navbar-expand-lg .navbar-collapse {
+        margin-top: -10px;
+    }
+    .main-header .navbar_background {
+        left: 55px;
+    }
+    .navbar-nav li::before {
+        top: -20px;
+    }
+    .navbar-nav li::after {
+        bottom: -28px;
+    }
+    .navbar-nav .dropdown-menu {
+        top: 62px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: -75px;
+    }
+}
+@media screen and (max-width: 1876px){
+    .navbar .outer-div {
+        margin-left: 138px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: -61px;
+    }
+}
+@media screen and (max-width: 1849px){
+    .navbar .outer-div {
+        margin-left: 112px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: -48px;
+    }
+}
+@media screen and (max-width: 1823px){
+    .navbar .outer-div {
+        margin-left: 85px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: -34px;
+    }
+}
+@media screen and (max-width: 1796px){
+    .main-header .navbar_background {
+        left: 80px;
+    }
+    .main-header .navbar_background img {
+        width: 975px;
+    }
+    .navbar-brand {
+        margin-right: 100px;
+        padding-top: 10px;
+    }
+    .navbar-nav li::after {
+        bottom: -22px;
+    }
+    .navbar .outer-div {
+        margin-left: 68px;
+    }
+    .navbar-nav .dropdown-menu {
+        top: 58px;
+    }
+
+    .get_in_touch_section .get_touch_content .form_margin {
+        margin-left: -35px;
+    }
+    .get_in_touch_section .get_touch_content textarea {
+        width: 91%;
+    }
+    .get_in_touch_section .image_wrapper figure {
+        top: -20px;
+    }
+}
+@media screen and (max-width: 1769px){
+    .main-header .navbar_background img {
+        width: 945px;
+    }
+    .navbar-brand {
+        margin-right: 90px;
+    }
+    .navbar .outer-div {
+        margin-left: 55px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: -8px;
+    }
+}
+@media screen and (max-width: 1746px){
+    .navbar .outer-div {
+        margin-left: 28px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: 7px;
+    }
+}
+@media screen and (max-width: 1719px){
+    .navbar .outer-div {
+        margin-left: 20px;
+    }
+    .main-header .navbar_background img {
+        width: 920px;
+    }
+    .navbar-brand {
+        margin-right: 72px;
+    }
+    .navbar-nav li::after {
+        bottom: -19px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: 20px;
+    }
+    .get_in_touch_section .get_touch_content .form_margin {
+        margin-left: 0;
+    }
+    .get_in_touch_section .get_touch_content textarea {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 1693px){
+    .main-header {
+        padding: 0 240px 0 260px;
+    }
+    .navbar .outer-div {
+        margin-left: 25px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: 33px;
+    }
+}
+@media screen and (max-width: 1668px){
+    .main-header {
+        padding: 0 220px 0 240px;
+    }
+    .main-header .navbar_background {
+        left: 70px;
+    }
+    .navbar-brand {
+        margin-right: 80px;
+    }
+    .navbar .outer-div {
+        margin-left: 32px;
+    }
+    .navbar-nav .dropdown-menu {
+        top: 52px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: 46px;
+    }
+}
+@media screen and (max-width: 1643px){
+    .main-header {
+        padding: 0 205px 0 240px;
+    }
+    .navbar .outer-div {
+        margin-left: 20px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: 60px;
+    }
+}
+@media screen and (max-width: 1617px){
+    .navbar .outer-div {
+        margin-left: 28px;
+    }
+    .main-header {
+        padding: 0 190px 0 220px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: 74px;
+    }
+    .get_in_touch_section .get_touch_content input {
+        width: 275px;
+    }
+}
+@media screen and (max-width: 1589px){
+    .main-header {
+        padding: 0 185px 0 200px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: 87px;
+    }
+}
+@media screen and (max-width: 1564px){
+    .main-header {
+        padding: 0 170px 0 190px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: 100px;
+    }
+    .get_in_touch_section .get_touch_content input {
+        width: 260px;
+    }
+}
+@media screen and (max-width: 1539px){
+    .main-header {
+        padding: 0 166px 0 170px;
+    }
+    .navbar .outer-div {
+        margin-left: 25px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: 114px;
+    }
+}
+@media screen and (max-width: 1512px){
+    .main-header {
+        padding: 0 160px 0 140px;
+    }
+    .main-header .navbar_background {
+        left: 15px;
+    }
+    .navbar-brand {
+        padding-top: 8px;
+    }
+    .navbar-nav li::before {
+        top: -18px;
+    }
+    .navbar-nav li::after {
+        bottom: -20px;
+    }
+    .navbar .outer-div {
+        margin-left: 35px;
+    }
+    .navbar-nav .dropdown-menu {
+        top: 55px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: 129px;
+    }
+    .get_in_touch_section .get_touch_content input {
+        width: 245px;
+    }
+}
+@media screen and (max-width: 1486px){
+    .main-header {
+        padding: 0 145px 0 130px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: 141px;
+    }
+
+}
+@media screen and (max-width: 1461px){
+    .main-header {
+        padding: 0 135px 0 115px;
+    }
+
+    .get_in_touch_section .image_wrapper figure {
+        top: 152px;
+    }
+    .get_in_touch_section .get_touch_content input {
+        width: 231px;
+    }
+}
+@media screen and (max-width: 1440px){
+    .main-header {
+        padding: 0 20px 0 30px;
+    }
+    .main-header .navbar_background {
+        left: 0;
+    }
+    .main-header .navbar_background img{
+        width: 900px;
+    }
+    .navbar-brand {
+        margin-right: 95px;
+        padding-top: 10px;
+    }
+    .navbar-brand figure img{
+        width: 128px;
+    }
+    .navbar-expand-lg .navbar-collapse {
+        margin-top: 0;
+    }
+    .navbar-nav li {
+        margin: 0 15px;
+    }
+    .navbar-nav li::before {
+        top: -18px;
+    }
+    .navbar-nav li::after {
+        bottom: -19px;
+    }
+    .navbar .outer-div {
+        margin-left: 60px;
+    }
+    .navbar .outer-div i {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    .navbar .outer-div .callus_outer {
+        left: 40px;
+    }
+
+    .left_icons {
+        height: 756px;
+        margin-left: 15px;
+    }
+    .left_icons ul li {
+        margin-bottom: 20px;
+    }
+    .left_icons .icon_content .topline {
+        top: 6px;
+    }
+    .left_icons .icon_content .topline img {
+        height: 240px;
+    }
+    .left_icons .icon_content .bottomline {
+        bottom: 25px;
+    }
+    .left_icons .icon_content .bottomline img {
+        height: 240px;
+    }
+
+    .banner-section-outer .banner-section {
+        padding: 100px 0 190px;
+    }
+    .banner-section-outer .banner-section .banner-section-content h1{
+        font-size: 68px;
+        line-height: 78px;
+    }
+    .banner-section-outer .banner-section .banner-section-content .banner_line_box {
+        top: 156px;
+    }
+    .banner-section-outer .banner-section .banner-section-content .banner_line_box img {
+        width: 258px;
+    }
+    .banner-section-outer .banner-section .banner_image {
+        bottom: 76px;
+    }
+    .banner-section-outer .banner-section .banner_image img {
+        width: 640px;
+    }
+
+    .about_company_section .top_shape {
+        top: -76px;
+    }
+
+    .case_studies_section .case_studies_images_wrapper .top_line {
+        right: -15px;
+    }
+
+    .choose_us_section::after {
+        right: 33px;
+    }
+
+    .questionnaire_section .questionnaire_bottom_shape {
+        bottom: 0;
+        right: 0;
+    }
+
+    .professional_team_section .professional_team_box_content .circle_shape {
+        right: -30px;
+    }
+
+    .get_in_touch_section {
+        padding: 115px 30px 105px 300px;
+    }
+    .get_in_touch_section::before {
+        width: 38%;
+    }
+    .get_in_touch_section .image_wrapper figure {
+        top: 16px;
+        left: -240px;
+    }
+    .get_in_touch_section .get_touch_content input {
+        width: 225px;
+    }
+    .get_in_touch_section .get_quote {
+        left: 20px;
+    }
+
+    .contact_map_section iframe {
+        width: -webkit-fill-available;
+    }
+
+    .cases_case_studies_section .case_studies_content .circle_shape {
+        right: -40px;
+        top: 515px;
+    }
+    .cases_case_studies_section .case_studies_content .circle_shape img{
+        width: 200px;
+    }
+
+    .aboutus_company_section .top_shape {
+        top: 0;
+    }
+}
+
+@media screen and (max-width: 1199px){
+    .main-header {
+        padding: 0 20px;
+    }
+    .main-header .navbar_background {
+        left: 95px;
+    }
+    .main-header .navbar_background img {
+        width: 795px;
+    }
+    .navbar-brand {
+        margin-right: 70px;
+    }
+    .navbar-brand figure img {
+        width: 120px;
+    }
+    .navbar-nav li {
+        margin: 0 10px;
+    }
+    .navbar-nav li::before {
+        top: -16px;
+    }
+    .navbar-nav li::after {
+        bottom: -13px;
+    }
+    .navbar .outer-div {
+        display: none;
+    }
+    .navbar-nav .dropdown-menu {
+        top: 48px;
+    }
+
+    .left_icons {
+        height: 510px;
+        margin-left: 15px;
+    }
+    .left_icons ul li {
+        margin-bottom: 15px;
+    }
+    .left_icons ul li figure {
+        font-size: 16px;
+        line-height: 40px;
+        height: 40px;
+        width: 40px;
+    }
+    .left_icons ul .li_margin {
+        margin-bottom: 15px;
+    }
+    .left_icons ul li i {
+        font-size: 16px;
+        line-height: 40px;
+        height: 40px;
+        width: 40px;
+    }
+    .left_icons .icon_content .topline {
+        left: 20px;
+    }
+    .left_icons .icon_content .topline img {
+        height: 140px;
+    }
+    .left_icons .icon_content .bottomline {
+        bottom: 20px;
+        left: 20px;
+    }
+    .left_icons .icon_content .bottomline img {
+        height: 140px;
+    }
+
+    .banner-section-outer .banner-section {
+        padding: 80px 0 100px;
+    }
+    .banner-section-outer .banner-section .banner-section-content {
+        padding-top: 0;
+    }
+    .banner-section-outer .banner-section .banner-section-content h1 {
+        font-size: 56px;
+        line-height: 74px;
+        margin-bottom: 25px;
+    }
+    .banner-section-outer .banner-section .banner-section-content .banner_line_box {
+        top: 86px;
+    }
+    .banner-section-outer .banner-section .banner-section-content .banner_line_box img {
+        width: 206px;
+    }
+    .banner-section-outer .banner-section .banner-section-content p {
+        line-height: 28px;
+        margin-bottom: 25px;
+    }
+    .default-btn {
+        padding: 25px 90px 25px 30px;
+    }
+    .banner-section-outer .banner-section-content .btn_wrapper .readmore_btn .white_arrow {
+        top: 22px;
+        right: 35px;
+    }
+    .banner-section-outer .banner-section .banner_image {
+        bottom: 56px;
+    }
+    .banner-section-outer .banner-section .banner_image img {
+        width: 500px;
+    }
+
+    h1 {
+        font-size: 60px;
+        line-height: 75px;
+    }
+
+    .about_company_section {
+        padding: 100px 0 570px;
+    }
+    .about_company_section .about_company_images {
+        z-index: 1;
+    }
+    .about_company_section .bottom_image {
+        right: -25px;
+    }
+    .about_company_section .right_shape {
+        right: 0;
+    }
+    .about_company_section .bottom_shape {
+        bottom: -25px;
+    }
+    .about_company_section .bottom_shape img {
+        width: 120px;
+    }
+    .about_company_section .box {
+        right: -25px;
+    }
+    .about_company_section .box .years {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .about_company_section .box .experience {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    h5 {
+        font-size: 20px;
+        line-height: 22px;
+    }
+    h2 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .about_company_section .about_company_content h2 {
+        margin-bottom: 18px;
+    }
+    .about_company_section .about_company_content p {
+        margin-bottom: 22px;
+    }
+    .about_company_section .about_company_content h6 {
+        margin-bottom: 18px;
+    }
+    .about_company_section .black_box {
+        padding: 40px 25px;
+        width: 48.5%;
+        top: 630px;
+    }
+    .about_company_section .black_box .btn_wrapper figure {
+        margin-left: 5px;
+    }
+    .about_company_section .black_box .images_wrapper .blackbox_image_one {
+        left: 180px;
+    }
+    .about_company_section .black_box .images_wrapper .blackbox_image_two {
+        left: 198px;
+    }
+    .about_company_section .black_box .images_wrapper .blackbox_image_three {
+        left: 220px;
+    }
+    .about_company_section .black_box .images_wrapper .blackbox_image_four {
+        left: 240px;
+    }
+    .about_company_section .black_box .review_wrapper {
+        left: 345px;
+    }
+    .about_company_section .top_shape {
+        top: -56px;
+    }
+
+    .services_section {
+        padding: 165px 0;
+    }
+    .services_section .services_wrapper {
+        margin-top: -478px;
+    }
+    .services_section .services_content h2 {
+        margin-bottom: 45px;
+    }
+    .services_section .services_box .services_box_content {
+        padding: 30px 15px 20px;
+        bottom: -65px;
+        width: 80%;
+    }
+    h3 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+    .services_section .services_box .services_box_content p {
+        margin-bottom: 18px;
+    }
+    .services_section .services_box .services_image::after {
+        width: 100%;
+        height: 402px;
+    }
+    .services_section .services_box:hover .services_image figure {
+        top: 30px;
+    }
+    .services_section .services_box:hover .services_image::after {
+        top: 30px;
+    }
+
+    .case_studies_section {
+        padding: 100px 0 135px;
+    }
+    .case_studies_section .case_studies_content h2 {
+        margin-bottom: 20px;
+    }
+    .case_studies_section .case_studies_content p {
+        margin-bottom: 20px;
+    }
+    h4 {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .case_studies_section .case_studies_content h4 {
+        margin-bottom: 35px;
+    }
+    .case_studies_section .case_studies_content .case_studies_image1 img {
+        width: 100%;
+    }
+    .case_studies_section .case_studies_content .circle_shape {
+        bottom: -75px;
+        left: -75px;
+    }
+    .case_studies_section .case_studies_content .circle_shape img{
+        width: 245px;
+    }
+    .case_studies_section .case_studies_images_wrapper .case_studies_image3 {
+        top: 330px;
+        left: -55px;
+    }
+    .case_studies_section .case_studies_images_wrapper .case_studies_image3 img {
+        width: 340px;
+    }
+    .case_studies_section .case_studies_images_wrapper .bottom_line {
+        top: 410px;
+        left: 285px;
+    }
+    .case_studies_section .case_studies_images_wrapper .top_line {
+        right: -12px;
+    }
+
+    .choose_us_section {
+        padding: 130px 0 100px;
+    }
+    .choose_us_section .choose_us_content h5 {
+        margin-bottom: 8px;
+    }
+    .choose_us_section .choose_us_content h2 {
+        margin-bottom: 30px;
+        padding-right: 30px;
+    }
+    .choose_us_section .box_wrapper1 {
+        margin-bottom: 40px;
+    }
+    .choose_us_section .box figure {
+        top: 12px;
+    }
+    .choose_us_section .box h2 {
+        margin-bottom: 5px;
+    }
+    .choose_us_section .box p {
+        padding-left: 0;
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .choose_us_section .right_box_wrapper {
+        padding-left: 100px;
+    }
+    .choose_us_section .choose_us_right_box {
+        margin-bottom: 40px;
+    }
+    .choose_us_section .choose_us_right_box .right_image_wrapper figure {
+        width: 75px;
+        height: 75px;
+        line-height: 75px;
+    }
+    .choose_us_section .choose_us_right_box .text_wrapper {
+        padding-top: 0px;
+        padding-left: 20px;
+    }
+    .choose_us_section .choose_us_right_box .text_wrapper p {
+        padding-right: 20px;
+    }
+    .choose_us_section .right_box_wrapper .get_quote {
+        right: -20px;
+        top: -85px;
+    }
+    .choose_us_section .right_box_wrapper::after {
+        top: -85px;
+        left: 0;
+        width: 500px;
+        height: 460px;
+    }
+    .choose_us_section .left_shape img{
+        width: 845px;
+    }
+    .choose_us_section::after {
+        right: 29px;
+        width: 48%;
+    }
+
+    .professional_team_section {
+        padding: 165px 0 65px;
+    }
+    .professional_team_section .professional_team_content h2 {
+        margin-bottom: 45px;
+    }
+    .professional_team_section .professional_team_box_content {
+        padding: 35px 15px;
+    }
+    .professional_team_section .professional_team_box_content .professional_team_image {
+        margin-bottom: 25px;
+    }
+    .professional_team_section .professional_team_box_content:hover .professional_image_ring {
+        left: 0;
+    }
+    .professional_team_section .professional_team_box_content p {
+        margin-bottom: 10px;
+    }
+    .professional_team_section .professional_team_box_content ul li {
+        margin-right: 5px;
+    }
+    .professional_team_section .professional_team_box_content ul li i {
+        font-size: 18px;
+        line-height: 42px;
+        height: 42px;
+        width: 42px;
+    }
+    .professional_team_section .professional_team_box_content .circle_shape {
+        right: -22px;
+        bottom: -80px;
+    }
+    .professional_team_section .professional_team_box_content .circle_shape img{
+        width: 240px;
+    }
+    .professional_team_section .professional_team_box_content:hover {
+        height: 415px;
+    }
+
+    .questionnaire_section {
+        padding: 65px 0 100px;
+    }
+    .questionnaire_section .questionnaire_content h2 {
+        margin-bottom: 30px;
+    }
+    .questionnaire_section .accordian-inner .accordion-card .btn {
+        padding: 22px 10px 18px 20px;
+    }
+    .questionnaire_section .accordian-inner .card-body {
+        padding: 5px 20px 35px 20px;
+    }
+    .questionnaire_section p {
+        padding-right: 0;
+    }
+    .questionnaire_section .questionniare-images_wrapper {
+        padding-top: 25px;
+    }
+    .questionnaire_section .questionniare-images_wrapper .questionnaire_image_shape1 {
+        top: 258px;
+        left: 0;
+    }
+    .questionnaire_section .questionniare-images_wrapper .questionnaire_image_shape2 {
+        top: 25px;
+    }
+    .questionnaire_section .questionniare-images_wrapper .questionnaire_image_shape3 {
+        top: -32px;
+        left: -75px;
+    }
+    .questionnaire_section .questionnaire_bottom_shape img{
+        width: 330px;
+    }
+
+    .get_in_touch_section {
+        padding: 130px 60px 100px 245px;
+    }
+    .get_in_touch_section::before {
+        width: 36%;
+    }
+    .get_in_touch_section .image_wrapper figure {
+        top: 96px;
+        left: -200px;
+    }
+    .get_in_touch_section .get_touch_content h5 {
+        margin-bottom: 10px;
+    }
+    .get_in_touch_section .get_touch_content h2 {
+        margin-bottom: 40px;
+    }
+    .get_in_touch_section .get_touch_content input {
+        width: 100%;
+        padding: 15px 20px;
+        margin-bottom: 30px;
+    }
+    .get_in_touch_section .get_touch_content textarea {
+        padding: 15px 20px;
+        margin-bottom: 30px;
+    }
+    .get_in_touch_section .get_touch_content button {
+        padding: 25px 80px 25px 30px;
+    }
+    .get_in_touch_section .get_touch_content .form_button_wrapper figure {
+        top: 22px;
+        right: 30px;
+    }
+    .get_in_touch_section .get_quote {
+        top: 220px;
+    }
+    .get_in_touch_section .get_quote img {
+        width: 50px;
+    }
+
+    .articles_section {
+        padding: 130px 0 55px;
+    }
+
+    .testimonial_section {
+        padding: 55px 0 100px;
+    }
+    .testimonial_section .testimonial_content h2 {
+        margin-bottom: 40px;
+    }
+    .testimonial_section .testimonial_box .testimonial_box_content {
+        padding-top: 30px;
+    }
+    .testimonial_section .testimonial_box .testimonial_box_content .text {
+        margin-bottom: 20px;
+    }
+    .testimonial_section .testimonial_box .testimonial_box_content .content_shape {
+        top: 85px;
+    }
+    #carouselExampleControls .carousel-control-prev {
+        left: -120px;
+    }
+    #carouselExampleControls .carousel-control-next {
+        right: -120px;
+    }
+
+    .footer-section {
+        padding: 100px 0 70px;
+    }
+    .footer-section .footer-links-content {
+        padding-right: 62px;
+    }
+    .footer-section .footer-links-content ul li i {
+        font-size: 22px;
+        line-height: 22px;
+        margin-right: 15px;
+    }
+    .footer-section .footer-support-content {
+        padding-left: 0;
+    }
+    .footer-section .footer-support-content h3 {
+        margin-bottom: 22px;
+    }
+    .footer-section .footer-info-content {
+        padding-left: 25px;
+    }
+    .footer-info-content input {
+        margin-bottom: 25px;
+    }
+    .footer-info-content .btn {
+        top: 56px;
+    }
+    .footer-section .footer-info-content .footer-info-content-listing a {
+        width: 42px;
+        height: 42px;
+        line-height: 42px;
+    }
+    .footer-section .footer_shape img{
+        height: 400px;
+    }
+    .footer-bar {
+        padding: 15px 0;
+    }
+    .footer-bar .footer_icon {
+        bottom: -15px;
+    }
+
+    .sub-banner-section-outer .banner-section {
+        padding: 80px 0 100px;
+    }
+    .about-banner-section .banner-section .banner-section-content figure {
+        left: 0;
+    }
+    .about-banner-section .banner-section .banner-section-content {
+        padding-left: 20px;
+    }
+    .about-banner-section .banner-section .banner-section-content figure img{
+        width: 335px;
+    }
+
+    .aboutus_company_section {
+        padding: 100px 0 140px;
+    }
+    .about_company_section .about_company_content .content_black_box {
+        padding: 52px 30px;
+        width: 75%;
+    }
+    .about_company_section .content_black_box .review_wrapper {
+        top: 30px;
+        right: 35px;
+    }
+    .aboutus_company_section .top_shape {
+        top: 0;
+    }
+
+    .aboutus_professional_team_section {
+        padding: 165px 0 100px;
+    }
+
+    .aboutus_testimonial_section {
+        padding: 130px 0 100px;
+    }
+
+    .services-banner-section .banner-section .banner-section-content {
+        padding-left: 22px;
+    }
+    .services-banner-section .banner-section .banner-section-content figure {
+        left: 0;
+    }
+    .services-banner-section .banner-section .banner-section-content figure img{
+        width: 320px;
+    }
+
+    .business_turn_bond_communicate_section {
+        padding: 100px 0;
+    }
+    .business_turn_bond_communicate_images {
+        padding: 20px 10px;
+        height: 382px;
+        width: 460px;
+    }
+    .business_turn_bond_communicate_images .main_image {
+        right: -70px;
+    }
+    .business_turn_bond_communicate_images .main_image img {
+        width: 515px;
+    }
+    .business_turn_bond_communicate_images .bottom_shape {
+        bottom: -75px;
+        left: -40px;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content {
+        padding-left: 65px;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content h2 {
+        padding-right: 70px;
+        line-height: 42px;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content p {
+        margin-bottom: 22px;
+        line-height: 22px;
+    }
+    .business_turn_bond_communicate_section .second_part_outer {
+        padding-top: 120px;
+    }
+    .business_turn_bond_communicate_section .second_part_outer .business_turn_bond_communicate_content h2 {
+        padding-right: 140px;
+    }
+    .business_turn_bond_communicate_section .second_part_outer .business_turn_bond_communicate_content p {
+        padding-right: 60px;
+    }
+    .business_turn_bond_communicate_section .second_part_outer .business_turn_padding {
+        padding-left: 0;
+    }
+    .second_part_outer .business_turn_bond_communicate_images .main_image {
+        left: -70px;
+    }
+    .second_part_outer .business_turn_bond_communicate_images .bottom_shape {
+        right: -45px;
+    }
+    .second_part_outer .business_turn_bond_communicate_images .bottom_shape img{
+        width: 130px;
+    }
+    .business_turn_bond_communicate_section .right_top_shape img{
+        width: 200px;
+    }
+    .business_turn_bond_communicate_section .left_bottom_shape img{
+        width: 160px;
+    }
+
+    .bond_communicate_section {
+        padding: 100px 0;
+    }
+
+    .contact-banner-section .banner-section .banner-section-content {
+        padding-left: 35px;
+    }
+    .contact-banner-section .banner-section .banner-section-content figure {
+        left: 0;
+    }
+    .contact-banner-section .banner-section .banner-section-content figure img{
+        width: 450px;
+    }
+
+    .contact_detail_section {
+        padding: 90px 0 100px;
+    }
+    .contact_detail_section .contact_detail_content h2 {
+        margin-bottom: 65px;
+    }
+    .contact_detail_section .contact_detail_box_content {
+        padding: 60px 10px;
+    }
+    .contact_detail_section .box {
+        padding: 60px 10px 75px;
+    }
+    .contact_detail_section .social_box {
+        padding: 60px 10px 62px;
+    }
+    .contact_detail_section .contact_detail_box_content ul li i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    .contact_detail_section .contact_detail_box_content ul li figure {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    .contact_map_section iframe {
+        height: 470px;
+    }
+
+    .contact_form_section {
+        padding: 80px 0 100px;
+    }
+    .contact_form_section .contact_form_content h2 {
+        margin-bottom: 25px;
+    }
+    .contact_form_section input {
+        height: 50px;
+        padding: 12px 20px;
+        margin-bottom: 18px;
+    }
+    .contact_form_section .form-group i {
+        font-size: 20px;
+        line-height: 20px;
+        top: 15px;
+        right: 22px;
+    }
+    .contact_form_section textarea {
+        padding: 18px 20px;
+        height: 170px;
+        margin-bottom: 20px;
+    }
+    .contact_form_section button {
+        padding: 25px 95px 25px 32px;
+    }
+    .contact_form_section .form_button_wrapper figure {
+        right: 40px;
+    }
+
+    .blog-banner-section .banner-section .banner-section-content {
+        padding-left: 40px;
+    }
+    .blog-banner-section .banner-section .banner-section-content figure {
+        left: 0;
+    }
+    .blog-banner-section .banner-section .banner-section-content figure img {
+        width: 255px;
+    }
+
+    .case-banner-section .banner-section .banner-section-content {
+        padding-left: 40px;
+    }
+    .case-banner-section .banner-section .banner-section-content figure {
+        left: 0;
+    }
+    .case-banner-section .banner-section .banner-section-content figure img{
+        width: 270px;
+    }
+
+    .insurance_consultancy_section {
+        padding: 100px 0 92px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper {
+        margin-bottom: 40px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper .insurance_consultancy_image_shape3 {
+        top: -70px;
+        left: -60px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper .insurance_consultancy_image_shape3 img {
+        width: 210px;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper {
+        margin-bottom: 35px;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper .consulting_economy_wrapper .consulting_economy {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper ul {
+        margin-top: -15px;
+        margin-right: 0;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper ul li i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    .insurance_consultancy_section p {
+        margin-bottom: 25px;
+        padding-left: 0;
+    }
+    .insurance_consultancy_section .last_p {
+        margin-bottom: 30px;
+    }
+    .insurance_consultancy_section .bottom_content_wrapper {
+        padding-top: 80px;
+    }
+    .insurance_consultancy_section .bottom_content_wrapper .insurance_consultancy_left_images_wrapper {
+        width: 90%;
+        padding-top: 30px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_left_images_wrapper .insurance_consultancy_left_image_shape1 {
+        top: 30px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_left_images_wrapper .insurance_consultancy_left_image_shape3 {
+        top: -30px;
+        right: -55px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_left_images_wrapper .insurance_consultancy_left_image_shape3 img {
+        width: 140px;
+    }
+    .insurance_consultancy_section .top_shape img{
+        width: 690px;
+    }
+    .insurance_consultancy_section .bottom_shape {
+        bottom: 0;
+    }
+    .insurance_consultancy_section .bottom_shape img {
+        width: 350px;
+    }
+
+    .cases_case_studies_section {
+        padding: 100px 0;
+    }
+    .cases_case_studies_section .case_studies_images_wrapper .case_studies_image3 {
+        right: -60px;
+        left: unset;
+    }
+    .cases_case_studies_section .case_studies_images_wrapper .bottom_line {
+        left: 0;
+        top: 410px;
+    }
+    .cases_case_studies_section .case_studies_images_wrapper .bottom_line img{
+        width: 240px;
+    }
+    .cases_case_studies_section .case_studies_images_wrapper .top_line {
+        right: unset;
+        left: -15px;
+    }
+    .cases_case_studies_section .bottom_shape img {
+        width: 870px;
+    }
+    .cases_case_studies_section .case_studies_content .circle_shape{
+        display: none;
+    }
+
+    .financial_consultancy_section {
+        padding: 120px 0 100px;
+    }
+    .financial_consultancy_section .financial_consultancy_content h2 {
+        line-height: 42px;
+    }
+    .financial_consultancy_section .financial_consultancy_box {
+        padding: 30px 30px 55px;
+    }
+    .financial_consultancy_section .financial_consultancy_box .financial_consulting_economy_wrapper {
+        margin-bottom: 15px;
+    }
+    .financial_consultancy_section .financial_consultancy_box .financial_consulting_economy_wrapper .financial_consulting_economy {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .financial_consultancy_section .financial_consultancy_box p {
+        line-height: 26px;
+    }
+    .financial_consultancy_section .financial_consultancy_box .btn_wrapper a {
+        padding: 25px 85px 25px 25px;
+    }
+    .financial_consultancy_section .financial_consultancy_box .btn_wrapper a .white_arrow {
+        top: 22px;
+        right: 32px;
+    }
+    .financial_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape1 {
+        top: 248px;
+        left: 0;
+    }
+    .financial_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape3 {
+        top: -35px;
+        left: -45px;
+    }
+    .financial_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape3 img {
+        width: 120px;
+    }
+
+    .business_consultancy_section {
+        padding: 135px 0;
+    }
+    .business_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape1 {
+        right: 0;
+        left: unset;
+    }
+    .business_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape3 {
+        right: -45px;
+        left: unset;
+    }
+
+    .insurance_consultancy {
+        padding: 170px 0 100px;
+    }
+}
+
+@media screen and (max-width: 991px){
+    .main-header .navbar_background {
+        display: none;
+    }
+    .navbar-collapse {
+        background: var(--e-global-color-white);
+        position: absolute;
+        right: 0;
+        width: 35%;
+        top: 70px;
+        z-index: 16;
+        padding: 0;
+        box-shadow: 0px 11px 54px 0px rgb(0 0 0 / 5%);
+    }
+    .navbar-toggler {
+        margin-left: auto;
+        border: none !important;
+        padding: 0;
+        width: 30px;
+        height: 22px;
+    }
+    .navbar-light .navbar-toggler-icon {
+        background: var(--e-global-color-white);
+        height: 2px;
+        margin: 7px 0 0 0;
+        width: 100%;
+        float: right;
+    }
+    .navbar-toggler.collapsed span:nth-child(1) {
+        transform: rotate(0deg);
+    }
+    .navbar-toggler span.navbar-toggler-icon:first-child {
+        margin-top: 0;
+    }
+    .navbar-toggler span:nth-child(1) {
+        transform: rotate(45deg);
+        transform-origin: 0% 80%;
+    }
+    .navbar-toggler span.navbar-toggler-icon {
+        transition: all 0.15s;
+    }
+    .navbar-toggler.collapsed span:nth-child(2) {
+        opacity: 1;
+    }
+    .navbar-toggler span:nth-child(2) {
+        opacity: 0;
+    }
+    .navbar-toggler.collapsed span:nth-child(3) {
+        transform: rotate(0deg);
+    }
+    .navbar-toggler span:nth-child(3) {
+        transform: rotate(-45deg);
+        transform-origin: 15% 100%;
+    }
+    .collapse:not(.show) {
+        display: none;
+    }
+    .navbar-collapse ul{
+        align-items: unset;
+        text-align: unset;
+        margin-left: 0;
+    }
+    button:focus {
+        outline: none;
+    }
+    .navbar-nav li:last-child {
+        margin-left: 0;
+    }
+    .navbar li {
+        margin: 0;
+    }
+    .navbar-nav .nav-item a {
+        padding: 12px 20px !important;
+        color: var(--e-global-color-text) !important;
+    }
+    .navbar-nav .active > a {
+        background-color: var(--e-global-color-accent);
+        color: var(--e-global-color-white) !important;
+    }
+    .navbar-nav .active > a:hover{
+        background-color: var(--e-global-color-accent);
+        color: var(--e-global-color-white) !important;
+    }
+    .navbar-nav .drop-down-pages .nav-item a {
+        padding: 12px 30px !important;
+    }
+    .navbar-nav .dropdown-menu {
+        position: static;
+        border: none;
+        margin-top: 2px;
+    }
+    .navbar-collapse .drop-down-pages {
+        margin-left: 0;
+    }
+    .navbar-nav .drop-down-pages a {
+        padding: 0 !important;
+    }
+    .navbar {
+        padding: 15px 0;
+    }
+    .navbar-brand {
+        margin-right: 0;
+        padding-top: 0;
+    }
+    .navbar-brand figure img {
+        width: 130px;
+    }
+    .navbar-nav li::before{
+        display: none;
+    }
+    .navbar-nav li:hover::before{
+        display: none;
+    }
+    .navbar-nav li::after{
+        display: none;
+    }
+    .navbar-nav li:hover::after{
+        display: none;
+    }
+    .navbar-nav > .active::before {
+        display: none;
+    }
+    .navbar-nav > .active::after {
+        display: none;
+    }
+
+    .left_icons {
+        display: none !important;
+    }
+
+    .banner-section-outer .banner-section {
+        padding: 40px 0 70px;
+        text-align: center;
+    }
+    .banner-section-outer .banner-section .banner-section-content {
+        margin-bottom: 50px;
+    }
+    .banner-section-outer .banner-section .banner-section-content h1 {
+        font-size: 50px;
+        line-height: 66px;
+        margin-bottom: 20px;
+    }
+    .banner-section-outer .banner-section .banner-section-content .banner_line_box {
+        top: 73px;
+        right: 0;
+        left: 0;
+    }
+    .banner-section-outer .banner-section .banner-section-content p {
+        margin-bottom: 20px;
+    }
+    .default-btn {
+        padding: 20px 75px 20px 20px;
+    }
+    .banner-section-outer .banner-section-content .btn_wrapper .readmore_btn .white_arrow {
+        top: 20px;
+        right: 25px;
+    }
+    .banner-section-outer .banner-section .banner_image {
+        bottom: 35px;
+        position: relative;
+        right: -39px;
+    }
+    .banner-section-outer .banner-section .banner_image img {
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 50px;
+        line-height: 65px;
+    }
+
+    .about_company_section {
+        padding: 70px 0 665px;
+    }
+    .about_company_section .about_company_images {
+        text-align: center;
+    }
+    .about_company_section .bottom_image {
+        right: 10px;
+        bottom: -110px;
+    }
+    .about_company_section .bottom_image img {
+        width: 300px;
+    }
+    .about_company_section .right_shape {
+        right: 105px;
+    }
+    .about_company_section .bottom_shape {
+        bottom: -30px;
+        left: 130px;
+    }
+    .about_company_section .bottom_shape img {
+        width: 100%;
+    }
+    .about_company_section .box {
+        right: 20px;
+        top: 220px;
+        width: 25%;
+    }
+    .about_company_section .box .years {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .about_company_section .box .experience {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .about_company_section .about_company_content {
+        padding-left: 0;
+        padding-top: 185px;
+        text-align: center;
+    }
+    .about_company_section .about_company_content .zero_one {
+        top: 150px;
+        left: 0;
+        right: 0;
+    }
+    h5 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .about_company_section .about_company_content h2 {
+        margin-bottom: 15px;
+        padding: 0 70px;
+    }
+    h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .about_company_section .about_company_content p {
+        margin-bottom: 15px;
+    }
+    .about_company_section .about_company_content h6 {
+        margin-bottom: 15px;
+    }
+    h6 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .about_company_section .black_box {
+        padding: 35px 60px;
+        width: 95%;
+        top: 1120px;
+    }
+    .about_company_section .black_box .btn_wrapper figure {
+        margin-left: 8px;
+    }
+    .about_company_section .black_box .images_wrapper .blackbox_image_one {
+        left: 230px;
+    }
+    .about_company_section .black_box .images_wrapper .blackbox_image_two {
+        left: 245px;
+    }
+    .about_company_section .black_box .images_wrapper .blackbox_image_three {
+        left: 265px;
+    }
+    .about_company_section .black_box .images_wrapper .blackbox_image_four {
+        left: 285px;
+    }
+    .about_company_section .black_box .review_wrapper {
+        left: 475px;
+    }
+    .about_company_section .black_box .review_wrapper ul li i {
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .about_company_section .top_shape {
+        top: -105px;
+        z-index: -1;
+    }
+
+    .services_section {
+        padding: 30px 0;
+    }
+    .services_section .services_box {
+        margin-bottom: 100px;
+    }
+    .services_section .services_box .services_box_content {
+        padding: 20px 35px 20px;
+        bottom: 40px;
+        width: 80%;
+    }
+    h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .services_section .services_box .services_box_content i {
+        font-size: 16px;
+        line-height: 36px;
+        height: 40px;
+        width: 40px;
+    }
+    .services_section .services_shape{
+        display: none;
+    }
+    .services_section .services_box:hover .services_image figure {
+        position: relative;
+        top: 60px;
+    }
+    .services_section .services_box:hover .services_image::after {
+        width: 92%;
+        height: 416px;
+        top: 60px;
+    }
+
+    .case_studies_section {
+        padding: 100px 0 130px;
+    }
+    .case_studies_section .case_studies_content {
+        padding-top: 0;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .case_studies_section .case_studies_content .zero_three {
+        top: -30px;
+        left: 0;
+        right: 0;
+    }
+    .case_studies_section .case_studies_content h2 {
+        margin-bottom: 18px;
+    }
+    .case_studies_section .case_studies_content p {
+        margin-bottom: 15px;
+    }
+    h4 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .case_studies_section .case_studies_content h4 {
+        margin-bottom: 30px;
+    }
+    .case_studies_section .case_studies_content .circle_shape {
+        display: none;
+    }
+    .case_studies_section .case_studies_images_wrapper .case_studies_image2 {
+        float: unset;
+        text-align: center;
+    }
+    .case_studies_section .case_studies_images_wrapper .case_studies_image3 {
+        top: 350px;
+        left: -20px;
+    }
+    .case_studies_section .case_studies_images_wrapper .case_studies_image3 img {
+        width: 280px;
+    }
+    .case_studies_section .case_studies_images_wrapper .bottom_line {
+        top: unset;
+        left: 275px;
+        bottom: -35px;
+    }
+    .case_studies_section .case_studies_images_wrapper .top_line {
+        right: 10px;
+    }
+
+    .choose_us_section {
+        padding: 100px 0 85px;
+    }
+    .choose_us_section .choose_us_content {
+        text-align: center;
+    }
+    .choose_us_section .choose_us_content h2 {
+        padding-right: 0;
+    }
+    .choose_us_section .right_box_wrapper .get_quote {
+        right: 75px;
+        top: 92px;
+    }
+    .choose_us_section .box figure {
+        top: 10px;
+        left: 75px;
+    }
+    .choose_us_section .box .box_content {
+        padding-left: 90px;
+        text-align: left;
+    }
+    .choose_us_section .right_box_wrapper {
+        padding-left: 100px;
+        padding-top: 145px;
+    }
+    .choose_us_section .choose_us_right_box .right_image_wrapper {
+        width: 15%;
+    }
+    .choose_us_section .choose_us_right_box .text_wrapper {
+        width: 85%;
+    }
+    .choose_us_section .choose_us_right_box .text_wrapper p {
+        padding-right: 160px;
+    }
+    .choose_us_section .left_shape img {
+        width: 770px;
+    }    
+    .choose_us_section .right_box_wrapper::after {
+        top: 92px;
+        left: 65px;
+        width: 500px;
+        height: 410px;
+    }
+    .choose_us_section::after {
+        right: 46px;
+        width: 100%;
+        height: 49%;
+        top: 480px;
+    }
+
+    .professional_team_section {
+        padding: 140px 0 30px;
+    }
+    .professional_team_section .professional_team_box_content {
+        padding: 30px 20px;
+        margin-bottom: 30px;
+    }
+    .professional_team_section .professional_team_box_content .professional_team_image {
+        margin-bottom: 20px;
+    }
+    p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .professional_team_section .professional_team_box_content ul li i {
+        font-size: 16px;
+        line-height: 38px;
+        height: 38px;
+        width: 38px;
+    }
+    .professional_team_section .professional_team_box_content .circle_shape {
+        display: none;
+    }
+    .professional_team_section .professional_team_box_content:hover .professional_image_ring {
+        top: 30px;
+    }
+    .professional_team_section .professional_team_box_content:hover {
+        height: 390px;
+    }
+    .professional_team_section .professional_team_box_content:hover .professional_team_box_content_wrapper {
+        bottom: 30px;
+    }
+
+    .questionnaire_section {
+        padding: 40px 0 70px;
+    }
+    .questionnaire_section .questionnaire_content {
+        text-align: center;
+    }
+    .questionnaire_section .questionnaire_content .zero_six {
+        top: -32px;
+        left: 0;
+        right: 0;
+    }
+    .questionnaire_section .questionnaire_content h2 {
+        padding-right: 0;
+    }
+    .questionnaire_section .about-service-section-text{
+        margin-bottom: 65px;
+    }
+    .questionnaire_section .accordian-inner .accordion-card .btn {
+        padding: 18px 40px;
+    }
+    .questionnaire_section .accordion-card .btn-link:before {
+        right: 35px;
+        top: 18px;
+    }
+    .questionnaire_section .accordian-inner .card-body {
+        padding: 5px 40px 35px;
+    }
+    .questionnaire_section p {
+        padding-right: 75px;
+    }
+    .questionnaire_section .questionniare-images_wrapper {
+        padding-top: 0;
+    }
+    .questionnaire_section .questionniare-images_wrapper .questionniare-image {
+        float: unset !important;
+    }
+    .questionnaire_section .questionniare-images_wrapper .questionniare-image img {
+        width: 100%;
+    }
+    .questionnaire_section .questionniare-images_wrapper .questionnaire_image_shape1 {
+        top: unset;
+        bottom: 0;
+    }
+    .questionnaire_section .questionniare-images_wrapper .questionnaire_image_shape2 {
+        top: 0;
+    }
+    .questionnaire_section .questionniare-images_wrapper .questionnaire_image_shape3 {
+        top: -50px;
+        left: -40px;
+    }
+    .questionnaire_section .questionniare-images_wrapper .questionnaire_image_shape3 img {
+        width: 135px;
+    }
+    .questionnaire_section .questionnaire_bottom_shape img {
+        width: 250px;
+    }
+
+    .get_in_touch_section {
+        padding: 95px 15px 70px 15px;
+    }
+    .get_in_touch_section::before {
+        width: 100%;
+        top: 730px;
+        height: 53%;
+    }
+    .get_in_touch_section .image_wrapper figure {
+        top: 72px;
+        left: 0;
+        text-align: center;
+        position: relative !important;
+    }
+    .get_in_touch_section .get_touch_content {
+        text-align: center;
+    }
+    .get_in_touch_section .get_touch_content .zero_seven {
+        top: -25px;
+        left: 0;
+        right: 0;
+    }
+    .get_in_touch_section .right_shape {
+        bottom: unset;
+        top: 235px;
+    }
+    .get_in_touch_section .get_quote {
+        top: unset;
+        bottom: 250px;
+    }
+    .get_in_touch_section .get_quote img {
+        width: 100%;
+    }
+
+    .articles_section {
+        padding: 100px 0 30px;
+    }
+
+    .testimonial_section {
+        padding: 30px 0 70px;
+    }
+    .testimonial_section .testimonial_content h2 {
+        margin-bottom: 35px;
+    }
+    .testimonial_section .testimonial_box .testimonial_box_content {
+        padding-top: 45px;
+    }
+    .testimonial_section .testimonial_box .testimonial_box_content .apostrophy {
+        margin-bottom: 20px;
+    }
+    .testimonial_section .testimonial_box .testimonial_box_content .text {
+        margin-bottom: 10px;
+        padding-right: 10px;
+    }
+    #carouselExampleControls .carousel-control-prev {
+        left: -90px;
+    }
+    #carouselExampleControls .carousel-control-next {
+        right: -90px;
+    }
+
+    .footer-section {
+        padding: 65px 0 45px;
+    }
+    .footer-section .footer-links-content {
+        padding-right: 110px;
+    }
+    .footer-section .footer-links-content h3 {
+        margin-bottom: 18px;
+    }
+    .footer-section .footer-links-content ul li {
+        margin-bottom: 12px;
+    }
+    .footer-section .footer-links-content ul li i {
+        font-size: 20px;
+        line-height: 20px;
+        margin-right: 12px;
+    }
+    .footer-section .footer-links-content ul .mail {
+        margin-bottom: 18px;
+    }
+    .footer-section .footer-support-content h3 {
+        margin-bottom: 18px;
+    }
+    .footer-section .footer_shape img {
+        height: 335px;
+    }
+
+    .sub-banner-section-outer .banner-section {
+        padding: 40px 0 70px;
+    }
+    .sub-banner-section-outer .banner-section .btn_wrapper {
+        padding: 12px 25px;
+    }
+    .sub-banner-section-outer .banner-section i {
+        margin: 0 6px;
+    }
+    .about-banner-section .banner-section .banner-section-content figure img {
+        width: 290px;
+    }
+    .sub-banner-section-outer .banner-section .banner-section-content {
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .aboutus_company_section {
+        padding: 70px 0;
+    }
+    .about_company_section .about_company_images {
+        z-index: 0;
+    }
+    .about_company_section .about_company_content .content_black_box {
+        padding: 50px 25px;
+        width: 45%;
+    }
+    .aboutus_company_section .top_shape {
+        top: 0;
+    }
+
+    .aboutus_professional_team_section {
+        padding: 140px 0 40px;
+    }
+
+    .aboutus_testimonial_section {
+        padding: 105px 0 70px;
+    }
+
+    .services-banner-section .banner-section .banner-section-content figure img {
+        width: 275px;
+    }
+
+    .business_turn_bond_communicate_section {
+        padding: 70px 0 60px;
+    }
+    .business_turn_bond_communicate_images {
+        padding: 10px 10px;
+        height: 304px;
+        width: 325px;
+        margin-top: 35px;
+    }
+    .business_turn_bond_communicate_images .main_image {
+        right: -48px;
+        top: 35px;
+    }
+    .business_turn_bond_communicate_images .main_image img {
+        width: 360px;
+    }
+    .business_turn_bond_communicate_images .bottom_shape {
+        bottom: -70px;
+        left: -38px;
+    }
+    .business_turn_bond_communicate_images .bottom_shape img {
+        width: 115px;
+    }
+    .business_turn_bond_communicate_images .top_shape {
+        right: 40px;
+    }
+    .business_turn_bond_communicate_images .top_shape img {
+        width: 45px;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content {
+        padding-left: 30px;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content .zero_one {
+        left: 25px;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content h2 {
+        padding-right: 10px;
+        line-height: 40px;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content p {
+        margin-bottom: 20px;
+    }
+    .business_turn_bond_communicate_section .second_part_outer {
+        padding-top: 100px;
+    }
+    .business_turn_bond_communicate_section .second_part_outer .business_turn_bond_communicate_content h2 {
+        padding-right: 20px;
+    }
+    .business_turn_bond_communicate_section .second_part_outer .business_turn_bond_communicate_content p {
+        padding-right: 25px;
+    }
+    .second_part_outer .business_turn_bond_communicate_images .main_image {
+        left: -48px;
+    }
+    .second_part_outer .business_turn_bond_communicate_images .bottom_shape {
+        right: -40px;
+        bottom: -60px;
+    }
+    .second_part_outer .business_turn_bond_communicate_images .bottom_shape img {
+        width: 115px;
+    }
+    .second_part_outer .business_turn_bond_communicate_images .top_shape {
+        left: 40px;
+    }
+    .business_turn_bond_communicate_section .right_top_shape img {
+        width: 160px;
+    }    
+    .business_turn_bond_communicate_section .left_bottom_shape img {
+        width: 120px;
+    }
+
+    .bond_communicate_section {
+        padding: 70px 0 60px;
+    }
+
+    .contact-banner-section .banner-section .banner-section-content figure img {
+        width: 380px;
+    }
+
+    .contact_detail_section {
+        padding: 60px 0 10px;
+    }
+    .contact_detail_section .contact_detail_content h2 {
+        margin-bottom: 60px;
+    }
+    .contact_detail_section .contact_detail_box_content {
+        padding: 55px 10px;
+        margin-bottom: 60px;
+    }
+    .contact_detail_section .contact_detail_box_content .figure_wrapper {
+        height: 60px;
+        width: 60px;
+        line-height: 60px;
+        top: -30px;
+    }
+    .contact_detail_section .box {
+        padding: 55px 10px 75px;
+    }
+    .contact_detail_section .box h4 {
+        margin-bottom: 15px;
+    }
+    .contact_detail_section .social_box {
+        padding: 55px 10px 60px;
+    }
+    .contact_detail_section .social_box h4 {
+        margin-bottom: 15px;
+    }
+
+    .contact_map_section iframe {
+        height: 400px;
+    }
+
+    .contact_form_section {
+        padding: 50px 0 70px;
+    }
+    .contact_form_section .contact_form_content h2 {
+        margin-bottom: 20px;
+    }
+    .contact_form_section input {
+        height: 48px;
+        margin-bottom: 15px;
+    }
+    .contact_form_section .form-group i {
+        font-size: 18px;
+        line-height: 18px;
+        top: 12px;
+        right: 20px;
+    }
+    .contact_form_section textarea {
+        height: 150px;
+        margin-bottom: 15px;
+    }
+    .contact_form_section button {
+        padding: 22px 90px 22px 30px;
+    }
+    .contact_form_section .form_button_wrapper figure {
+        right: 35px;
+        top: 18px;
+    }
+
+    .blog-banner-section .banner-section .banner-section-content figure {
+        top: -8px;
+    }
+    .blog-banner-section .banner-section .banner-section-content figure img {
+        width: 205px;
+    }
+
+    .case-banner-section .banner-section .banner-section-content figure img {
+        width: 230px;
+    }
+
+    .insurance_consultancy_section {
+        padding: 70px 0 62px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper {
+        margin-bottom: 30px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper .insurance_consultancy_image {
+        border: 25px solid #f4f4f4;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper .insurance_consultancy_image_shape1 img {
+        width: 270px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper .insurance_consultancy_image_shape2 img {
+        width: 270px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper .insurance_consultancy_image_shape3 {
+        top: -45px;
+        left: -45px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper .insurance_consultancy_image_shape3 img {
+        width: 160px;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper {
+        margin-bottom: 25px;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper .consulting_economy_wrapper .consulting_economy {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper .consulting_economy_wrapper .slash {
+        margin-left: 2px;
+        margin-right: 2px;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper ul {
+        margin-top: -10px;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper ul li {
+        margin-right: 5px;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper ul li i {
+        width: 36px;
+        height: 36px;
+        line-height: 36px;
+        font-size: 16px;
+    }
+    .insurance_consultancy_section p {
+        margin-bottom: 20px;
+        line-height: 30px;
+    }
+    .insurance_consultancy_section .last_p {
+        margin-bottom: 25px;
+    }
+    .insurance_consultancy_section .bottom_content_wrapper {
+        padding-top: 60px;
+    }
+    .insurance_consultancy_section .bottom_content_wrapper .insurance_consultancy_left_images_wrapper {
+        width: 100%;
+        padding-top: 0;
+        margin-bottom: 35px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_left_images_wrapper .insurance_consultancy_left_image_shape1 {
+        top: 0;
+    }
+    .insurance_consultancy_section .insurance_consultancy_left_images_wrapper .insurance_consultancy_left_image_shape3 {
+        top: -40px;
+        right: -35px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_left_images_wrapper .insurance_consultancy_left_image_shape3 img {
+        width: 135px;
+    }
+    .insurance_consultancy_section .top_shape {
+        display: none;
+    }
+    .insurance_consultancy_section .bottom_shape img {
+        width: 320px;
+    }
+
+    .cases_case_studies_section {
+        padding: 70px 0;
+    }
+    .cases_case_studies_section .case_studies_images_wrapper{
+        margin-bottom: 115px;
+    }
+    .cases_case_studies_section .case_studies_images_wrapper .case_studies_image3 {
+        right: -30px;
+        left: unset;
+    }
+    .cases_case_studies_section .case_studies_images_wrapper .bottom_line {
+        left: 110px;
+    }
+    .cases_case_studies_section .case_studies_images_wrapper .bottom_line img {
+        width: 100%;
+    }
+    .cases_case_studies_section .case_studies_images_wrapper .top_line {
+        right: unset;
+        left: 10px;
+    }
+    .cases_case_studies_section .case_studies_content .case_studies_image1 {
+        float: unset;
+        text-align: center;
+    }
+    .cases_case_studies_section .case_studies_content{
+        margin-bottom: 0;
+    }
+
+    .financial_consultancy_section {
+        padding: 90px 0 70px;
+    }
+    .financial_consultancy_section .financial_consultancy_wrapper {
+        margin-bottom: 35px;
+    }
+    .financial_consultancy_section .financial_consultancy_content h2 {
+        line-height: 40px;
+        padding-right: 415px;
+    }
+    .financial_consultancy_section .financial_consultancy_box {
+        padding: 25px 25px 45px;
+        margin-bottom: 100px;
+    }
+    .financial_consultancy_section .financial_consultancy_box .financial_consulting_economy_wrapper {
+        margin-bottom: 10px;
+    }
+    .financial_consultancy_section .financial_consultancy_box .financial_consulting_economy_wrapper .financial_consulting_economy {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .financial_consultancy_section .financial_consultancy_box .financial_consulting_economy_wrapper .slash {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .financial_consultancy_section .financial_consultancy_box .btn_wrapper {
+        bottom: -30px;
+        left: 25px;
+    }
+    .financial_consultancy_section .financial_consultancy_box .btn_wrapper a {
+        padding: 22px 75px 22px 20px;
+    }
+    .financial_consultancy_section .financial_consultancy_box .btn_wrapper a .white_arrow {
+        top: 20px;
+        right: 25px;
+    }
+    .financial_consultancy_section .financial_consulting-images_wrapper {
+        padding-top: 0;
+    }
+    .financial_consultancy_section .financial_consulting-images_wrapper .financial_consulting-image {
+        float: unset !important;
+    }
+    .financial_consultancy_section .financial_consulting-images_wrapper .financial_consulting-image img {
+        width: 100%;
+    }
+    .financial_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape1 {
+        top: unset;
+        bottom: 0;
+    }
+    .financial_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape2 {
+        top: 0;
+    }
+    .financial_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape3 {
+        top: -45px;
+    }
+
+    .business_consultancy_section {
+        padding: 115px 0 98px;
+    }
+    .business_consultancy_section .financial_consulting-images_wrapper {
+        margin-bottom: 60px;
+    }
+    .business_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape3 {
+        right: -35px;
+    }
+    .business_consultancy_section .financial_consultancy_box {
+        margin-bottom: 0;
+    }
+
+    .insurance_consultancy {
+        padding: 125px 0 70px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .navbar-collapse {
+        width: 50%;
+    }
+    .navbar-brand figure img {
+        width: 120px;
+    }
+    .navbar-nav .nav-item a {
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .banner-section-outer .banner-section {
+        padding: 30px 0 60px;
+    }
+    .banner-section-outer .banner-section .banner-section-content {
+        margin-bottom: 35px;
+    }
+    .banner-section-outer .banner-section .banner-section-content h1 {
+        font-size: 36px;
+        line-height: 50px;
+        margin-bottom: 15px;
+    }
+    .banner-section-outer .banner-section .banner-section-content .banner_line_box {
+        top: 52px;
+    }
+    .banner-section-outer .banner-section .banner-section-content .banner_line_box img {
+        width: 170px;
+    }
+    .banner-section-outer .banner-section .banner-section-content p {
+        margin-bottom: 18px;
+        line-height: 24px;
+    }
+    .default-btn {
+        padding: 18px 65px 18px 15px;
+    }
+    .banner-section-outer .banner-section-content .btn_wrapper .readmore_btn .white_arrow {
+        top: 18px;
+        right: 16px;
+    }
+    .banner-section-outer .banner-section .banner_image {
+        bottom: 22px;
+        right: -32px;
+    }
+
+    h1 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+
+    .about_company_section {
+        padding: 60px 0 642px;
+    }
+    .about_company_section .main_image img {
+        width: 350px;
+    }
+    .about_company_section .bottom_image {
+        right: -20px;
+        bottom: -130px;
+    }
+    .about_company_section .right_shape {
+        right: 60px;
+    }
+    .about_company_section .bottom_shape {
+        bottom: -25px;
+        left: 80px;
+    }
+    .about_company_section .bottom_shape img {
+        width: 160px;
+    }
+    .about_company_section .box {
+        right: -20px;
+        top: 180px;
+        width: 30%;
+        padding: 15px 0;
+    }
+    .about_company_section .box .years {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .about_company_section .box .experience {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .about_company_section .about_company_content .zero_one {
+        top: 162px;
+    }
+    h5 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .about_company_section .about_company_content h2 {
+        margin-bottom: 10px;
+        padding: 0;
+    }
+    h2 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .text-size-16 {
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+    }
+    .about_company_section .about_company_content p {
+        margin-bottom: 10px;
+    }
+    .about_company_section .about_company_content h6 {
+        margin-bottom: 10px;
+    }
+    h6 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .about_company_section .black_box {
+        padding: 30px 30px;
+        width: 95%;
+        top: 1010px;
+    }
+    a {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .about_company_section .black_box .btn_wrapper figure {
+        margin-left: 5px;
+    }
+    .about_company_section .black_box .images_wrapper .blackbox_image_one {
+        left: 190px;
+    }
+    .about_company_section .black_box .images_wrapper .blackbox_image_two {
+        left: 210px;
+    }
+    .about_company_section .black_box .images_wrapper .blackbox_image_three {
+        left: 230px;
+    }
+    .about_company_section .black_box .images_wrapper .blackbox_image_four {
+        left: 250px;
+    }
+    .about_company_section .black_box .review_wrapper {
+        left: 380px;
+        top: 18px;
+    }
+    .about_company_section .top_shape {
+        top: -82px;
+    }
+
+    .services_section {
+        padding: 20px 0;
+    }
+    .services_section .services_wrapper {
+        margin-top: -468px;
+    }
+    .services_section .services_box .services_box_content {
+        padding: 20px 10px 20px;
+    }
+    h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .services_section .services_box .services_box_content p {
+        margin-bottom: 15px;
+    }
+    .services_section .services_box .services_box_content i {
+        font-size: 14px;
+        line-height: 35px;
+        height: 38px;
+        width: 38px;
+    }
+    .services_section .services_box .services_image::after {
+        width: 100%;
+        height: 340px;
+    }
+    .services_section .services_box:hover .services_image::after {
+        width: 89%;
+        height: 303px;
+    }
+
+    .case_studies_section {
+        padding: 90px 0 140px;
+    }
+    .case_studies_section .case_studies_content p {
+        margin-bottom: 10px;
+    }
+    .case_studies_section .case_studies_content h4 {
+        margin-bottom: 25px;
+    }
+    h4 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .case_studies_section .case_studies_images_wrapper .case_studies_image2 img {
+        width: 430px;
+    }
+    .case_studies_section .case_studies_images_wrapper .case_studies_image3 {
+        top: 240px;
+        left: -25px;
+    }
+    .case_studies_section .case_studies_images_wrapper .case_studies_image3 img {
+        width: 250px;
+    }
+    .case_studies_section .case_studies_images_wrapper .bottom_line {
+        left: 230px;
+        bottom: -25px;
+    }
+    .case_studies_section .case_studies_images_wrapper .bottom_line img{
+        width: 250px;
+    }
+    .case_studies_section .case_studies_images_wrapper .top_line {
+        right: 20px;
+    }
+    .case_studies_section .case_studies_images_wrapper .top_line img{
+        width: 4px;
+    }
+
+    .choose_us_section {
+        padding: 90px 0 85px;
+    }
+    .choose_us_section .box_wrapper1 {
+        margin-bottom: 22px;
+    }
+    .choose_us_section .box figure {
+        left: 20px;
+    }
+    .choose_us_section .box .box_content {
+        padding-left: 40px;
+    }
+    .choose_us_section .box h2 {
+        margin-bottom: 5px;
+    }
+    .choose_us_section .box p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .choose_us_section .right_box_wrapper {
+        padding-left: 10px;
+        padding-top: 125px;
+    }
+    .choose_us_section .choose_us_right_box .text_wrapper {
+        padding-left: 15px;
+    }
+    .choose_us_section .choose_us_right_box .text_wrapper p {
+        padding-right: 70px;
+    }
+    .choose_us_section .right_box_wrapper .get_quote {
+        right: 0;
+        top: 95px;
+    }
+    .choose_us_section .right_box_wrapper::after {
+        top: 95px;
+        left: -15px;
+        width: 475px;
+        height: 400px;
+    }
+    .choose_us_section::after {
+        right: 35px;
+        height: 51.3%;
+        top: 408px;
+    }
+    .choose_us_section .left_shape img {
+        width: 575px;
+    }
+
+    .professional_team_section {
+        padding: 90px 0 20px;
+    }
+    .professional_team_section .professional_team_box_content .professional_team_image {
+        margin-bottom: 18px;
+    }
+    .professional_team_section .professional_team_box_content p {
+        margin-bottom: 8px;
+    }
+    p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .professional_team_section .professional_team_box_content ul li i {
+        font-size: 14px;
+        line-height: 34px;
+        height: 34px;
+        width: 34px;
+    }
+    .professional_team_section .professional_team_box_content:hover .professional_image_ring {
+        top: 35px;
+    }
+    .professional_team_section .professional_team_box_content:hover .professional_image_ring img{
+        width: 195px;
+    }
+    .professional_team_section .professional_team_box_content:hover {
+        height: 368px;
+    }
+    .professional_team_section .professional_team_box_content:hover .professional_team_box_content_wrapper {
+        bottom: 35px;
+    }
+
+    .questionnaire_section {
+        padding: 40px 0 60px;
+    }
+    .questionnaire_section .questionnaire_content h2 {
+        margin-bottom: 20px;
+    }
+    .questionnaire_section .questionnaire_bottom_shape img {
+        width: 180px;
+    }
+    .questionnaire_section .questionniare-images_wrapper .questionnaire_image_shape3 {
+        top: -45px;
+        left: -35px;
+    }
+    .questionnaire_section .questionniare-images_wrapper .questionnaire_image_shape3 img {
+        width: 115px;
+    }
+    .questionnaire_section .accordian-inner .accordion-card .btn {
+        padding: 15px 30px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .questionnaire_section .accordian-inner .card-body {
+        padding: 5px 30px 25px;
+    }
+    .questionnaire_section p {
+        padding-right: 65px;
+    }
+    .questionnaire_section .accordion-card .btn-link:before {
+        right: 30px;
+        top: 15px;
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .get_in_touch_section {
+        padding: 73px 15px 60px 15px;
+    }
+    .get_in_touch_section::before {
+        top: 615px;
+        height: 51.2%;
+    }
+    .get_in_touch_section .image_wrapper figure {
+        top: 60px;
+    }
+    .get_in_touch_section .get_touch_content .zero_seven {
+        top: -15px;
+    }
+    .get_in_touch_section .get_touch_content .zero_seven img {
+        width: 130px;
+    }
+    .get_in_touch_section .get_touch_content h5 {
+        margin-bottom: 8px;
+    }
+    .get_in_touch_section .get_touch_content h2 {
+        margin-bottom: 30px;
+    }
+    .get_in_touch_section .get_touch_content input {
+        padding: 15px 15px;
+        margin-bottom: 22px;
+    }
+    .get_in_touch_section .get_touch_content textarea {
+        padding: 15px 15px;
+        margin-bottom: 25px;
+        height: 160px;
+    }
+    .get_in_touch_section .get_touch_content button {
+        padding: 20px 70px 20px 25px;
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .get_in_touch_section .get_touch_content .form_button_wrapper figure {
+        top: 16px;
+        right: 20px;
+    }
+    .get_in_touch_section .top_line {
+        top: 85px;
+    }
+    .get_in_touch_section .bottom_line {
+        bottom: 85px;
+    }
+    .get_in_touch_section .right_shape {
+        top: 230px;
+    }
+    .get_in_touch_section .get_quote {
+        bottom: 145px;
+    }
+    .get_in_touch_section .get_quote img {
+        width: 60px;
+    }
+
+    .articles_section {
+        padding: 90px 0 20px;
+    }
+
+    .testimonial_section {
+        padding: 20px 0 92px;
+    }
+    .testimonial_section .testimonial_content .zero_nine {
+        top: -20px;
+    }
+    .testimonial_section .testimonial_content .zero_nine img {
+        width: 120px;
+    }
+    .testimonial_section .testimonial_content h2 {
+        margin-bottom: 30px;
+    }
+    .testimonial_section .testimonial_box .testimonial_box_content {
+        padding-top: 25px;
+    }
+    .testimonial_section .testimonial_box .testimonial_box_content .apostrophy {
+        margin-bottom: 15px;
+    }
+    .testimonial_section .testimonial_box .testimonial_box_content .text {
+        padding-right: 0;
+    }
+    .testimonial_section .testimonial_box .testimonial_box_content ul {
+        right: 20px;
+    }
+    #carouselExampleControls .carousel-control-prev {
+        left: 0;
+        top: unset;
+        bottom: -45px;
+        right: 0;
+        margin: 0 auto;
+    }
+    #carouselExampleControls .carousel-control-next {
+        right: -140px;
+        bottom: -45px;
+        top: unset;
+        left: 0;
+        margin: 0 auto;
+    }
+
+    .footer-section {
+        padding: 55px 0 35px;
+    }
+    .footer-section .footer-links-content {
+        padding-right: 22px;
+    }
+    .footer-section .footer-links-content h3 {
+        margin-bottom: 16px;
+    }
+    .footer-section .footer-links-content ul li {
+        margin-bottom: 10px;
+    }
+    .footer-section .footer-links-content ul li i {
+        font-size: 16px;
+        line-height: 16px;
+        margin-right: 10px;
+    }
+    .footer-section .footer-links-content ul .mail {
+        margin-bottom: 15px;
+    }
+    .footer-section .footer-support-content h3 {
+        margin-bottom: 16px;
+    }
+    .footer-bar .footer_icon img {
+        width: 150px;
+    }
+    .footer-section .footer_shape img {
+        height: 310px;
+    }
+    
+    .sub-banner-section-outer .banner-section {
+        padding: 35px 0 60px;
+    }
+    .sub-banner-section-outer .banner-section .btn_wrapper {
+        padding: 10px 18px;
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .sub-banner-section-outer .banner-section i {
+        margin: 0 5px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+
+    .about-banner-section .banner-section .banner-section-content figure img {
+        width: 245px;
+    }
+
+    .aboutus_company_section {
+        padding: 60px 0;
+    }
+    .about_company_section .about_company_content .margin_bottom {
+        margin-bottom: 30px;
+    }
+    .about_company_section .about_company_content .content_black_box {
+        padding: 45px 20px;
+        width: 55%;
+    }
+    .about_company_section .content_black_box .images_wrapper .blackbox_image_two {
+        left: 20px;
+    }
+    .about_company_section .content_black_box .images_wrapper .blackbox_image_three {
+        left: 40px;
+    }
+    .about_company_section .content_black_box .images_wrapper .blackbox_image_four {
+        left: 60px;
+    }
+    .about_company_section .content_black_box .review_wrapper {
+        top: 25px;
+        right: 30px;
+    }
+    .about_company_section .content_black_box .review_wrapper ul li i {
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .aboutus_company_section .top_shape {
+        top: 0;
+    }
+    
+    .aboutus_professional_team_section {
+        padding: 90px 0 30px;
+    }
+
+    .aboutus_testimonial_section {
+        padding: 80px 0 92px;
+    }
+
+    .services-banner-section .banner-section .banner-section-content figure {
+        top: -10px;
+    }
+    .services-banner-section .banner-section .banner-section-content figure img {
+        width: 225px;
+    }
+
+    .business_turn_bond_communicate_section {
+        padding: 60px 0;
+    }
+    .business_turn_bond_communicate_images {
+        width: 75%;
+        margin: 0 auto 75px;
+    }
+    .business_turn_bond_communicate_images .main_image {
+        right: -48px;
+        top: 15px;
+    }
+    .business_turn_bond_communicate_images .main_image img {
+        width: 420px;
+    }
+    .business_turn_bond_communicate_images .bottom_shape {
+        bottom: -55px;
+        left: -30px;
+    }
+    .business_turn_bond_communicate_images .bottom_shape img {
+        width: 100px;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content {
+        padding-left: 0;
+        padding-top: 0;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content .zero_one {
+        left: 0;
+        top: 0;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content .zero_one img{
+        width: 100px;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content h2 {
+        padding-right: 235px;
+        line-height: 38px;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content p {
+        margin-bottom: 15px;
+        padding-right: 20px;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content ul li {
+        font-size: 14px;
+        line-height: 14px;
+        margin-bottom: 12px;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content ul li i {
+        font-size: 16px;
+        line-height: 16px;
+        height: 16px;
+        width: 16px;
+        padding: 0px 4px;
+        margin-right: 12px;
+    }
+    .business_turn_bond_communicate_section .second_part_outer {
+        padding-top: 50px;
+    }
+    .business_turn_bond_communicate_section .second_part_outer .business_turn_bond_communicate_content {
+        margin-bottom: 30px;
+    }
+    .business_turn_bond_communicate_section .second_part_outer .business_turn_bond_communicate_content h2 {
+        padding-right: 220px;
+    }
+    .business_turn_bond_communicate_section .second_part_outer .business_turn_bond_communicate_content p {
+        padding-right: 20px;
+    }
+    .business_turn_bond_communicate_section .second_part_outer .business_turn_bond_communicate_content .zero_one {
+        left: 0;
+    }
+    .business_turn_bond_communicate_section .second_part_outer .business_turn_padding .business_turn_bond_communicate_images{
+        margin-bottom: 0;
+    }
+    .second_part_outer .business_turn_bond_communicate_images .bottom_shape {
+        right: -40px;
+        bottom: -50px;
+    }
+    .second_part_outer .business_turn_bond_communicate_images .bottom_shape img {
+        width: 100px;
+    }
+    .business_turn_bond_communicate_section .right_top_shape img {
+        width: 110px;
+    }
+    .business_turn_bond_communicate_section .left_bottom_shape img {
+        width: 115px;
+    }
+
+    .bond_communicate_section {
+        padding: 60px 0;
+    }
+
+    .contact-banner-section .banner-section .banner-section-content figure img {
+        width: 310px;
+    }
+    .contact-banner-section .banner-section .banner-section-content figure {
+        z-index: 0;
+    }
+
+    .contact_detail_section {
+        padding: 50px 0 10px;
+    }
+    .contact_detail_section .contact_detail_content h2 {
+        margin-bottom: 50px;
+    }
+    .contact_detail_section .contact_detail_box_content {
+        margin-bottom: 50px;
+    }
+    .contact_detail_section .social_box {
+        padding: 55px 10px 58px;
+    }
+
+    .contact_map_section iframe {
+        height: 340px;
+    }
+
+    .contact_form_section {
+        padding: 40px 0 60px;
+    }
+    .contact_form_section .contact_form_content h2 {
+        margin-bottom: 15px;
+    }
+    .contact_form_section input {
+        height: 45px;
+        font-size: 12px;
+        line-height: 14px;
+        padding: 10px 15px;
+    }
+    .contact_form_section .form-group i {
+        font-size: 16px;
+        line-height: 16px;
+        top: 15px;
+        right: 25px;
+    }
+    .contact_form_section textarea {
+        height: 130px;
+        margin-bottom: 10px;
+        font-size: 12px;
+        line-height: 14px;
+        padding: 15px 15px;
+    }
+    .contact_form_section button {
+        padding: 20px 85px 20px 25px;
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .contact_form_section .form_button_wrapper figure {
+        right: 32px;
+        top: 15px;
+    }
+
+    .blog-banner-section .banner-section .banner-section-content figure {
+        top: -10px;
+    }
+    .blog-banner-section .banner-section .banner-section-content figure img {
+        width: 180px;
+    }
+
+    .case-banner-section .banner-section .banner-section-content figure {
+        top: -10px;
+    }
+    .case-banner-section .banner-section .banner-section-content figure img {
+        width: 190px;
+    }
+
+    .insurance_consultancy_section {
+        padding: 60px 0 52px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper {
+        margin-bottom: 20px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper .insurance_consultancy_image {
+        border: 20px solid #f4f4f4;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper .insurance_consultancy_image_shape1 img {
+        width: 185px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper .insurance_consultancy_image_shape2 img {
+        width: 185px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper .insurance_consultancy_image_shape3 {
+        display: none;
+    }
+    .insurance_consultancy_section h2 {
+        margin-bottom: 3px;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper {
+        margin-bottom: 20px;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper .consulting_economy_wrapper .consulting_economy {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper .consulting_economy_wrapper .slash {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper ul {
+        margin-top: -5px;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper ul li i {
+        width: 32px;
+        height: 32px;
+        line-height: 32px;
+        font-size: 14px;
+    }
+    .insurance_consultancy_section p {
+        margin-bottom: 10px;
+        line-height: 26px;
+    }
+    .insurance_consultancy_section .last_p {
+        margin-bottom: 20px;
+    }
+    .insurance_consultancy_section .bottom_content_wrapper {
+        padding-top: 40px;
+    }
+    .insurance_consultancy_section .bottom_content_wrapper .insurance_consultancy_left_images_wrapper {
+        margin-bottom: 30px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_left_images_wrapper .insurance_consultancy_left_image_shape3 {
+        display: none;
+    }
+    .insurance_consultancy_section .bottom_shape img {
+        width: 215px;
+    }
+
+    .cases_case_studies_section {
+        padding: 60px 0;
+    }
+    .cases_case_studies_section .case_studies_images_wrapper .case_studies_image3 {
+        right: -25px;
+        left: unset;
+    }
+    .cases_case_studies_section .case_studies_images_wrapper .bottom_line {
+        left: 30px;
+    }
+    .cases_case_studies_section .case_studies_images_wrapper .top_line {
+        right: unset;
+        left: 20px;
+    }
+    .cases_case_studies_section .case_studies_images_wrapper {
+        margin-bottom: 140px;
+    }
+
+    .financial_consultancy_section {
+        padding: 80px 0 60px;
+    }
+    .financial_consultancy_section .financial_consultancy_wrapper {
+        margin-bottom: 30px;
+    }
+    .financial_consultancy_section .financial_consultancy_content h2 {
+        line-height: 38px;
+        padding-right: 250px;
+    }
+    .financial_consultancy_section .financial_consultancy_wrapper ul {
+        bottom: 0;
+    }
+    .financial_consultancy_section .financial_consultancy_wrapper ul li {
+        margin-right: 5px;
+    }
+    .financial_consultancy_section .financial_consultancy_wrapper ul li i {
+        font-size: 14px;
+        width: 32px;
+        height: 32px;
+        line-height: 32px;
+    }
+    .financial_consultancy_section .financial_consultancy_box {
+        padding: 20px 20px 40px;
+        margin-bottom: 90px;
+    }
+    .financial_consultancy_section .financial_consultancy_box .financial_consulting_economy_wrapper {
+        margin-bottom: 5px;
+    }
+    .financial_consultancy_section .financial_consultancy_box .financial_consulting_economy_wrapper .financial_consulting_economy {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .financial_consultancy_section .financial_consultancy_box p {
+        line-height: 24px;
+    }
+    .financial_consultancy_section .financial_consultancy_box .btn_wrapper {
+        left: 20px;
+    }
+    .financial_consultancy_section .financial_consultancy_box .btn_wrapper a {
+        padding: 20px 70px 20px 18px;
+    }
+    .financial_consultancy_section .financial_consultancy_box .btn_wrapper a .white_arrow {
+        top: 18px;
+        right: 20px;
+    }
+    .financial_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape3 {
+        top: -35px;
+        left: -35px;
+    }
+    .financial_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape3 img {
+        width: 105px;
+    }
+
+    .business_consultancy_section {
+        padding: 92px 0 88px;
+    }
+    .business_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape3 {
+        right: -30px;
+        left: unset;
+    }
+    .business_consultancy_section .financial_consultancy_box {
+        margin-bottom: 0;
+    }
+
+    .insurance_consultancy {
+        padding: 75px 0 60px;
+    }
+}
+
+ @media screen and (max-width: 575px){
+    .main-header {
+        padding: 0;
+    }
+    .navbar-brand figure img {
+        width: 115px;
+    }
+    .navbar-collapse {
+        width: 70%;
+        top: 65px;
+    }
+
+    .banner-section-outer .banner-section {
+        padding: 30px 0 50px;
+    }
+    .banner-section-outer .banner-section .banner-section-content {
+        margin-bottom: 35px;
+    }
+    .banner-section-outer .banner-section .banner-section-content h1 {
+        font-size: 32px;
+        line-height: 42px;
+        margin-bottom: 12px;
+    }
+    .banner-section-outer .banner-section .banner-section-content .banner_line_box {
+        top: 47px;
+        left: unset;
+        right: 14px;
+    }
+    .banner-section-outer .banner-section .banner-section-content .banner_line_box img {
+        width: 128px;
+    }
+    .banner-section-outer .banner-section .banner-section-content p {
+        margin-bottom: 15px;
+    }
+    .banner-section-outer .banner-section .banner_image {
+        bottom: 17px;
+        right: -15px;
+    }
+
+    h1 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+
+    .about_company_section {
+        padding: 10px 0 620px;
+    }
+    .about_company_section .main_image img {
+        width: 240px;
+    }
+    .about_company_section .bottom_image {
+        right: 0;
+        bottom: -95px;
+    }
+    .about_company_section .bottom_image img {
+        width: 215px;
+    }
+    .about_company_section .right_shape {
+        right: 30px;
+    }
+    .about_company_section .right_shape img{
+        width: 3px;
+    }
+    .about_company_section .bottom_shape {
+        bottom: -22px;
+        left: 45px;
+    }
+    .about_company_section .bottom_shape img {
+        width: 65px;
+    }
+    .about_company_section .box {
+        right: 0;
+        top: 120px;
+        width: 35%;
+        padding: 10px 0;
+    }
+    .about_company_section .box .years {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .about_company_section .box .experience {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .about_company_section .about_company_content {
+        padding-top: 140px;
+    }
+    .about_company_section .about_company_content .zero_one {
+        top: 120px;
+    }
+    .about_company_section .about_company_content .zero_one img{
+        width: 100px;
+    }
+    h2 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .about_company_section .black_box {
+        padding: 25px 15px;
+        width: 100%;
+        top: 860px;
+    }
+    .about_company_section .black_box .images_wrapper {
+        display: none;
+    }
+    .about_company_section .black_box .review_wrapper {
+        left: 220px;
+        top: 15px;
+    }
+    .about_company_section .top_shape {
+        top: -67px;
+    }
+    
+    .services_section .services_wrapper {
+        margin-top: -482px;
+    }
+    .services_section .services_content .zero_two {
+        top: -20px;
+    }
+    .services_section .services_content .zero_two img{
+        width: 115px;
+    }
+    .services_section .services_content h2 {
+        margin-bottom: 30px;
+    }
+
+    h3 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .services_section .services_box .services_box_content p {
+        margin-bottom: 12px;
+    }
+    .services_section .services_box:hover .services_image::after {
+        width: 91%;
+        height: 416px;
+    }
+    
+    .case_studies_section {
+        padding: 75px 0 140px;
+    }
+    .case_studies_section .case_studies_content .zero_three {
+        top: -15px;
+    }
+    .case_studies_section .case_studies_content .zero_three img{
+        width: 100px;
+    }
+    .case_studies_section .case_studies_content h2 {
+        margin-bottom: 12px;
+    }
+    .case_studies_section .case_studies_content h4 {
+        margin-bottom: 20px;
+    }
+    h4 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .case_studies_section .case_studies_images_wrapper .case_studies_image2 img {
+        width: 270px;
+    }
+    .case_studies_section .case_studies_images_wrapper .case_studies_image3 {
+        top: 155px;
+        left: 0;
+    }
+    .case_studies_section .case_studies_images_wrapper .case_studies_image3 img {
+        width: 190px;
+    }
+    .case_studies_section .case_studies_images_wrapper .bottom_line {
+        left: 195px;
+        bottom: -22px;
+    }
+    .case_studies_section .case_studies_images_wrapper .bottom_line img {
+        width: 100px;
+    }
+    .case_studies_section .case_studies_images_wrapper .top_line {
+        right: 15px;
+    }
+    .case_studies_section .case_studies_images_wrapper .top_line img {
+        width: 2px;
+    }
+
+    .choose_us_section {
+        padding: 70px 0 45px;
+    }
+    .choose_us_section .choose_us_content .zero_four {
+        top: -15px;
+    }
+    .choose_us_section .choose_us_content .zero_four img{
+        width: 100px;
+    }
+    .choose_us_section .choose_us_content h2 {
+        margin-bottom: 10px;
+    }
+    .choose_us_section .box_wrapper1 {
+        margin-bottom: 20px;
+    }
+    .choose_us_section .box figure {
+        left: 8px;
+    }
+    .choose_us_section .box figure img {
+        width: 2px;
+    }
+    .choose_us_section .box .box_content {
+        padding-left: 20px;
+    }
+    .choose_us_section .right_box_wrapper {
+        padding-left: 0;
+    }
+    .choose_us_section .choose_us_right_box .right_image_wrapper {
+        width: 20%;
+    }
+    .choose_us_section .choose_us_right_box .right_image_wrapper figure {
+        width: 60px;
+        height: 60px;
+        line-height: 58px;
+    }
+    .choose_us_section .choose_us_right_box .right_image_wrapper figure img {
+        width: 35px;
+    }
+    .choose_us_section .choose_us_right_box .text_wrapper {
+        padding-left: 5px;
+        width: 80%;
+    }
+    .choose_us_section .choose_us_right_box .text_wrapper p {
+        padding-right: 0;
+    }
+    .choose_us_section .right_box_wrapper::after {
+        top: 95px;
+        left: -8px;
+        width: 345px;
+        height: 350px;
+        border-radius: 10px;
+    }
+    .choose_us_section::after {
+        height: 48%;
+        right: 22px;
+    }
+    .choose_us_section .right_box_wrapper .get_quote {
+        display: none;
+    }
+
+    .professional_team_section {
+        padding: 70px 0 20px;
+    }
+    .professional_team_section .professional_team_box_content:hover {
+        height: 376px;
+    }
+    .professional_team_section .professional_team_content .zero_five {
+        top: -12px;
+    }
+    .professional_team_section .professional_team_content .zero_five img {
+        width: 100px;
+    }
+    .professional_team_section .professional_team_content h2 {
+        margin-bottom: 30px;
+    }
+    .professional_team_section .professional_team_box_content:hover .professional_image_ring {
+        top: 15px;
+    }
+
+    .questionnaire_section {
+        padding: 25px 0 60px;
+    }
+    .questionnaire_section .questionnaire_content .zero_six {
+        top: -12px;
+    }
+    .questionnaire_section .questionnaire_content .zero_six  img{
+        width: 100px;
+    }
+    .questionnaire_section .questionnaire_content h2 {
+        margin-bottom: 15px;
+    }
+    .questionnaire_section .accordian-inner .accordion-card .btn {
+        padding: 12px 20px;
+    }
+    .questionnaire_section .accordion-card .btn-link:before {
+        right: 15px;
+    }
+    .questionnaire_section .accordian-inner .card-body {
+        padding: 5px 20px 20px;
+    }
+    .questionnaire_section p {
+        padding-right: 0;
+    }
+    .questionnaire_section .about-service-section-text {
+        margin-bottom: 40px;
+    }
+    .questionnaire_section .questionniare-images_wrapper .questionnaire_image_shape3 {
+        top: -25px;
+        left: -25px;
+    }
+    .questionnaire_section .questionniare-images_wrapper .questionnaire_image_shape3 img {
+        width: 85px;
+    }
+
+    .get_in_touch_section::before {
+        top: 672px;
+        height: 35.8%;
+    }
+    .get_in_touch_section .get_touch_content input {
+        padding: 12px 15px;
+        margin-bottom: 18px;
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .get_in_touch_section .get_touch_content textarea {
+        padding: 12px 15px;
+        margin-bottom: 20px;
+        height: 140px;
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .get_in_touch_section .get_touch_content button {
+        padding: 18px 65px 18px 22px;
+    }
+    .get_in_touch_section .get_touch_content .form_button_wrapper figure {
+        top: 12px;
+        right: 15px;
+    }
+    .get_in_touch_section .bottom_line {
+        bottom: 50px;
+    }
+    .get_in_touch_section .right_shape {
+        top: 432px;
+    }
+    .get_in_touch_section .get_quote {
+        bottom: 120px;
+    }
+    .get_in_touch_section .get_quote img {
+        width: 30px;
+    }
+
+    .articles_section {
+        padding: 70px 0 20px;
+    }
+
+    .testimonial_section {
+        padding: 20px 0 98px;
+    }
+    .testimonial_section .testimonial_content .zero_nine img{
+        width: 100px;
+    }
+    .testimonial_section .testimonial_content h2 {
+        margin-bottom: 20px;
+    }
+    .testimonial_section .testimonial_box {
+        border-left: 0;
+    }
+    .testimonial_section .testimonial_box .left_image {
+        text-align: center;
+    }
+    .testimonial_section .testimonial_box .testimonial_box_content {
+        text-align: center;
+        padding: 20px 15px 45px;
+    }
+    .testimonial_section .testimonial_box .testimonial_box_content ul {
+        right: 0;
+        left: 0;
+        bottom: 20px;
+    }
+    #carouselExampleControls .carousel-control-prev {
+        left: -60px;
+        bottom: -50px;
+    }
+    #carouselExampleControls .carousel-control-next {
+        right: -70px;
+        bottom: -50px;
+    }
+
+    .footer-section .footer-support-content {
+        text-align: center;
+    }
+    .footer-bar p {
+        font-size: 12px;
+        line-height: 12px;
+        float: unset;
+        text-align: center;
+    }
+    .footer-bar .footer_icon {
+        display: none;
+    }
+
+    .sub-banner-section-outer .banner-section .banner-section-content h1 {
+        z-index: 0;
+    }
+    .about-banner-section .banner-section .banner-section-content figure {
+        z-index: 0;
+    }
+    .about-banner-section .banner-section .banner-section-content figure {
+        top: -8px;
+    }
+    .about-banner-section .banner-section .banner-section-content figure img {
+        width: 190px;
+    }
+
+    .aboutus_company_section {
+        padding: 60px 0;
+    }
+    .about_company_section .about_company_content .margin_bottom {
+        margin-bottom: 20px;
+    }
+    .about_company_section .about_company_content .content_black_box {
+        padding: 42px 25px;
+        width: 100%;
+    }
+    .about_company_section .content_black_box .review_wrapper {
+        top: 20px;
+        right: 35px;
+    }
+    .aboutus_company_section .top_shape {
+        top: 0;
+    }
+
+    .aboutus_professional_team_section {
+        padding: 70px 0 30px;
+    }
+
+    .aboutus_testimonial_section {
+        padding: 80px 0 96px;
+    }
+
+    .services-banner-section .banner-section .banner-section-content figure {
+        top: -6px;
+        z-index: 0;
+    }
+    .services-banner-section .banner-section .banner-section-content figure img {
+        width: 170px;
+    }
+
+    .business_turn_bond_communicate_images {
+        margin: 0 auto 50px;
+        height: 190px;
+    }
+    .business_turn_bond_communicate_images .main_image {
+        right: -20px;
+        top: 15px;
+    }
+    .business_turn_bond_communicate_images .main_image img {
+        width: 250px;
+    }
+    .business_turn_bond_communicate_images .bottom_shape {
+        bottom: -35px;
+        left: -25px;
+    }
+    .business_turn_bond_communicate_images .bottom_shape img {
+        width: 60px;
+    }
+    .business_turn_bond_communicate_images .top_shape {
+        right: 25px;
+    }
+    .business_turn_bond_communicate_images .top_shape img {
+        width: 25px;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content .zero_one img {
+        width: 85px;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content h2 {
+        padding-right: 115px;
+        line-height: 32px;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content p {
+        margin-bottom: 12px;
+        padding-right: 0;
+    }
+    .business_turn_bond_communicate_section .business_turn_bond_communicate_content ul li i {
+        font-size: 14px;
+        line-height: 14px;
+        height: 14px;
+        width: 14px;
+        padding: 0px 3px;
+    }
+    .business_turn_bond_communicate_section .second_part_outer {
+        padding-top: 20px;
+    }
+    .business_turn_bond_communicate_section .second_part_outer .business_turn_bond_communicate_content h2 {
+        padding-right: 110px;
+    }
+    .business_turn_bond_communicate_section .second_part_outer .business_turn_bond_communicate_content p {
+        padding-right: 0;
+    }
+    .second_part_outer .business_turn_bond_communicate_images .main_image {
+        left: -25px;
+    }
+    .second_part_outer .business_turn_bond_communicate_images .bottom_shape {
+        right: -25px;
+        bottom: -35px;
+    }
+    .second_part_outer .business_turn_bond_communicate_images .bottom_shape img {
+        width: 60px;
+    }
+    .second_part_outer .business_turn_bond_communicate_images .top_shape {
+        left: 25px;
+    }
+    .business_turn_bond_communicate_section .right_top_shape {
+        display: none;
+    }
+    .business_turn_bond_communicate_section .left_bottom_shape {
+        display: none;
+    }
+
+    .contact-banner-section .banner-section .banner-section-content figure {
+        top: -8px;
+    }
+    .contact-banner-section .banner-section .banner-section-content figure img {
+        width: 240px;
+    }
+
+    .contact_detail_section .contact_detail_box_content {
+        padding: 50px 70px;
+    }
+    .contact_detail_section .contact_detail_box_content .figure_wrapper {
+        height: 55px;
+        width: 55px;
+        line-height: 55px;
+    }
+    .contact_detail_section .contact_detail_box_content::after {
+        bottom: 30px;
+    }
+    .contact_detail_section .box {
+        padding: 50px 70px;
+    }
+    .contact_detail_section .box h4 {
+        margin-bottom: 10px;
+    }
+    .contact_detail_section .social_box {
+        padding: 50px 70px;
+    }
+    .contact_detail_section .social_box h4 {
+        margin-bottom: 10px;
+    }
+    .contact_detail_section .contact_detail_box_content ul li i {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+    .contact_detail_section .contact_detail_box_content ul li figure {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    .contact_map_section iframe {
+        height: 300px;
+    }
+
+    .contact_form_section input {
+        height: 42px;
+    }
+    .contact_form_section .form-group i {
+        top: 12px;
+        right: 20px;
+    }
+    .contact_form_section button {
+        padding: 15px 75px 15px 20px;
+    }
+    .contact_form_section .form_button_wrapper figure {
+        right: 25px;
+        top: 10px;
+    }
+    
+    .blog-banner-section .banner-section .banner-section-content figure {
+        z-index: 0;
+    }
+    .blog-banner-section .banner-section .banner-section-content figure img {
+        width: 150px;
+    }
+
+    .case-banner-section .banner-section .banner-section-content figure {
+        z-index: 0;
+    }
+    .case-banner-section .banner-section .banner-section-content figure img {
+        width: 155px;
+    }
+
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper {
+        margin-bottom: 15px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper .insurance_consultancy_image {
+        border: 15px solid #f4f4f4;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper .insurance_consultancy_image_shape1 img {
+        width: 100px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_images_wrapper .insurance_consultancy_image_shape2 img {
+        width: 100px;
+    }
+    .insurance_consultancy_section h2 {
+        margin-bottom: 10px;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper {
+        margin-bottom: 15px;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper ul li {
+        margin-right: 2px;
+    }
+    .insurance_consultancy_section .consulting_economy_social_icons_wrapper ul li i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 12px;
+    }
+    .insurance_consultancy_section .bottom_content_wrapper {
+        padding-top: 30px;
+    }
+    .insurance_consultancy_section .bottom_content_wrapper .insurance_consultancy_left_images_wrapper {
+        margin-bottom: 20px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_left_images_wrapper .insurance_consultancy_left_image_shape1 img {
+        width: 135px;
+    }
+    .insurance_consultancy_section .insurance_consultancy_left_images_wrapper .insurance_consultancy_left_image_shape2 img {
+        width: 135px;
+    }
+    .insurance_consultancy_section .bottom_shape img {
+        width: 200px;
+    }
+
+    .cases_case_studies_section {
+        padding: 60px 0;
+    }
+    .cases_case_studies_section .case_studies_images_wrapper {
+        margin-bottom: 120px;
+    }
+    .cases_case_studies_section .case_studies_images_wrapper .case_studies_image3 {
+        right: 0;
+        left: unset;
+    }
+    .cases_case_studies_section .case_studies_images_wrapper .bottom_line {
+        left: 30px;
+    }
+
+    .financial_consultancy_section {
+        padding: 70px 0 60px;
+    }
+    .financial_consultancy_section .financial_consultancy_wrapper {
+        margin-bottom: 25px;
+    }
+    .financial_consultancy_section .financial_consultancy_content .zero_two {
+        top: -10px;
+        left: -10px;
+    }
+    .financial_consultancy_section .financial_consultancy_content .zero_two img {
+        width: 120px;
+    }
+    .financial_consultancy_section .financial_consultancy_content h2 {
+        line-height: 32px;
+        padding-right: 130px;
+    }
+    .financial_consultancy_section .financial_consultancy_box {
+        margin-bottom: 80px;
+    }
+    .financial_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape1 img {
+        width: 145px;
+    }
+    .financial_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape2 img {
+        width: 145px;
+    }
+    .financial_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape3 {
+        top: -30px;
+        left: -25px;
+    }
+    .financial_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape3 img {
+        width: 80px;
+    }
+
+    .business_consultancy_section {
+        padding: 90px 0 88px;
+    }
+    .business_consultancy_section .financial_consulting-images_wrapper .financial_consulting_image_shape3 {
+        right: -10px;
+        left: unset;
+    }
+    .business_consultancy_section .financial_consulting-images_wrapper {
+        margin-bottom: 40px;
+    }
+    .business_consultancy_section .financial_consultancy_box {
+        margin-bottom: 0;
+    }
+
+    .insurance_consultancy {
+        padding: 68px 0 60px;
+    }
+}

@@ -1,0 +1,383 @@
+{% extends 'base.html' %}
+{% load i18n %}
+{% load static %}
+
+{% block content %}
+<body>
+<div class="sub-banner-section-outer about-banner-section position-relative">
+    {% include 'menu.html' %}
+    <!-- SUB BANNER SECTION -->
+    <section class="banner-section position-relative">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="banner-section-content position-relative" data-aos="fade-up">
+                        <h1>{% trans 'About Us' %}</h1>
+                        <div class="btn_wrapper">
+                            <span>{% trans 'Home' %} </span><i class="fa-solid fa-angles-right" aria-hidden="true"></i><span class="sub_span"> {% trans 'About Us' %}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <figure class="sub_banner_shape top_bottom_shape mb-0 position-absolute">
+        <img src="{% static 'images/about_banner_background_shape.png' %}" alt="" class="img-fluid">
+    </figure>
+</div>
+<!-- ABOUT OUR COMPANY SECTION -->
+<section class="about_company_section aboutus_company_section position-relative">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                <div class="about_company_images position-relative">
+                    <figure class="mb-0 main_image">
+                        <img src="{% static 'images/about us main.png' %}" alt="" class="img-fluid">
+                    </figure>
+                    <figure class="mb-0 bottom_image">
+                        <img src="{% static 'images/about us second.png' %}" alt="" class="img-fluid">
+                    </figure>
+                    <figure class="mb-0 right_shape">
+                        <img src="{% static 'images/about_company_shape1.png' %}" alt="" class="img-fluid">
+                    </figure>
+                    <figure class="mb-0 bottom_shape">
+                        <img src="{% static 'images/about_company_shape2.png' %}" alt="" class="img-fluid">
+                    </figure>
+                    <div class="box position-absolute">
+                        <span class="years">+</span>
+                        <span class="counter years number">5</span>
+                        <span class="years">{% trans 'Years' %}</span>
+                        <span class="experience d-block">{% trans 'Of Experience' %}</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12 d-flex align-items-center">
+                <div class="about_company_content" data-aos="fade-right">
+                    <figure class="mb-0 zero_one">
+                        <img src="{% static 'images/01.png' %}" alt="" class="img-fluid">
+                    </figure>
+                    <h5>{% trans 'About Our Company' %}</h5>
+                    <h2>{% trans 'Professional And Dedicated Consulting Services' %}</h2>
+                    <p class="text-size-16">{% trans "Our website, created in 2024, is designed for foreigners who have visited Turkey and want to stay for a long time. It will also be a great help for those who want to delve deeper into Turkey's rich culture." %}</p>
+                    <h6>{% trans '“Above all, we believe that real change is possible and that tomorrow doesn’t have to be like today”' %}</h6>
+                    <p class="text-size-16 margin_bottom">{% trans 'Here you will find useful adaptation tips, language learning tips, as well as information about local traditions and sights. Join our community and discover Turkey from a new perspective!' %}</p>
+                    <div class="content_black_box">
+                        <div class="images_wrapper position-relative">
+                            <figure class="mb-0 blackbox_image_one">
+                                <img src="{% static 'images/boy1.svg' %}" alt="" class="img-fluid">
+                            </figure>
+                            <figure class="mb-0 blackbox_image_two">
+                                <img src="{% static 'images/girl1.svg' %}" alt="" class="img-fluid">
+                            </figure>
+                            <figure class="mb-0 blackbox_image_three">
+                                <img src="{% static 'images/boy2.svg' %}" alt="" class="img-fluid">
+                            </figure>
+                            <figure class="mb-0 blackbox_image_four">
+                                <img src="{% static 'images/girl2.svg' %}" alt="" class="img-fluid">
+                            </figure>
+                        </div>
+                        <div class="review_wrapper">
+                            <ul class="list-unstyled mb-0">
+                                <li><i class="fa-solid fa-star"></i></li>
+                                <li><i class="fa-solid fa-star"></i></li>
+                                <li><i class="fa-solid fa-star"></i></li>
+                                <li><i class="fa-solid fa-star"></i></li>
+                                <li><i class="fa-solid fa-star"></i></li>
+                            </ul>
+                            <p class="mb-0 text-size-16 text-white">{% trans 'Orignal reviews' %}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <figure class="mb-0 top_shape top_bottom_shape">
+            <img src="{% static 'images/about_company_right_top_shape.png' %}" alt="" class="img-fluid">
+        </figure>
+    </div>
+</section>
+<!-- CHOOSE US SECTION -->
+<section class="choose_us_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5 col-md-12 col-sm-12 col-12">
+                <div class="choose_us_content" data-aos="fade-up">
+                    <figure class="mb-0 zero_four">
+                        <img src="{% static 'images/aboutus_02.png' %}" alt="" class="img-fluid">
+                    </figure>
+                    <h5>{% trans 'Why Choose Us' %}</h5>
+                    <h2>{% trans 'More than 5 Years of Experience' %}</h2>
+                    <div class="box_wrapper box_wrapper1">
+                        <div class="box mb-0">
+                            <figure>
+                                <img src="{% static 'images/choose_left_box_shape.png' %}" alt="" class="img-fluid">
+                            </figure>
+                            <div class="box_content">
+                                <h2 class="counter">100</h2>
+                                <p class="mb-0">{% trans 'Projects Completed' %}</p>
+                            </div>
+                            
+                        </div>
+                        <div class="box box_2 mb-0 mr-0">
+                            <figure>
+                                <img src="{% static 'images/choose_left_box_shape.png' %}" alt="" class="img-fluid">
+                            </figure>
+                            <div class="box_content">
+                                <h2 class="counter">3</h2>
+                                <p class="mb-0">{% trans 'Consultants' %}</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box_wrapper box_wrapper2">
+                        <div class="box mb-0">
+                            <figure>
+                                <img src="{% static 'images/choose_left_box_shape.png' %}" alt="" class="img-fluid">
+                            </figure>
+                            <div class="box_content">
+                                <h2 class="counter">3</h2>
+                                <p class="mb-0">{% trans 'offices in different regions of turkey' %}</p>
+                            </div>
+                        </div>
+                        <div class="box box_2 mb-0 mr-0">
+                            <figure>
+                                <img src="{% static 'images/choose_left_box_shape.png' %}" alt="" class="img-fluid">
+                            </figure>
+                            <div class="box_content">
+                                <h2 class="counter">300</h2>
+                                <p class="mb-0">{% trans 'Satisfied Customers' %}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-7 col-md-12 col-sm-12 col-12">
+                <div class="right_box_wrapper">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="choose_us_right_box">
+                                <div class="right_image_wrapper float-left">
+                                    <figure class="mb-0">
+                                        <img class="img-fluid" src="{% static 'images/choose_us_image1.png' %}" alt="">
+                                    </figure>
+                                </div>
+                                <div class="text_wrapper">
+                                    <h4>{% trans 'Strategic Vision Work' %}</h4>
+                                    <p class="text-size-14 mb-0">{% trans "Our website, represents a strategic vision to help foreigners who wish to stay in Turkey. We aim to facilitate adaptation and promote a deep understanding of the country's culture." %}</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="choose_us_right_box">
+                                <div class="right_image_wrapper float-left">
+                                    <figure class="mb-0">
+                                        <img class="img-fluid" src="{% static 'images/choose_us_image2.png' %}" alt="">
+                                    </figure>
+                                </div>
+                                <div class="text_wrapper">
+                                    <h4>{% trans 'trusted & professional' %}</h4>
+                                    <p class="text-size-14 mb-0">{% trans 'All information provided on our website comes only from reliable and official sources' %}</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="choose_us_right_box mb-lg-0 mb-md-0 mb-5">
+                                <div class="right_image_wrapper float-left">
+                                    <figure class="mb-0">
+                                        <img class="img-fluid" src="{% static 'images/choose_us_image3.png' %}" alt="">
+                                    </figure>
+                                </div>
+                                <div class="text_wrapper">
+                                    <h4>{% trans 'Best SOLUTION EXPERTS' %}</h4>
+                                    <p class="text-size-14 mb-0">{% trans 'Our experts speak more than 3 languages and can help you with any question you may have about Turkey.' %}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+<!--                    <a href="{% url 'contacts'%}">-->
+<!--                        <figure class="mb-0 position-absolute get_quote">-->
+<!--                            <img src="{% static 'images/choose_us_get_quote.png' %}" alt="" class="img-fluid">-->
+<!--                        </figure>-->
+<!--                    </a>-->
+                </div>
+            </div>
+        </div>
+        <figure class="mb-0 position-absolute left_shape left_right_shape">
+            <img src="{% static 'images/choose_us_left_background_shape.png' %}" alt="" class="img-fluid">
+        </figure>
+    </div>
+</section>
+<!-- PROFESSIONAL TEAM SECTION -->
+<section class="professional_team_section aboutus_professional_team_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="professional_team_content">
+                    <figure class="mb-0 zero_five">
+                        <img src="{% static 'images/03.png' %}" alt="" class="img-fluid">
+                    </figure>
+                    <h5>{% trans 'Professional Team' %}</h5>
+                    <h2>{% trans 'Advisors & Specialists' %}</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row" data-aos="fade-up">
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="professional_team_box_content">
+                    <figure class="professional_team_image"><img src="{% static 'images/rafsup.svg' %}" alt="" class="img-fluid"></figure>
+                    <figure class="professional_image_ring mb-0">
+                        <img src="{% static 'images/rafsupw.svg' %}" alt="" class="img-fluid">
+                    </figure>
+                    <div class="professional_team_box_content_wrapper">
+                        <h4>RAFIK VALATOV</h4>
+                        <p>{% trans 'RUSSIAN' %}</p>
+                        <ul class="list-unstyled p-0 m-0">
+                            <li class="hover-effect">
+                                <a href="https://www.facebook.com/cr7rv7/"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
+                            </li>
+<!--                            <li class="hover-effect">-->
+<!--                                <a href="#"><i class="fa-brands fa-twitter" aria-hidden="true"></i></a>-->
+<!--                            </li>-->
+                            <li class="hover-effect">
+                                <a href="https://www.linkedin.com/in/rafik-valatov-145b0528b/"><i class="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
+                            </li>
+                            <li class="hover-effect">
+                                <a href="https://www.instagram.com/_rafae1/"><i class="fa-brands fa-instagram"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="professional_team_box_content professional_team_box_content_two">
+                    <figure class="professional_team_image"><img src="{% static 'images/tufansup.svg' %}" alt="" class="img-fluid"></figure>
+                    <figure class="professional_image_ring mb-0">
+                        <img src="{% static 'images/tufansupw.svg' %}" alt="" class="img-fluid">
+                    </figure>
+                    <div class="professional_team_box_content_wrapper">
+                        <h4>TUFAN TÜRKOĞLU</h4>
+                        <p>{% trans 'TURKİSH' %}</p>
+                        <ul class="list-unstyled p-0 m-0">
+                            <li class="hover-effect">
+                                <a href=""><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
+                            </li>
+<!--                            <li class="hover-effect">-->
+<!--                                <a href="#"><i class="fa-brands fa-twitter" aria-hidden="true"></i></a>-->
+<!--                            </li>-->
+                            <li class="hover-effect">
+                                <a href="https://www.linkedin.com/in/tufan-erhan-t%C3%BCrko%C4%9Flu-623b01215/"><i class="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
+                            </li>
+                            <li class="hover-effect">
+                                <a href="https://www.instagram.com/tufanerhanturkoglu?igsh=MXV6MzV6ejkzM2t2eA=="><i class="fa-brands fa-instagram"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="professional_team_box_content professional_team_box_content_three">
+                    <figure class="professional_team_image"><img src="{% static 'images/berkaysup.svg' %}" alt="" class="img-fluid"></figure>
+                    <figure class="professional_image_ring mb-0">
+                        <img src="{% static 'images/berkaysupw.svg' %}" alt="" class="img-fluid">
+                    </figure>
+                    <div class="professional_team_box_content_wrapper">
+                        <h4>BERKAY TUTKUNCA</h4>
+                        <p>{% trans 'ENGLISH' %}</p>
+                        <ul class="list-unstyled p-0 m-0">
+                            <li class="hover-effect">
+                                <a href="#"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
+                            </li>
+<!--                            <li class="hover-effect">-->
+<!--                                <a href="#"><i class="fa-brands fa-twitter" aria-hidden="true"></i></a>-->
+<!--                            </li>-->
+                            <li class="hover-effect">
+                                <a href="#"><i class="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
+                            </li>
+                            <li class="hover-effect">
+                                <a href="https://www.instagram.com/tutkuncaberkay?igsh=MTJ3czI0ZG5neHJhZg=="><i class="fa-brands fa-instagram"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <figure class="mb-0 position-absolute circle_shape left_right_shape">
+                        <img src="{% static 'images/professional_team_circle_shape.png' %}" alt="" class="img-fluid">
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- TESTIMONIAL SECTION -->
+<section class="testimonial_section aboutus_testimonial_section position-relative">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="testimonial_content">
+                    <figure class="mb-0 zero_nine">
+<!--                        <img src="{% static 'images/09.png' %}" alt="" class="img-fluid">-->
+                    </figure>
+                    <h5>{% trans 'Our Testimonial' %}</h5>
+                    <h2>{% trans 'Our Client Reviews' %}</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-1 col-md-1 col-sm-1 col-1 d-md-block d-none"></div>
+            <div class="col-lg-9 col-md-10 col-sm-12 col-12">
+                <div class="testimonial_box">
+                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                            {% for testimonial in testimonials %}
+                            <div class="carousel-item {% if forloop.counter == 1 %}active {% endif %}">
+                                <div class="row">
+                                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                        <figure class="left_image mb-0">
+                                            <img src="{{testimonial.image.url}}" alt="" class="img-fluid">
+                                        </figure>
+                                    </div>
+                                    <div class="col-lg-8 col-md-6 col-sm-6 col-12">
+                                        <div class="testimonial_box_content">
+                                            <figure class="apostrophy">
+                                                <img src="{% static 'images/testimonial_apostrophy.png' %}" alt="" class="img-fluid">
+                                            </figure>
+                                            <p class="text-size-14 text">{{ testimonial.content}}</p>
+                                            <figure class="mb-0 content_shape">
+                                                <img src="{% static 'images/testimonial_content_shape.png' %}" alt="" class="img-fluid">
+                                            </figure>
+                                            <h4>{{ testimonial.name}}</h4>
+{#                                            <p class="text-size-14 mb-0">Lorum Ipsum Dolar</p>#}
+                                            <ul class="list-unstyled mb-0">
+                                                <li><i class="fa-solid fa-star"></i></li>
+                                                <li><i class="fa-solid fa-star"></i></li>
+                                                <li><i class="fa-solid fa-star"></i></li>
+                                                <li><i class="fa-solid fa-star"></i></li>
+                                                <li><i class="fa-solid fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                            <figure class="mb-0">
+                                <img src="{% static 'images/testimonial_left_arrow.png' %}" alt="" class="img-fluid">
+                            </figure>
+                            <span class="sr-only">{% trans 'Previous' %}</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                            <figure class="mb-0">
+                                <img src="{% static 'images/testimonial_right_arrow.png' %}" alt="" class="img-fluid">
+                            </figure>
+                            <span class="sr-only">{% trans 'Next' %}</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-1 col-sm-1 col-1 d-md-block d-none"></div>
+        </div>
+        <figure class="mb-0 bottom_shape position-absolute left_right_shape">
+            <img src="{% static 'images/testimonial_bottom_shape.png' %}" alt="" class="img-fluid">
+        </figure>
+    </div>
+</section>
+{% endblock %}

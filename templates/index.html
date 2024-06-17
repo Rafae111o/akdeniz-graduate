@@ -1,0 +1,758 @@
+{% extends 'base.html' %}
+{% load i18n %}
+{% load static %}
+
+{% block content %}
+<div class="banner-section-outer position-relative">
+    {% include 'menu.html' %}
+    <!-- SOCIAL ICONS -->
+
+    <!-- BANNER SECTION -->
+    <section class="banner-section position-relative">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-7 col-md-12 col-sm-12 col-12">
+                    <div class="banner-section-content position-relative">
+                        <h1 data-aos="fade-up">{% trans 'Your Guide to Adapting and Thriving' %}</h1>
+                        <!--<figure class="mb-0 banner_line_box position-absolute">
+                            <img src="./assets/images/banner_line_box.png' %} " alt="" class="img-fluid">
+                        </figure>-->
+                        <p class="text-white text-size-16" data-aos="fade-right">{% trans 'For foreigners who have visited Turkey and want to stay for a long time.' %}</p>
+
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-12 col-sm-12 col-12"></div>
+            </div>
+            <figure class="mb-0 banner_image">
+<!--                <img src="./assets/images/banner_image.png' %} " alt="" class="img-fluid">-->
+            </figure>
+        </div>
+    </section>
+    <figure class="banner_shape mb-0 position-absolute top_bottom_shape">
+        <img src="{% static 'images/banner_background_shape.png' %} " alt="" class="img-fluid">
+    </figure>
+</div>
+<!-- ABOUT OUR COMPANY SECTION -->
+    <section class="about_company_section position-relative">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                    <div class="about_company_images position-relative">
+                        <figure class="mb-0 main_image">
+                            <img src="{% static 'images/about us main.png' %} " alt="" class="img-fluid">
+                        </figure>
+                        <figure class="mb-0 bottom_image">
+                            <img src="{% static 'images/about us second.png' %} " alt="" class="img-fluid">
+                        </figure>
+                        <figure class="mb-0 right_shape">
+                            <img src="{% static 'images/about_company_shape1.png' %} " alt="" class="img-fluid">
+                        </figure>
+                        <figure class="mb-0 bottom_shape">
+                            <img src="{% static 'images/about_company_shape2.png' %} " alt="" class="img-fluid">
+                        </figure>
+                        <div class="box position-absolute">
+                            <span class="years">+</span>
+                            <span class="counter years number">5</span>
+                            <span class="years">{% trans 'Years' %}</span>
+                            <span class="experience d-block">{% trans 'Of Experience' %}</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 d-flex align-items-center">
+                    <div class="about_company_content" data-aos="fade-right">
+                        <figure class="mb-0 zero_one">
+<!--                            <img src="./assets/images/01.png' %} " alt="" class="img-fluid">-->
+                        </figure>
+<!--                        <h5>About Our Company</h5>-->
+                        <h2>{% trans 'Shortly about us' %}</h2>
+                        <p class="text-size-16">{% trans 'Welcome to our tourist guide website for Turkey! Our answers to your questions will help you enjoy your trip without any hassle' %}</p>
+                        <h6>{% trans '“As we said Welcooome!”' %}</h6>
+<!--                        <p class="text-size-16 mb-md-0">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>-->
+                    </div>
+                </div>
+            </div>
+            <figure class="mb-0 top_shape top_bottom_shape">
+                <img src="{% static 'images/about_company_right_top_shape.png' %} " alt="" class="img-fluid">
+            </figure>
+<!--            <div class="black_box">-->
+<!--                <div class="btn_wrapper">-->
+<!--                    <a class="text-decoration-none hover-effect readmore_btn" href="./about.html">READ MORE <figure class="mb-0 white_arrow"><img src="./assets/images/purple_arrow.png' %} " alt="" class="img-fluid"></figure></a>-->
+<!--                </div>-->
+<!--                <div class="images_wrapper position-relative">-->
+<!--                    <figure class="mb-0 blackbox_image_one">-->
+<!--                        <img src="./assets/images/black_box_image1.png' %} " alt="" class="img-fluid">-->
+<!--                    </figure>-->
+<!--                    <figure class="mb-0 blackbox_image_two">-->
+<!--                        <img src="./assets/images/black_box_image2.png' %} " alt="" class="img-fluid">-->
+<!--                    </figure>-->
+<!--                    <figure class="mb-0 blackbox_image_three">-->
+<!--                        <img src="./assets/images/black_box_image3.png' %} " alt="" class="img-fluid">-->
+<!--                    </figure>-->
+<!--                    <figure class="mb-0 blackbox_image_four">-->
+<!--                        <img src="./assets/images/black_box_image4.png' %} " alt="" class="img-fluid">-->
+<!--                    </figure>-->
+<!--                </div>-->
+<!--                <div class="review_wrapper">-->
+<!--                    <ul class="list-unstyled mb-0">-->
+<!--                        <li><i class="fa-solid fa-star"></i></li>-->
+<!--                        <li><i class="fa-solid fa-star"></i></li>-->
+<!--                        <li><i class="fa-solid fa-star"></i></li>-->
+<!--                        <li><i class="fa-solid fa-star"></i></li>-->
+<!--                        <li><i class="fa-solid fa-star"></i></li>-->
+<!--                    </ul>-->
+<!--                    <p class="mb-0 text-size-16 text-white">Orignal reviews</p>-->
+<!--                </div>-->
+<!--            </div>-->
+</div>
+    </section>
+<!-- LATEST SERVICES SECTION -->
+<section class="services_section">
+    <div class="container">
+        <div class="services_wrapper">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="services_content">
+                        <figure class="mb-0 zero_two">
+<!--                            <img src="./assets/images/02.png' %} " alt="" class="img-fluid">-->
+                        </figure>
+
+                        <h2>{% trans 'About page' %}</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row" data-aos="fade-up">
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div class="services_box">
+                        <div class="services_image">
+                            <figure class="mb-0">
+                                <img src="{% static 'images/languages.jpg' %} " alt="" class="img-fluid">
+                            </figure>  
+                        </div>
+                        <div class="services_box_content">
+                            <h3>{% trans 'Languages' %}</h3>
+                            <p class="text-size-14">{% trans 'Russian, English and Turkish' %}</p>
+                            <a href="./services.html">
+                                <i class="fa-solid fa-greater-than"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div class="services_box">
+                        <div class="services_image">
+                            <figure class="mb-0">
+                                <img src="{% static 'images/info.jpg' %} " alt="" class="img-fluid">
+                            </figure>  
+                        </div>
+                        <div class="services_box_content">
+                            <h3>{% trans 'Info' %}</h3>
+                            <p class="text-size-14">{% trans 'We only have the most reliable information' %}</p>
+                            <a href="./services.html">
+                                <i class="fa-solid fa-greater-than"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div class="services_box">
+                        <div class="services_image">
+                            <figure class="mb-0">
+                                <img src="{% static 'images/faq.jpg' %} " alt="" class="img-fluid">
+                            </figure>  
+                        </div>
+                        <div class="services_box_content">
+                            <h3>{% trans 'FAQ' %}</h3>
+                            <p class="text-size-14">{% trans 'In our FAQ page you can find answers to the most frequently asked questions' %}</p>
+                            <a href="./services.html">
+                                <i class="fa-solid fa-greater-than"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <figure class="mb-0 services_shape left_right_shape position-absolute">
+            <img src="{% static 'images/services_shape.png' %} " alt="" class="img-fluid">
+        </figure>
+    </div>
+</section>
+<!-- CASE STUDIES SECTION -->
+<!--<section class="case_studies_section">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-lg-5 col-md-12 col-sm-12 col-12">-->
+<!--                <div class="case_studies_content" data-aos="fade-right">-->
+<!--                    <figure class="mb-0 zero_three">-->
+<!--                        <img src="./assets/images/03.png' %} " alt="" class="img-fluid">-->
+<!--                    </figure>-->
+<!--                    <h5>Case Studies</h5>-->
+<!--                    <h2>Specialist Business Cases</h2>-->
+<!--                    <p class="text-size-16">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud.</p>-->
+<!--                    <h4>“Increased sales productivity frees selling time and saves millions”</h4>-->
+<!--                    <figure class="case_studies_image1 mb-0">-->
+<!--                        <img src="./assets/images/case_studies_image1.jpg' %} " alt="" class="img-fluid">-->
+<!--                    </figure>-->
+<!--                    <figure class="circle_shape left_right_shape mb-0 position-absolute">-->
+<!--                        <img src="./assets/images/case_studies_circle_shape.png' %} " alt="" class="img-fluid">-->
+<!--                    </figure>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="col-lg-7 col-md-12 col-sm-12 col-12">-->
+<!--                <div class="case_studies_images_wrapper position-relative">-->
+<!--                    <figure class="case_studies_image2 mb-0">-->
+<!--                        <img src="./assets/images/case_studies_image2.jpg' %} " alt="" class="img-fluid">-->
+<!--                    </figure>-->
+<!--                    <figure class="case_studies_image3 mb-0 position-absolute">-->
+<!--                        <img src="./assets/images/case_studies_image3.jpg' %} " alt="" class="img-fluid">-->
+<!--                    </figure>-->
+<!--                    <figure class="mb-0 bottom_line position-absolute">-->
+<!--                        <img src="./assets/images/case_studies_horizontal_line.png' %} " alt="" class="img-fluid">-->
+<!--                    </figure>-->
+<!--                    <figure class="mb-0 top_line position-absolute">-->
+<!--                        <img src="./assets/images/case_studies_verticle_line.png' %} " alt="" class="img-fluid">-->
+<!--                    </figure>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <figure class="bottom_shape mb-0 top_bottom_shape position-absolute">-->
+<!--            <img src="./assets/images/case_studies_bottom_shape.png' %} " alt="" class="img-fluid">-->
+<!--        </figure>-->
+<!--    </div>-->
+<!--</section>-->
+<!-- CHOOSE US SECTION -->
+<!--<section class="choose_us_section">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-lg-5 col-md-12 col-sm-12 col-12">-->
+<!--                <div class="choose_us_content" data-aos="fade-up">-->
+<!--                    <figure class="mb-0 zero_four">-->
+<!--&lt;!&ndash;                        <img src="./assets/images/04.png' %} " alt="" class="img-fluid">&ndash;&gt;-->
+<!--                    </figure>-->
+<!--                    <h5>Why Choose Us</h5>-->
+<!--                    <h2>More than 25 Years of Experience</h2>-->
+<!--                    <div class="box_wrapper box_wrapper1">-->
+<!--                        <div class="box mb-0">-->
+<!--                            <figure>-->
+<!--                                <img src="./assets/images/choose_left_box_shape.png' %} " alt="" class="img-fluid">-->
+<!--                            </figure>-->
+<!--                            <div class="box_content">-->
+<!--                                <h2 class="counter">253</h2>-->
+<!--                                <p class="mb-0">Projects Completed</p>-->
+<!--                            </div>-->
+<!--                            -->
+<!--                        </div>-->
+<!--                        <div class="box box_2 mb-0 mr-0">-->
+<!--                            <figure>-->
+<!--                                <img src="./assets/images/choose_left_box_shape.png' %} " alt="" class="img-fluid">-->
+<!--                            </figure>-->
+<!--                            <div class="box_content">-->
+<!--                                <h2 class="counter">16</h2>-->
+<!--                                <p class="mb-0">Consultants</p>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="box_wrapper box_wrapper2">-->
+<!--                        <div class="box mb-0">-->
+<!--                            <figure>-->
+<!--                                <img src="./assets/images/choose_left_box_shape.png' %} " alt="" class="img-fluid">-->
+<!--                            </figure>-->
+<!--                            <div class="box_content">-->
+<!--                                <h2 class="counter">11</h2>-->
+<!--                                <p class="mb-0">Awards winning</p>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <div class="box box_2 mb-0 mr-0">-->
+<!--                            <figure>-->
+<!--                                <img src="./assets/images/choose_left_box_shape.png' %} " alt="" class="img-fluid">-->
+<!--                            </figure>-->
+<!--                            <div class="box_content">-->
+<!--                                <h2 class="counter">372</h2>-->
+<!--                                <p class="mb-0">Satisfied Customers</p>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="col-lg-7 col-md-12 col-sm-12 col-12">-->
+<!--                <div class="right_box_wrapper">-->
+<!--                    <div class="row">-->
+<!--                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">-->
+<!--                            <div class="choose_us_right_box">-->
+<!--                                <div class="right_image_wrapper float-left">-->
+<!--                                    <figure class="mb-0">-->
+<!--                                        <img class="img-fluid" src="assets/images/choose_us_image1.png' %} " alt="">-->
+<!--                                    </figure>-->
+<!--                                </div>-->
+<!--                                <div class="text_wrapper">-->
+<!--                                    <h4>Strategic Vision Work</h4>-->
+<!--                                    <p class="text-size-14 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor.</p>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">-->
+<!--                            <div class="choose_us_right_box">-->
+<!--                                <div class="right_image_wrapper float-left">-->
+<!--                                    <figure class="mb-0">-->
+<!--                                        <img class="img-fluid" src="assets/images/choose_us_image2.png' %} " alt="">-->
+<!--                                    </figure>-->
+<!--                                </div>-->
+<!--                                <div class="text_wrapper">-->
+<!--                                    <h4>trusted & professional</h4>-->
+<!--                                    <p class="text-size-14 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor.</p>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">-->
+<!--                            <div class="choose_us_right_box mb-lg-0 mb-md-0 mb-5">-->
+<!--                                <div class="right_image_wrapper float-left">-->
+<!--                                    <figure class="mb-0">-->
+<!--                                        <img class="img-fluid" src="assets/images/choose_us_image3.png' %} " alt="">-->
+<!--                                    </figure>-->
+<!--                                </div>-->
+<!--                                <div class="text_wrapper">-->
+<!--                                    <h4>Best SOLUTION EXPERTS</h4>-->
+<!--                                    <p class="text-size-14 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor.</p>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <a href="./index.html#get_quote">-->
+<!--                        <figure class="mb-0 position-absolute get_quote">-->
+<!--                            <img src="./assets/images/choose_us_get_quote.png' %} " alt="" class="img-fluid">-->
+<!--                        </figure>-->
+<!--                    </a>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <figure class="mb-0 position-absolute left_shape left_right_shape">-->
+<!--            <img src="./assets/images/choose_us_left_background_shape.png' %} " alt="" class="img-fluid">-->
+<!--        </figure>-->
+<!--    </div>-->
+<!--</section>-->
+<!-- PROFESSIONAL TEAM SECTION -->
+<section class="professional_team_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="professional_team_content">
+                    <figure class="mb-0 zero_five">
+<!--                        <img src="./assets/images/05.png' %} " alt="" class="img-fluid">-->
+                    </figure>
+                    <h2>{% trans 'Help center' %}</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row" data-aos="fade-up">
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="professional_team_box_content">
+                    <figure class="professional_team_image"><img src="{% static 'images/rafsup.svg' %} " alt="" class="img-fluid"></figure>
+                    <figure class="professional_image_ring mb-0">
+                        <img src="{% static 'images/rafsupw.svg' %} " alt="" class="img-fluid">
+                    </figure>
+                    <div class="professional_team_box_content_wrapper">
+                        <h4>RAFIK VALATOV</h4>
+                        <p>{% trans 'RUSSIAN' %}</p>
+                        <ul class="list-unstyled p-0 m-0">
+                            <li class="hover-effect">
+                                <a href="https://www.facebook.com/cr7rv7/"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
+                            </li>
+
+                            <li class="hover-effect">
+                                <a href="https://www.linkedin.com/in/rafik-valatov-145b0528b/"><i class="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
+                            </li>
+                            <li class="hover-effect">
+                                <a href="https://www.instagram.com/_rafae1/"><i class="fa-brands fa-instagram"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="professional_team_box_content professional_team_box_content_two">
+                    <figure class="professional_team_image"><img src="{% static 'images/tufansup.svg' %} " alt="" class="img-fluid"></figure>
+                    <figure class="professional_image_ring mb-0">
+                        <img src="{% static 'images/tufansupw.svg' %} " alt="" class="img-fluid">
+                    </figure>
+                    <div class="professional_team_box_content_wrapper">
+                        <h4>TUFAN TÜRKOĞLU</h4>
+                        <p>{% trans 'TURKİSH' %}</p>
+                        <ul class="list-unstyled p-0 m-0">
+                            <li class="hover-effect">
+                                <a href=""><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
+                            </li>
+
+                            <li class="hover-effect">
+                                <a href="https://www.linkedin.com/in/tufan-erhan-t%C3%BCrko%C4%9Flu-623b01215/"><i class="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
+                            </li>
+                            <li class="hover-effect">
+                                <a href="https://www.instagram.com/tufanerhanturkoglu?igsh=MXV6MzV6ejkzM2t2eA=="><i class="fa-brands fa-instagram"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="professional_team_box_content professional_team_box_content_three">
+                    <figure class="professional_team_image"><img src="{% static 'images/berkaysup.svg' %} " alt="" class="img-fluid"></figure>
+                    <figure class="professional_image_ring mb-0">
+                        <img src="{% static 'images/berkaysupw.svg' %} " alt="" class="img-fluid">
+                    </figure>
+                    <div class="professional_team_box_content_wrapper">
+                        <h4>{% trans 'BERKAY TUTKUNCA' %}</h4>
+                        <p>{% trans 'ENGLISH' %}</p>
+                        <ul class="list-unstyled p-0 m-0">
+                            <li class="hover-effect">
+                                <a href="#"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
+                            </li>
+
+                            <li class="hover-effect">
+                                <a href="#"><i class="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
+                            </li>
+                            <li class="hover-effect">
+                                <a href="https://www.instagram.com/tutkuncaberkay?igsh=MTJ3czI0ZG5neHJhZg=="><i class="fa-brands fa-instagram"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <figure class="mb-0 position-absolute circle_shape left_right_shape">
+                        <img src="{% static 'images/professional_team_circle_shape.png' %} " alt="" class="img-fluid">
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- QUESTION ANSWERS SECTION -->
+<!--<section class="questionnaire_section">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-lg-6 col-md-12 col-sm-12 col-12" data-aos="fade-right">-->
+<!--                <div class="questionnaire_content">-->
+<!--                    <figure class="mb-0 zero_six">-->
+<!--&lt;!&ndash;                        <img src="./assets/images/06.png' %} " alt="" class="img-fluid">&ndash;&gt;-->
+<!--                    </figure>-->
+<!--                    <h5>Question Answers</h5>-->
+<!--                    <h2>You Have Questions We Have Answers</h2>-->
+<!--                </div>-->
+<!--                <div class="about-service-section-text accordian-section-inner-text position-relative">-->
+<!--                    <div class="accordian-inner">-->
+<!--                        <div id="accordion1">-->
+<!--                            <div class="accordion-card">-->
+<!--                                <div class="card-header" id="headingFour">-->
+<!--                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">-->
+<!--                                        1. think ahead and boost your business?-->
+<!--                                    </button>-->
+<!--                                </div>-->
+<!--                                <div id="collapseFour" class="collapse" aria-labelledby="headingFour">-->
+<!--                                    <div class="card-body">-->
+<!--                                        <p class="text-size-16 text-left mb-0">There are many variations of passages the majority have-->
+<!--                                            suffered alteration in some fo injected humour, or rando-->
+<!--                                            mised words believable.</p>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                            <div class="accordion-card">-->
+<!--                                <div class="card-header" id="headingFive">-->
+<!--                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">-->
+<!--                                        2. How consultancy experts work?-->
+<!--                                    </button>-->
+<!--                                </div>-->
+<!--                                <div id="collapseFive" class="collapse" aria-labelledby="headingFive">-->
+<!--                                    <div class="card-body">-->
+<!--                                        <p class="text-size-16 text-left mb-0">There are many variations of passages the majority have-->
+<!--                                            suffered alteration in some fo injected humour, or rando-->
+<!--                                            mised words believable.</p>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                            <div class="accordion-card">-->
+<!--                                <div class="card-header" id="headingSix">-->
+<!--                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">-->
+<!--                                        3. what is the best advice for growth?-->
+<!--                                    </button>-->
+<!--                                </div>-->
+<!--                                <div id="collapseSix" class="collapse" aria-labelledby="headingSix">-->
+<!--                                    <div class="card-body">-->
+<!--                                        <p class="text-size-16 text-left mb-0">There are many variations of passages the majority have-->
+<!--                                            suffered alteration in some fo injected humour, or rando-->
+<!--                                            mised words believable.</p>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="col-lg-6 col-md-12 col-sm-12 col-12">-->
+<!--                <div class="questionniare-images_wrapper position-relative">-->
+<!--                    <figure class="questionniare-image mb-0 float-right">-->
+<!--                        <img class="img-fluid" src="assets/images/questionnaire_image.jpg' %} " alt="">-->
+<!--                    </figure>-->
+<!--                    <figure class="questionnaire_image_shape1 shape position-absolute mb-0">-->
+<!--                        <img class="img-fluid" src="assets/images/questionnaire_image_shape1.jpg' %} " alt="">-->
+<!--                    </figure>-->
+<!--                    <figure class="questionnaire_image_shape2 shape position-absolute mb-0">-->
+<!--                        <img class="img-fluid" src="assets/images/questionnaire_image_shape2.jpg' %} " alt="">-->
+<!--                    </figure>-->
+<!--                    <figure class="questionnaire_image_shape3 top_bottom_shape shape position-absolute mb-0">-->
+<!--                        <img class="img-fluid" src="assets/images/questionnaire_image_shape3.png' %} " alt="">-->
+<!--                    </figure>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <figure class="questionnaire_bottom_shape top_bottom_shape shape position-absolute mb-0">-->
+<!--            <img class="img-fluid" src="assets/images/questionnaire_bottom_shape.png' %} " alt="">-->
+<!--        </figure>-->
+<!--    </div>-->
+<!--</section>-->
+<!-- GET IN TOUCH SECTION -->
+<section class="get_in_touch_section position-relative" id="get_quote">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-5 col-md-12 col-sm-12 col-12 order-lg-1 order-2">
+                <div class="image_wrapper position-relative">
+                    <figure class="mb-0 position-absolute get_touch_img">
+<!--                        <img src="./assets/images/get_in_touch_image.png' %} " alt="" class="img-fluid">-->
+                    </figure>
+                </div>
+            </div>
+            <div class="col-lg-7 col-md-12 col-sm-12 col-12 order-lg-2 order-1">
+                <div class="get_touch_content" data-aos="fade-right">
+                    <figure class="mb-0 zero_seven">
+<!--                        <img src="./assets/images/07.png' %} " alt="" class="img-fluid">-->
+                    </figure>
+                    <h5>{% trans 'Get In Touch' %}</h5>
+{#                    <h2>Get A Free Quote</h2>#}
+                    <form method="post">
+                        {% csrf_token %}
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                                <div class="form-group mb-0">    
+                                <input type="text" placeholder="{% trans 'Your Name' %}" name="name" id="name">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                                <div class="form-group mb-0 form_margin">    
+                                <input type="tel" placeholder="{% trans 'Phone Number' %}" name="phone" id="phonenum">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                                <div class="form-group mb-0">
+                                <input type="email" placeholder="{% trans 'Email Address' %}" name="email" id="emailid">
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class=" form-group mb-0">    
+                                <textarea placeholder="{% trans 'Your Message' %}" rows="3" name="comments" id="message"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form_button_wrapper position-relative">
+                            <button type="submit">{% trans 'SUBMIT' %}</button>
+                            <figure class="mb-0 white_arrow"><img src="{% static 'images/arrow_right.png' %} " alt="" class="img-fluid"></figure>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <figure class="top_line mb-0 position-absolute">
+            <img src="{% static 'images/get_in_touch_top_line.png' %} " alt="" class="img-fluid">
+        </figure>
+        <figure class="bottom_line mb-0 position-absolute">
+            <img src="{% static 'images/get_in_touch_bottom_line.png' %} " alt="" class="img-fluid">
+        </figure>
+        <figure class="right_shape left_right_shape mb-0 position-absolute">
+            <img src="{% static 'images/get_in_touch_right_shape.png' %} " alt="" class="img-fluid">
+        </figure>
+        <figure class="get_quote mb-0 position-absolute">
+            <img src="{% static 'images/get_a_quote.png' %} " alt="" class="img-fluid">
+        </figure>
+    </div>
+</section>
+<!-- ARTICLES SECTION -->
+<section class="articles_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="articles_content">
+                    <figure class="mb-0 zero_eight">
+<!--                        <img src="./assets/images/06.png' %} " alt="" class="img-fluid">-->
+                    </figure>
+                    <h2>{% trans 'Latest News' %}</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row" data-aos="fade-up">
+            {% for post in posts %}
+
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+<a href="{% url 'post-detail' post.id %}">
+                <div class="articles_box_content">
+
+                    <div class="upper_portion">
+                        <figure class="mb-0"><img src="{{post.image.url}}" alt="" class="img-fluid"></figure>
+                    </div>
+                    <div class="lower_portion_wrapper">
+
+                        <div class="lower_portion">
+                            <div class="span_wrapper position-relative">
+                                <span class="date">{{ post.date.day }}</span>
+                                <div class="month_wrapper position-absolute d-inline-block">
+                                    <span>{{ post.date|date:'M' }}</span>
+                                    <span class="d-block">{{ post.date.year }}</span>
+                                </div>
+                            </div>
+                            <h3>{{ post.title}}</h3>
+                            <div class="admin_wrapper">
+                                <span class="admin_comments"></span> <span class="admin_comments slash"></span> <span class="admin_comments"></span>
+                            </div>
+                            <p class="text-size-14 mb-0">{{ post.short}}</p>
+                        </div>
+
+                    </div>
+                    <figure class="mb-0 articles_circle_shape left_right_shape">
+                        <img src="{% static 'images/articles_circle_shape.png' %} " alt="" class="img-fluid">
+                    </figure>
+
+                </div>
+            </a>
+
+            </div>
+
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- TESTIMONIAL SECTION -->
+<!--<section class="testimonial_section position-relative">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-lg-12 col-md-12 col-sm-12 col-12">-->
+<!--                <div class="testimonial_content">-->
+<!--                    <figure class="mb-0 zero_nine">-->
+<!--                        <img src="./assets/images/09.png' %} " alt="" class="img-fluid">-->
+<!--                    </figure>-->
+<!--                    <h5>Our Testimonial</h5>-->
+<!--                    <h2>Our Client Reviews</h2>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <div class="row">-->
+<!--            <div class="col-lg-1 col-md-1 col-sm-1 col-1 d-md-block d-none"></div>-->
+<!--            <div class="col-lg-9 col-md-10 col-sm-12 col-12">-->
+<!--                <div class="testimonial_box">-->
+<!--                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">-->
+<!--                        <div class="carousel-inner">-->
+<!--                            <div class="carousel-item active">-->
+<!--                                <div class="row">-->
+<!--                                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">-->
+<!--                                        <figure class="left_image mb-0">-->
+<!--                                            <img src="./assets/images/testimonial_1.jpg' %} " alt="" class="img-fluid">-->
+<!--                                        </figure>-->
+<!--                                    </div>-->
+<!--                                    <div class="col-lg-8 col-md-6 col-sm-6 col-12">-->
+<!--                                        <div class="testimonial_box_content">-->
+<!--                                            <figure class="apostrophy">-->
+<!--                                                <img src="./assets/images/testimonial_apostrophy.png' %} " alt="" class="img-fluid">-->
+<!--                                            </figure>-->
+<!--                                            <p class="text-size-14 text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>-->
+<!--                                            <figure class="mb-0 content_shape">-->
+<!--                                                <img src="./assets/images/testimonial_content_shape.png' %} " alt="" class="img-fluid">-->
+<!--                                            </figure>-->
+<!--                                            <h4>Ann Peterson</h4>-->
+<!--                                            <p class="text-size-14 mb-0">Lorum Ipsum Dolar</p>-->
+<!--                                            <ul class="list-unstyled mb-0">-->
+<!--                                                <li><i class="fa-solid fa-star"></i></li>-->
+<!--                                                <li><i class="fa-solid fa-star"></i></li>-->
+<!--                                                <li><i class="fa-solid fa-star"></i></li>-->
+<!--                                                <li><i class="fa-solid fa-star"></i></li>-->
+<!--                                                <li><i class="fa-solid fa-star"></i></li>-->
+<!--                                            </ul>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                            <div class="carousel-item">-->
+<!--                                <div class="row">-->
+<!--                                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">-->
+<!--                                        <figure class="left_image mb-0">-->
+<!--                                            <img src="./assets/images/testimonial_2.jpg' %} " alt="" class="img-fluid">-->
+<!--                                        </figure>-->
+<!--                                    </div>-->
+<!--                                    <div class="col-lg-8 col-md-6 col-sm-6 col-12">-->
+<!--                                        <div class="testimonial_box_content">-->
+<!--                                            <figure class="apostrophy">-->
+<!--                                                <img src="./assets/images/testimonial_apostrophy.png' %} " alt="" class="img-fluid">-->
+<!--                                            </figure>-->
+<!--                                            <p class="text-size-14 text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>-->
+<!--                                            <figure class="mb-0 content_shape">-->
+<!--                                                <img src="./assets/images/testimonial_content_shape.png' %} " alt="" class="img-fluid">-->
+<!--                                            </figure>-->
+<!--                                            <h4>Ann Peterson</h4>-->
+<!--                                            <p class="text-size-14 mb-0">Lorum Ipsum Dolar</p>-->
+<!--                                            <ul class="list-unstyled mb-0">-->
+<!--                                                <li><i class="fa-solid fa-star"></i></li>-->
+<!--                                                <li><i class="fa-solid fa-star"></i></li>-->
+<!--                                                <li><i class="fa-solid fa-star"></i></li>-->
+<!--                                                <li><i class="fa-solid fa-star"></i></li>-->
+<!--                                                <li><i class="fa-solid fa-star"></i></li>-->
+<!--                                            </ul>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                            <div class="carousel-item">-->
+<!--                                <div class="row">-->
+<!--                                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">-->
+<!--                                        <figure class="left_image mb-0">-->
+<!--                                            <img src="./assets/images/testimonial_3.jpg' %} " alt="" class="img-fluid">-->
+<!--                                        </figure>-->
+<!--                                    </div>-->
+<!--                                    <div class="col-lg-8 col-md-6 col-sm-6 col-12">-->
+<!--                                        <div class="testimonial_box_content">-->
+<!--                                            <figure class="apostrophy">-->
+<!--                                                <img src="./assets/images/testimonial_apostrophy.png' %} " alt="" class="img-fluid">-->
+<!--                                            </figure>-->
+<!--                                            <p class="text-size-14 text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>-->
+<!--                                            <figure class="mb-0 content_shape">-->
+<!--                                                <img src="./assets/images/testimonial_content_shape.png' %} " alt="" class="img-fluid">-->
+<!--                                            </figure>-->
+<!--                                            <h4>Ann Peterson</h4>-->
+<!--                                            <p class="text-size-14 mb-0">Lorum Ipsum Dolar</p>-->
+<!--                                            <ul class="list-unstyled mb-0">-->
+<!--                                                <li><i class="fa-solid fa-star"></i></li>-->
+<!--                                                <li><i class="fa-solid fa-star"></i></li>-->
+<!--                                                <li><i class="fa-solid fa-star"></i></li>-->
+<!--                                                <li><i class="fa-solid fa-star"></i></li>-->
+<!--                                                <li><i class="fa-solid fa-star"></i></li>-->
+<!--                                            </ul>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">-->
+<!--                            <figure class="mb-0">-->
+<!--                                <img src="./assets/images/testimonial_left_arrow.png' %} " alt="" class="img-fluid">-->
+<!--                            </figure>-->
+<!--                            <span class="sr-only">Previous</span>-->
+<!--                        </a>-->
+<!--                        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">-->
+<!--                            <figure class="mb-0">-->
+<!--                                <img src="./assets/images/testimonial_right_arrow.png' %} " alt="" class="img-fluid">-->
+<!--                            </figure>-->
+<!--                            <span class="sr-only">Next</span>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="col-lg-2 col-md-1 col-sm-1 col-1 d-md-block d-none"></div>-->
+<!--        </div>-->
+<!--        <figure class="mb-0 bottom_shape position-absolute left_right_shape">-->
+<!--            <img src="./assets/images/testimonial_bottom_shape.png' %} " alt="" class="img-fluid">-->
+<!--        </figure>-->
+<!--    </div>-->
+<!--</section>-->
+{% endblock %}

@@ -1,0 +1,2000 @@
+# SPDX-FileCopyrightText: 2024 loki <loki@sentry.uz>
+msgid ""
+msgstr ""
+"Project-Id-Version: grad\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-11 23:30+0300\n"
+"PO-Revision-Date: 2024-06-11 23:36+0300\n"
+"Last-Translator: loki <loki@sentry.uz>\n"
+"Language-Team: English <kde-i18n-doc@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 23.08.1\n"
+"Plural-Forms: nplurals=2; plural=(n==1) ? 0 : 1;\n"
+
+#: graduationproject/settings.py:122
+msgid "Английский"
+msgstr "İngilizce"
+
+#: graduationproject/settings.py:123
+msgid "Русский"
+msgstr "Rusça"
+
+#: graduationproject/settings.py:124
+msgid "Турецкий"
+msgstr "Türkçe"
+
+#: templates/about.html:15 templates/about.html:17
+msgid "About Us"
+msgstr "Hakkımızda"
+
+#: templates/about.html:17 templates/base.html:62 templates/contact.html:16
+#: templates/menu.html:21 templates/services.html:15
+#: templates/two-column.html:17
+msgid "Home"
+msgstr "Anasayfa"
+
+#: templates/about.html:50 templates/index.html:56
+msgid "Years"
+msgstr "yıllık"
+
+#: templates/about.html:51 templates/index.html:57
+msgid "Of Experience"
+msgstr "Tecrübe"
+
+#: templates/about.html:60
+msgid "About Our Company"
+msgstr "Şirketimiz Hakkında"
+
+#: templates/about.html:61
+msgid "Professional And Dedicated Consulting Services"
+msgstr "Profesyonel ve Özel Danışmanlık Hizmetleri"
+
+#: templates/about.html:62
+msgid ""
+"Our website, created in 2024, is designed for foreigners who have visited "
+"Turkey and want to stay for a long time. It will also be a great help for "
+"those who want to delve deeper into Turkey's rich culture."
+msgstr ""
+"2024 yılında oluşturulan web sitemiz, Türkiye&#39;yi ziyaret eden ve uzun "
+"süre kalmak isteyen yabancılar için tasarlanmıştır. Ayrıca Türkiye&#39;nin "
+"zengin kültürünü daha derinlemesine incelemek isteyenler için de büyük bir "
+"yardımcı olacaktır."
+
+#: templates/about.html:63
+msgid ""
+"“Above all, we believe that real change is possible and that tomorrow "
+"doesn’t have to be like today”"
+msgstr ""
+"“Her şeyden önce gerçek değişimin mümkün olduğuna ve yarının bugün gibi "
+"olmak zorunda olmadığına inanıyoruz”"
+
+#: templates/about.html:64
+msgid ""
+"Here you will find useful adaptation tips, language learning tips, as well "
+"as information about local traditions and sights. Join our community and "
+"discover Turkey from a new perspective!"
+msgstr ""
+"Burada yararlı adaptasyon ipuçları, dil öğrenme ipuçlarının yanı sıra yerel "
+"gelenekler ve turistik yerler hakkında bilgiler bulacaksınız. Topluluğumuza "
+"katılın ve Türkiye&#39;yi yeni bir bakış açısıyla keşfedin!"
+
+#: templates/about.html:88
+msgid "Orignal reviews"
+msgstr "Yorumlar"
+
+#: templates/about.html:108
+msgid "Why Choose Us"
+msgstr "Neden Bizi Seçmelisiniz?"
+
+#: templates/about.html:109
+msgid "More than 5 Years of Experience"
+msgstr "5 Yıldan Fazla Deneyim"
+
+#: templates/about.html:117
+msgid "Projects Completed"
+msgstr "Tamamlanan Projeler"
+
+#: templates/about.html:127
+msgid "Consultants"
+msgstr "Danışmanlar"
+
+#: templates/about.html:138
+msgid "offices in different regions of turkey"
+msgstr "Türkiyenin farklı bölgelerinde ofisler"
+
+#: templates/about.html:147
+msgid "Satisfied Customers"
+msgstr "Memnun müşteriler"
+
+#: templates/about.html:164
+msgid "Strategic Vision Work"
+msgstr "Stratejik Vizyon Çalışması"
+
+#: templates/about.html:165
+msgid ""
+"Our website, represents a strategic vision to help foreigners who wish to "
+"stay in Turkey. We aim to facilitate adaptation and promote a deep "
+"understanding of the country's culture."
+msgstr ""
+"Web sitemiz, Türkiye&#39;de kalmak isteyen yabancılara yardımcı olmak için "
+"stratejik bir vizyonu temsil etmektedir. Adaptasyonu kolaylaştırmayı ve ülke "
+"kültürünün derinlemesine anlaşılmasını teşvik etmeyi amaçlıyoruz."
+
+#: templates/about.html:177
+msgid "trusted & professional"
+msgstr "güvenilir ve profesyonel"
+
+#: templates/about.html:178
+msgid ""
+"All information provided on our website comes only from reliable and "
+"official sources"
+msgstr ""
+"Web sitemizde verilen tüm bilgiler yalnızca güvenilir ve resmi kaynaklardan "
+"gelmektedir."
+
+#: templates/about.html:190
+msgid "Best SOLUTION EXPERTS"
+msgstr "EN İYİ ÇÖZÜM UZMANLARI"
+
+#: templates/about.html:191
+msgid ""
+"Our experts speak more than 3 languages and can help you with any question "
+"you may have about Turkey."
+msgstr ""
+"Uzmanlarımız 3&#39;ten fazla dil konuşmaktadır ve Türkiye ile ilgili her "
+"türlü sorunuzda size yardımcı olabilirler."
+
+#: templates/about.html:218
+msgid "Professional Team"
+msgstr "Profesyonel takım"
+
+#: templates/about.html:219
+msgid "Advisors & Specialists"
+msgstr "Danışmanlar ve Uzmanlar"
+
+#: templates/about.html:232 templates/about.html:258 templates/about.html:284
+msgid "Chief Consultant"
+msgstr "Baş Danışman"
+
+#: templates/about.html:318
+msgid "Our Testimonial"
+msgstr "Referanslarımız"
+
+#: templates/about.html:319
+msgid "Our Client Reviews"
+msgstr "Müşteri Yorumlarımız"
+
+#: templates/about.html:365
+msgid "Previous"
+msgstr "Öncesi"
+
+#: templates/about.html:371
+msgid "Next"
+msgstr "Sonraki"
+
+#: templates/base.html:50 templates/menu.html:27
+msgid "Contact"
+msgstr "İletişim"
+
+#: templates/base.html:60
+msgid "Quick Link"
+msgstr "Hızlı link"
+
+#: templates/base.html:63 templates/index.html:164 templates/menu.html:24
+#: templates/services.html:13 templates/services.html:15
+msgid "FAQ"
+msgstr "SSS"
+
+#: templates/base.html:64
+msgid "Contact us"
+msgstr "İletişim"
+
+#: templates/base.html:70
+msgid "Newsletter"
+msgstr "Haberler"
+
+#: templates/base.html:73
+msgid "Subscribe"
+msgstr "Abone ol"
+
+#: templates/contact.html:14 templates/contact.html:16
+msgid "Contact Us"
+msgstr "İletişim"
+
+#: templates/contact.html:33
+msgid "Contact Details"
+msgstr "İletişim detayları"
+
+#: templates/contact.html:40
+msgid "Address"
+msgstr "Adres"
+
+#: templates/contact.html:51
+msgid "Phones"
+msgstr "Telefonlar"
+
+#: templates/contact.html:62
+msgid "Email"
+msgstr "E-posta"
+
+#: templates/contact.html:73
+msgid "Follow Us"
+msgstr "Bizi takip edin"
+
+#: templates/contact.html:104 templates/index.html:523
+msgid "Get In Touch"
+msgstr "İletişime geç"
+
+#: templates/contact.html:112 templates/index.html:530
+msgid "Your Name"
+msgstr "Adınız"
+
+#: templates/contact.html:117 templates/index.html:535
+msgid "Phone Number"
+msgstr "Telefon numaranız"
+
+#: templates/contact.html:122 templates/index.html:540
+msgid "Email Address"
+msgstr "E-posta Adresiniz"
+
+#: templates/contact.html:130 templates/index.html:548
+msgid "Your Message"
+msgstr "Mesajınız"
+
+#: templates/contact.html:135 templates/index.html:553
+msgid "SUBMIT"
+msgstr "Gönder"
+
+#: templates/index.html:16
+msgid "Your Guide to Adapting and Thriving"
+msgstr "Uyum Sağlama ve Gelişme Rehberiniz"
+
+#: templates/index.html:20
+msgid ""
+"For foreigners who have visited Turkey and want to stay for a long time."
+msgstr ""
+"Türkiye&#39;yi ziyaret etmiş ve uzun süre kalmak isteyen yabancılar için."
+
+#: templates/index.html:67
+msgid "Shortly about us"
+msgstr "Kısaca hakkımızda"
+
+#: templates/index.html:68
+msgid ""
+"Welcome to our tourist guide website for Turkey! Our answers to your "
+"questions will help you enjoy your trip without any hassle"
+msgstr ""
+"Türkiye turist rehberi web sitemize hoş geldiniz! Sorularınıza verdiğimiz "
+"yanıtlar, seyahatinizin keyfini sorunsuz bir şekilde çıkarmanıza yardımcı "
+"olacaktır"
+
+#: templates/index.html:69
+msgid "“As we said Welcooome!”"
+msgstr "Her zaman dediğimiz gibi hoş geldiniz!"
+
+#: templates/index.html:119
+msgid "About page"
+msgstr "Avantajlar"
+
+#: templates/index.html:132
+msgid "Languages"
+msgstr "Diller"
+
+#: templates/index.html:133
+msgid "Russian, English and Turkish"
+msgstr "Rusça, İngilizce ve Türkçe"
+
+#: templates/index.html:148
+msgid "Info"
+msgstr "Bilgiler"
+
+#: templates/index.html:149
+msgid "We only have the most reliable information"
+msgstr "Yalnızca en güvenilir bilgiye sahibiz"
+
+#: templates/index.html:165
+msgid ""
+"In our FAQ page you can find answers to the most frequently asked questions"
+msgstr "SSS sayfamızda en sık sorulan soruların yanıtlarını bulabilirsiniz"
+
+#: templates/index.html:341
+msgid "Help center"
+msgstr "Yardım Merkezi"
+
+#: templates/index.html:354
+msgid "RUSSIAN"
+msgstr "Rusça"
+
+#: templates/index.html:378
+msgid "TURKİSH"
+msgstr "Türkçe"
+
+#: templates/index.html:401
+msgid "BERKAY TUTKUNCA"
+msgstr "BERKAY TUTKUNCA"
+
+#: templates/index.html:402
+msgid "ENGLISH"
+msgstr "İngilizce"
+
+#: templates/index.html:583
+msgid "Latest News"
+msgstr "Son Haberler"
+
+#: templates/login.html:18 templates/login.html:40
+msgid "Login"
+msgstr "Giriş"
+
+#: templates/login.html:21
+msgid "Welcome back!"
+msgstr "Tekrar merhaba"
+
+#: templates/login.html:22
+msgid "Enter your e-mail address and password if you have already registered."
+msgstr "Daha önce kayıt olduysanız e-posta adresinizi ve şifrenizi girin."
+
+#: templates/login.html:27 templates/register.html:24
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1909
+msgid "Email address"
+msgstr "E-posta Adresi"
+
+#: templates/login.html:31 templates/register.html:28
+msgid "Password"
+msgstr "Şifre"
+
+#: templates/login.html:36 templates/register.html:37
+#, fuzzy
+#| msgid "unknown error"
+msgid "Login error"
+msgstr "Lütfen bilgilerinizi doğru giriniz"
+
+#: templates/login.html:41
+msgid "Forgot password?"
+msgstr "Şifrenizi mi unuttunuz?"
+
+#: templates/login.html:50 templates/register.html:51
+msgid "Welcome to our site our new friend!"
+msgstr "Sayfamıza hoş geldiniz"
+
+#: templates/login.html:51 templates/register.html:52
+msgid ""
+"On our site you will find a lot of interesting things from answers to "
+"questions you have to global news about Turkey."
+msgstr ""
+"Sitemizde aklınıza takılan soruların cevaplarından Türkiyeile ilgili global "
+"haberlere kadar pek çok ilgi çekici şey bulacaksınız."
+
+#: templates/login.html:52 templates/register.html:53
+msgid "Admins from site"
+msgstr "Adminlerimiz"
+
+#: templates/login.html:63
+msgid "Don't have an account?"
+msgstr "Hesabınız yok mu?"
+
+#: templates/login.html:63
+msgid "register"
+msgstr "Kayıt ol"
+
+#: templates/menu.html:30 templates/two-column.html:15
+#: templates/two-column.html:17
+msgid "News"
+msgstr "Haberler"
+
+#: templates/menu.html:33
+msgid "About"
+msgstr "Hakkımızda"
+
+#: templates/menu.html:40
+msgid "Logout"
+msgstr "Çıkış Yap"
+
+#: templates/menu.html:46
+msgid "Login/Register"
+msgstr "Giriş/Kayıt"
+
+#: templates/menu.html:54
+msgid "Have Any Question?"
+msgstr "Sorunuz mu var?"
+
+#: templates/register.html:18 templates/register.html:41
+msgid "Registration"
+msgstr "Kayıt"
+
+#: templates/register.html:32
+#| msgid "Password"
+msgid "Repeat Password"
+msgstr "Şifreyi tekrar giriniz"
+
+#: venv/lib/python3.11/site-packages/click/_termui_impl.py:518
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr "{editor}: Düzenleme başarısız oldu"
+
+#: venv/lib/python3.11/site-packages/click/_termui_impl.py:522
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr "{editor}: Düzenleme başarısız oldu:{e}"
+
+#: venv/lib/python3.11/site-packages/click/core.py:1120
+msgid "Aborted!"
+msgstr "İptal edildi!"
+
+#: venv/lib/python3.11/site-packages/click/core.py:1309
+#: venv/lib/python3.11/site-packages/click/decorators.py:559
+msgid "Show this message and exit."
+msgstr "Bu mesajı gösterin ve çıkın."
+
+#: venv/lib/python3.11/site-packages/click/core.py:1340
+#: venv/lib/python3.11/site-packages/click/core.py:1370
+#, python-brace-format
+msgid "(Deprecated) {text}"
+msgstr "(Kullanımdan kaldırıldı){text}"
+
+#: venv/lib/python3.11/site-packages/click/core.py:1387
+msgid "Options"
+msgstr "Seçenekler"
+
+#: venv/lib/python3.11/site-packages/click/core.py:1413
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgid_plural "Got unexpected extra arguments ({args})"
+msgstr[0] "Beklenmeyen ekstra argüman aldım ({args} )"
+msgstr[1] "Beklenmeyen ekstra argümanlar var ({args} )"
+
+#: venv/lib/python3.11/site-packages/click/core.py:1429
+msgid "DeprecationWarning: The command {name!r} is deprecated."
+msgstr "Kullanımdan Kaldırma Uyarısı: Komut{name!r} kullanımdan kaldırıldı."
+
+#: venv/lib/python3.11/site-packages/click/core.py:1636
+msgid "Commands"
+msgstr "Komutlar"
+
+#: venv/lib/python3.11/site-packages/click/core.py:1668
+msgid "Missing command."
+msgstr "Eksik komut."
+
+#: venv/lib/python3.11/site-packages/click/core.py:1746
+msgid "No such command {name!r}."
+msgstr "Böyle bir komut yok{name!r} ."
+
+#: venv/lib/python3.11/site-packages/click/core.py:2310
+msgid "Value must be an iterable."
+msgstr "Değer yinelenebilir olmalıdır."
+
+#: venv/lib/python3.11/site-packages/click/core.py:2331
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgid_plural "Takes {nargs} values but {len} were given."
+msgstr[0] "Almak{nargs} Değerler ancak 1 verildi."
+msgstr[1] "Almak{nargs} değerler ama{len} verildi."
+
+#: venv/lib/python3.11/site-packages/click/core.py:2778
+#, python-brace-format
+msgid "env var: {var}"
+msgstr "ortam var:{var}"
+
+#: venv/lib/python3.11/site-packages/click/core.py:2808
+msgid "(dynamic)"
+msgstr "(dinamik)"
+
+#: venv/lib/python3.11/site-packages/click/core.py:2821
+#, python-brace-format
+msgid "default: {default}"
+msgstr "varsayılan:{default}"
+
+#: venv/lib/python3.11/site-packages/click/core.py:2834
+msgid "required"
+msgstr "Gerekli"
+
+#: venv/lib/python3.11/site-packages/click/decorators.py:465
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr "%(prog)s, sürüm%(version)s"
+
+#: venv/lib/python3.11/site-packages/click/decorators.py:528
+msgid "Show the version and exit."
+msgstr "Sürümü gösterip çıkın."
+
+#: venv/lib/python3.11/site-packages/click/exceptions.py:44
+#: venv/lib/python3.11/site-packages/click/exceptions.py:80
+#, python-brace-format
+msgid "Error: {message}"
+msgstr "Hata:{message}"
+
+#: venv/lib/python3.11/site-packages/click/exceptions.py:72
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr "Denemek &#39;{command}{option} &#39; yardım için."
+
+#: venv/lib/python3.11/site-packages/click/exceptions.py:121
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr "Geçersiz değer:{message}"
+
+#: venv/lib/python3.11/site-packages/click/exceptions.py:123
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr "için geçersiz değer{param_hint} :{message}"
+
+#: venv/lib/python3.11/site-packages/click/exceptions.py:179
+msgid "Missing argument"
+msgstr "Eksik argüman"
+
+#: venv/lib/python3.11/site-packages/click/exceptions.py:181
+msgid "Missing option"
+msgstr "Eksik seçenek"
+
+#: venv/lib/python3.11/site-packages/click/exceptions.py:183
+msgid "Missing parameter"
+msgstr "Eksik parametre"
+
+#: venv/lib/python3.11/site-packages/click/exceptions.py:185
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr "Eksik{param_type}"
+
+#: venv/lib/python3.11/site-packages/click/exceptions.py:192
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr "Eksik parametre:{param_name}"
+
+#: venv/lib/python3.11/site-packages/click/exceptions.py:212
+#, python-brace-format
+msgid "No such option: {name}"
+msgstr "Böyle bir seçenek yok:{name}"
+
+#: venv/lib/python3.11/site-packages/click/exceptions.py:224
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgid_plural "(Possible options: {possibilities})"
+msgstr[0] "Demek istediğin{possibility} ?"
+msgstr[1] "(Olası seçenekler:{possibilities} )"
+
+#: venv/lib/python3.11/site-packages/click/exceptions.py:262
+msgid "unknown error"
+msgstr "Bilinmeyen hata"
+
+#: venv/lib/python3.11/site-packages/click/exceptions.py:269
+msgid "Could not open file {filename!r}: {message}"
+msgstr "Dosya açılamadı{filename!r} :{message}"
+
+#: venv/lib/python3.11/site-packages/click/parser.py:231
+msgid "Argument {name!r} takes {nargs} values."
+msgstr "Argüman{name!r} almak{nargs} değerler."
+
+#: venv/lib/python3.11/site-packages/click/parser.py:413
+msgid "Option {name!r} does not take a value."
+msgstr "Seçenek{name!r} bir değer almaz."
+
+#: venv/lib/python3.11/site-packages/click/parser.py:474
+msgid "Option {name!r} requires an argument."
+msgid_plural "Option {name!r} requires {nargs} arguments."
+msgstr[0] "Seçenek{name!r} bir argüman gerektirir."
+msgstr[1] "Seçenek{name!r} gereklilikler{nargs} argümanlar."
+
+#: venv/lib/python3.11/site-packages/click/shell_completion.py:319
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr "Kabuk tamamlama, 4.4&#39;ten eski Bash sürümlerinde desteklenmez."
+
+#: venv/lib/python3.11/site-packages/click/shell_completion.py:326
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr "Bash sürümü algılanamadı; kabuk tamamlama desteklenmiyor."
+
+#: venv/lib/python3.11/site-packages/click/termui.py:158
+msgid "Repeat for confirmation"
+msgstr "Onay için tekrarlayın"
+
+#: venv/lib/python3.11/site-packages/click/termui.py:174
+msgid "Error: The value you entered was invalid."
+msgstr "Hata: Girdiğiniz değer geçersiz."
+
+#: venv/lib/python3.11/site-packages/click/termui.py:176
+#, python-brace-format
+msgid "Error: {e.message}"
+msgstr "Hata:{e.message}"
+
+#: venv/lib/python3.11/site-packages/click/termui.py:187
+msgid "Error: The two entered values do not match."
+msgstr "Hata: Girilen iki değer eşleşmiyor."
+
+#: venv/lib/python3.11/site-packages/click/termui.py:243
+msgid "Error: invalid input"
+msgstr "Hata: geçersiz giriş"
+
+#: venv/lib/python3.11/site-packages/click/termui.py:773
+msgid "Press any key to continue..."
+msgstr "Devam etmek için herhangi bir tuşa basın..."
+
+#: venv/lib/python3.11/site-packages/click/types.py:266
+#, python-brace-format
+msgid ""
+"Choose from:\n"
+"\t{choices}"
+msgstr "İçinden seçmek:{choices}"
+
+#: venv/lib/python3.11/site-packages/click/types.py:298
+msgid "{value!r} is not {choice}."
+msgid_plural "{value!r} is not one of {choices}."
+msgstr[0] "{value!r}değil{choice} ."
+msgstr[1] "{value!r}bunlardan biri değil{choices} ."
+
+#: venv/lib/python3.11/site-packages/click/types.py:392
+msgid "{value!r} does not match the format {format}."
+msgid_plural "{value!r} does not match the formats {formats}."
+msgstr[0] "{value!r}formatla eşleşmiyor{format} ."
+msgstr[1] "{value!r}formatlarla eşleşmiyor{formats} ."
+
+#: venv/lib/python3.11/site-packages/click/types.py:414
+msgid "{value!r} is not a valid {number_type}."
+msgstr "{value!r}geçerli değil{number_type} ."
+
+#: venv/lib/python3.11/site-packages/click/types.py:470
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr "{value}aralıkta değil{range} ."
+
+#: venv/lib/python3.11/site-packages/click/types.py:611
+msgid "{value!r} is not a valid boolean."
+msgstr "{value!r}geçerli bir boole değil."
+
+#: venv/lib/python3.11/site-packages/click/types.py:635
+msgid "{value!r} is not a valid UUID."
+msgstr "{value!r}geçerli bir UUID değil."
+
+#: venv/lib/python3.11/site-packages/click/types.py:822
+msgid "file"
+msgstr "Dosya"
+
+#: venv/lib/python3.11/site-packages/click/types.py:824
+msgid "directory"
+msgstr "dizin"
+
+#: venv/lib/python3.11/site-packages/click/types.py:826
+msgid "path"
+msgstr "yol"
+
+#: venv/lib/python3.11/site-packages/click/types.py:877
+msgid "{name} {filename!r} does not exist."
+msgstr "{name}{filename!r}bulunmuyor."
+
+#: venv/lib/python3.11/site-packages/click/types.py:886
+msgid "{name} {filename!r} is a file."
+msgstr "{name}{filename!r}bir dosyadır."
+
+#: venv/lib/python3.11/site-packages/click/types.py:894
+#, python-brace-format
+msgid "{name} '{filename}' is a directory."
+msgstr "{name}&#39;{filename} &#39; bir dizindir."
+
+#: venv/lib/python3.11/site-packages/click/types.py:903
+msgid "{name} {filename!r} is not readable."
+msgstr "{name}{filename!r}okunamaz."
+
+#: venv/lib/python3.11/site-packages/click/types.py:912
+msgid "{name} {filename!r} is not writable."
+msgstr "{name}{filename!r}yazılabilir değildir."
+
+#: venv/lib/python3.11/site-packages/click/types.py:921
+msgid "{name} {filename!r} is not executable."
+msgstr "{name}{filename!r}yürütülebilir değildir."
+
+#: venv/lib/python3.11/site-packages/click/types.py:988
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgid_plural "{len_type} values are required, but {len_value} were given."
+msgstr[0] "{len_type}değerler gerekli ama{len_value} verilmişti."
+msgstr[1] "{len_type}değerler gerekli ama{len_value} verildi."
+
+#: venv/lib/python3.11/site-packages/django/contrib/messages/apps.py:16
+msgid "Messages"
+msgstr "Mesajlar"
+
+#: venv/lib/python3.11/site-packages/django/contrib/sitemaps/apps.py:8
+msgid "Site Maps"
+msgstr "Site Haritaları"
+
+#: venv/lib/python3.11/site-packages/django/contrib/staticfiles/apps.py:9
+msgid "Static Files"
+msgstr "Statik Dosyalar"
+
+#: venv/lib/python3.11/site-packages/django/contrib/syndication/apps.py:7
+msgid "Syndication"
+msgstr "Sendikasyon"
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+#: venv/lib/python3.11/site-packages/django/core/paginator.py:30
+msgid "…"
+msgstr "…"
+
+#: venv/lib/python3.11/site-packages/django/core/paginator.py:32
+msgid "That page number is not an integer"
+msgstr "Bu sayfa numarası bir tam sayı değil"
+
+#: venv/lib/python3.11/site-packages/django/core/paginator.py:33
+msgid "That page number is less than 1"
+msgstr "Bu sayfa numarası 1&#39;den az"
+
+#: venv/lib/python3.11/site-packages/django/core/paginator.py:34
+msgid "That page contains no results"
+msgstr "Bu sayfada sonuç yok"
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:22
+msgid "Enter a valid value."
+msgstr "Geçerli bir değer girin."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:104
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:760
+msgid "Enter a valid URL."
+msgstr "Geçerli bir URL girin."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:165
+msgid "Enter a valid integer."
+msgstr "Geçerli bir tamsayı girin."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:176
+msgid "Enter a valid email address."
+msgstr "Geçerli bir e-posta adresi girin."
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: venv/lib/python3.11/site-packages/django/core/validators.py:259
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+"Harflerden, rakamlardan, alt çizgilerden veya kısa çizgilerden oluşan "
+"geçerli bir &quot;bilgi&quot; girin."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:267
+msgid ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
+"hyphens."
+msgstr ""
+"Unicode harflerden, rakamlardan, alt çizgilerden veya kısa çizgilerden "
+"oluşan geçerli bir &quot;bilgi&quot; girin."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:279
+#: venv/lib/python3.11/site-packages/django/core/validators.py:306
+msgid "Enter a valid IPv4 address."
+msgstr "Geçerli bir IPv4 adresi girin."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:286
+#: venv/lib/python3.11/site-packages/django/core/validators.py:307
+msgid "Enter a valid IPv6 address."
+msgstr "Geçerli bir IPv6 adresi girin."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:298
+#: venv/lib/python3.11/site-packages/django/core/validators.py:305
+msgid "Enter a valid IPv4 or IPv6 address."
+msgstr "Geçerli bir IPv4 veya IPv6 adresi girin."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:341
+msgid "Enter only digits separated by commas."
+msgstr "Yalnızca virgülle ayrılmış rakamları girin."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:347
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr "Bu değerin olduğundan emin olun%(limit_value)s (bu%(show_value)s )."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:382
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr ""
+"Bu değerin bundan küçük veya ona eşit olduğundan emin olun%(limit_value)s ."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:391
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr ""
+"Bu değerin şuna eşit veya daha büyük olduğundan emin olun:%(limit_value)s ."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:400
+#, python-format
+msgid "Ensure this value is a multiple of step size %(limit_value)s."
+msgstr "Bu değerin adım boyutunun katı olduğundan emin olun%(limit_value)s ."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:407
+#, python-format
+msgid ""
+"Ensure this value is a multiple of step size %(limit_value)s, starting from "
+"%(offset)s, e.g. %(offset)s, %(valid_value1)s, %(valid_value2)s, and so on."
+msgstr ""
+"Bu değerin adım boyutunun katı olduğundan emin olun%(limit_value)s , den "
+"başlayarak%(offset)s , Örneğin%(offset)s ,%(valid_value1)s ,"
+"%(valid_value2)s , ve benzeri."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:439
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"Bu değerin en az olduğundan emin olun%(limit_value)d karakter "
+"(vardır)%(show_value)d )."
+msgstr[1] ""
+"Bu değerin en az olduğundan emin olun%(limit_value)d karakterler "
+"(vardır)%(show_value)d )."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:457
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+"Bu değerin en fazla olduğundan emin olun%(limit_value)d karakter "
+"(sahiptir)%(show_value)d )."
+msgstr[1] ""
+"Bu değerin en fazla olduğundan emin olun%(limit_value)d karakterler "
+"(vardır)%(show_value)d )."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:480
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:355
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:394
+msgid "Enter a number."
+msgstr "Bir sayı girin."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:482
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] "Birden fazla olmadığından emin olun%(max)s toplam rakam."
+msgstr[1] "Birden fazla olmadığından emin olun%(max)s toplam rakam."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:487
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] "Birden fazla olmadığından emin olun%(max)s ondalık basamak."
+msgstr[1] "Birden fazla olmadığından emin olun%(max)s ondalık."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:492
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] "Birden fazla olmadığından emin olun%(max)s virgülden önceki rakam."
+msgstr[1] ""
+"Birden fazla olmadığından emin olun%(max)s virgülden önceki rakamlar."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:563
+#, python-format
+msgid ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+msgstr ""
+"Dosya uzantısı &quot;%(extension)s &quot; Müsade edilmez. İzin verilen "
+"uzantılar şunlardır:%(allowed_extensions)s ."
+
+#: venv/lib/python3.11/site-packages/django/core/validators.py:624
+msgid "Null characters are not allowed."
+msgstr "Boş karakterlere izin verilmez."
+
+#: venv/lib/python3.11/site-packages/django/db/models/base.py:1477
+#: venv/lib/python3.11/site-packages/django/forms/models.py:906
+msgid "and"
+msgstr " Ve"
+
+#: venv/lib/python3.11/site-packages/django/db/models/base.py:1479
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr "%(model_name)sBununla%(field_labels)s zaten var."
+
+#: venv/lib/python3.11/site-packages/django/db/models/constraints.py:20
+#, python-format
+msgid "Constraint “%(name)s” is violated."
+msgstr "Kısıtlama &quot;%(name)s ” ihlal ediliyor."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:133
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr "Değer%(v alue)r geçerli bir seçim değil."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:134
+msgid "This field cannot be null."
+msgstr "Bu alan boş olamaz."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:135
+msgid "This field cannot be blank."
+msgstr "Bu alan boş bırakılamaz."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:136
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr "%(model_name)sBununla%(field_label)s zaten var."
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or
+#. 'month'. Eg: "Title must be unique for pub_date year"
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:140
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr ""
+"%(field_label)siçin benzersiz olmalı%(date_field_label)s%(lookup_type)s ."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:179
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr "Tür alanı:%(field_type)s"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1155
+#, python-format
+msgid "“%(value)s” value must be either True or False."
+msgstr "“%(value)s ” değeri Doğru veya Yanlış olmalıdır."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1156
+#, python-format
+msgid "“%(value)s” value must be either True, False, or None."
+msgstr "“%(value)s ” değeri Doğru, Yanlış veya Yok olmalıdır."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1158
+msgid "Boolean (Either True or False)"
+msgstr "Boolean (Doğru veya Yanlış)"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1208
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr "Dize (en fazla%(max_length)s )"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1210
+msgid "String (unlimited)"
+msgstr "Dize (sınırsız)"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1314
+msgid "Comma-separated integers"
+msgstr "Virgülle ayrılmış tam sayılar"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1415
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr ""
+"“%(value)s ” değerinde geçersiz bir tarih biçimi var. YYYY-AA-GG formatında "
+"olmalıdır."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1419
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1554
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr ""
+"“%(value)s ” değeri doğru formatta (YYYY-AA-GG) ancak geçersiz bir tarih."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1423
+msgid "Date (without time)"
+msgstr "Tarih (saat olmadan)"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1550
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
+"uuuuuu]][TZ] format."
+msgstr ""
+"“%(value)s ” değeri geçersiz bir biçime sahip. YYYY-AA-GG SS:DD[ şeklinde "
+"olmalıdır:ss [.uuuuuu]][TZ] biçimi."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1558
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
+"[TZ]) but it is an invalid date/time."
+msgstr ""
+"“%(value)s ” değeri doğru formatta (YYYY-AA-GG SS:DD[:ss [.uuuuuu]][TZ]) "
+"ancak geçersiz bir tarih/saat."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1563
+msgid "Date (with time)"
+msgstr "Tarih (saatle birlikte)"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1690
+#, python-format
+msgid "“%(value)s” value must be a decimal number."
+msgstr "“%(value)s ” değeri ondalık sayı olmalıdır."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1692
+msgid "Decimal number"
+msgstr "Ondalık sayı"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1853
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in [DD] [[HH:]MM:]ss[."
+"uuuuuu] format."
+msgstr ""
+"“%(value)s ” değeri geçersiz bir biçime sahip. [GG] [[HH:]MM:]ss[.uuuuuu] "
+"biçiminde olmalıdır."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1857
+msgid "Duration"
+msgstr "Süre"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1934
+msgid "File path"
+msgstr "Dosya yolu"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2012
+#, python-format
+msgid "“%(value)s” value must be a float."
+msgstr "“%(value)s ” değeri bir kayan nokta olmalıdır."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2014
+msgid "Floating point number"
+msgstr "Kayan nokta numarası"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2054
+#, python-format
+msgid "“%(value)s” value must be an integer."
+msgstr "“%(value)s ” değeri bir tamsayı olmalıdır."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2056
+msgid "Integer"
+msgstr "Tamsayı"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2152
+msgid "Big (8 byte) integer"
+msgstr "Büyük (8 bayt) tamsayı"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2169
+msgid "Small integer"
+msgstr "Küçük tamsayı"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2177
+msgid "IPv4 address"
+msgstr "IPv4 adresi"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2208
+msgid "IP address"
+msgstr "IP adresi"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2301
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2302
+#, python-format
+msgid "“%(value)s” value must be either None, True or False."
+msgstr "“%(value)s ” değeri Yok, Doğru veya Yanlış olmalıdır."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2304
+msgid "Boolean (Either True, False or None)"
+msgstr "Boolean (Doğru, Yanlış veya Hiçbiri)"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2355
+msgid "Positive big integer"
+msgstr "Pozitif büyük tamsayı"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2370
+msgid "Positive integer"
+msgstr "Pozitif tamsayı"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2385
+msgid "Positive small integer"
+msgstr "Pozitif küçük tamsayı"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2401
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr "Sümüklüböcek (en fazla%(max_length)s )"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2437
+msgid "Text"
+msgstr "Metin"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2512
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr ""
+"“%(value)s ” değeri geçersiz bir biçime sahip. SS:DD[ şeklinde olmalıdır:ss "
+"[.uuuuuu]] biçimi."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2516
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+"“%(value)s ” değeri doğru formatta (SS:DD[):ss [.uuuuuu]]) ama geçersiz bir "
+"zaman."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2520
+msgid "Time"
+msgstr "ZAMAN"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2628
+msgid "URL"
+msgstr "URL&#39;si"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2652
+msgid "Raw binary data"
+msgstr "Ham ikili veriler"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2717
+#, python-format
+msgid "“%(value)s” is not a valid UUID."
+msgstr "“%(value)s ” geçerli bir UUID değil."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:2719
+msgid "Universally unique identifier"
+msgstr "Evrensel olarak benzersiz tanımlayıcı"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/files.py:232
+msgid "File"
+msgstr "Dosya"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/files.py:393
+msgid "Image"
+msgstr "resim"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/json.py:26
+msgid "A JSON object"
+msgstr "Bir JSON nesnesi"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/json.py:28
+msgid "Value must be valid JSON."
+msgstr "Değer geçerli bir JSON olmalıdır."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/related.py:939
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r does not exist."
+msgstr "%(model)sörnek ile%(field)s%(v alue)r mevcut değil."
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/related.py:941
+msgid "Foreign Key (type determined by related field)"
+msgstr "Yabancı Anahtar (tipi ilgili alana göre belirlenir)"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/related.py:1235
+msgid "One-to-one relationship"
+msgstr "Bire bir ilişki"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/related.py:1292
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr "%(from)s-%(to)s ilişki"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/related.py:1294
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr "%(from)s-%(to)s ilişkiler"
+
+#: venv/lib/python3.11/site-packages/django/db/models/fields/related.py:1342
+msgid "Many-to-many relationship"
+msgstr "Çoka çok ilişki"
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the label
+#: venv/lib/python3.11/site-packages/django/forms/boundfield.py:185
+msgid ":?.!"
+msgstr ":?.!"
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:95
+msgid "This field is required."
+msgstr "Bu alan gereklidir."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:304
+msgid "Enter a whole number."
+msgstr "Bir tam sayı girin."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:475
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:1252
+msgid "Enter a valid date."
+msgstr "Geçerli bir tarih gir."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:498
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:1253
+msgid "Enter a valid time."
+msgstr "Geçerli bir zaman girin."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:525
+msgid "Enter a valid date/time."
+msgstr "Geçerli bir tarih/saat girin."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:559
+msgid "Enter a valid duration."
+msgstr "Geçerli bir süre girin."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:560
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr "Gün sayısı arasında olmalıdır{min_days} Ve{max_days} ."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:629
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr "Hiçbir dosya gönderilmedi. Formdaki kodlama türünü kontrol edin."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:630
+msgid "No file was submitted."
+msgstr "Hiçbir dosya gönderilmedi."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:631
+msgid "The submitted file is empty."
+msgstr "Gönderilen dosya boş."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:633
+#, python-format
+msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] ""
+"Bu dosya adının en fazla olduğundan emin olun%(max)d karakter "
+"(sahiptir)%(length)d )."
+msgstr[1] ""
+"Bu dosya adının en fazla olduğundan emin olun%(max)d karakterler "
+"(vardır)%(length)d )."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:638
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr ""
+"Lütfen ya bir dosya gönderin ya da temizle onay kutusunu işaretleyin, "
+"ikisini birden değil."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:702
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+"Geçerli bir resim yükleyin. Yüklediğiniz dosya ya bir resim değildi ya da "
+"bozuk bir resimdi."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:874
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:960
+#: venv/lib/python3.11/site-packages/django/forms/models.py:1585
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr "Geçerli bir seçim seçin.%(value)s mevcut seçeneklerden biri değil."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:962
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:1081
+#: venv/lib/python3.11/site-packages/django/forms/models.py:1583
+msgid "Enter a list of values."
+msgstr "Değerlerin bir listesini girin."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:1082
+msgid "Enter a complete value."
+msgstr "Tam bir değer girin."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:1321
+msgid "Enter a valid UUID."
+msgstr "Geçerli bir UUID girin."
+
+#: venv/lib/python3.11/site-packages/django/forms/fields.py:1351
+msgid "Enter a valid JSON."
+msgstr "Geçerli bir JSON girin."
+
+#. Translators: This is the default suffix added to form field labels
+#: venv/lib/python3.11/site-packages/django/forms/forms.py:94
+msgid ":"
+msgstr ":"
+
+#: venv/lib/python3.11/site-packages/django/forms/forms.py:231
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr "(Gizli alan%(name)s )%(error)s"
+
+#: venv/lib/python3.11/site-packages/django/forms/formsets.py:61
+#, python-format
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr ""
+"ManagementForm verileri eksik veya tahrif edilmiş. Eksik alanlar:"
+"%(field_names)s . Sorun devam ederse bir hata raporu göndermeniz gerekebilir."
+
+#: venv/lib/python3.11/site-packages/django/forms/formsets.py:65
+#, python-format
+msgid "Please submit at most %(num)d form."
+msgid_plural "Please submit at most %(num)d forms."
+msgstr[0] "Lütfen en fazla gönderin%(num)d biçim."
+msgstr[1] "Lütfen en fazla gönderin%(num)d formlar."
+
+#: venv/lib/python3.11/site-packages/django/forms/formsets.py:70
+#, python-format
+msgid "Please submit at least %(num)d form."
+msgid_plural "Please submit at least %(num)d forms."
+msgstr[0] "Lütfen en azından gönderin%(num)d biçim."
+msgstr[1] "Lütfen en azından gönderin%(num)d formlar."
+
+#: venv/lib/python3.11/site-packages/django/forms/formsets.py:484
+#: venv/lib/python3.11/site-packages/django/forms/formsets.py:491
+msgid "Order"
+msgstr "Emir"
+
+#: venv/lib/python3.11/site-packages/django/forms/formsets.py:499
+msgid "Delete"
+msgstr "Silmek"
+
+#: venv/lib/python3.11/site-packages/django/forms/models.py:899
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr "Lütfen yinelenen verileri düzeltin%(field)s ."
+
+#: venv/lib/python3.11/site-packages/django/forms/models.py:904
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr "Lütfen yinelenen verileri düzeltin%(field)s benzersiz olması gerekir."
+
+#: venv/lib/python3.11/site-packages/django/forms/models.py:911
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+"Lütfen yinelenen verileri düzeltin%(field_name)s için benzersiz olması "
+"gereken%(lookup)s içinde%(date_field)s ."
+
+#: venv/lib/python3.11/site-packages/django/forms/models.py:920
+msgid "Please correct the duplicate values below."
+msgstr "Lütfen aşağıdaki yinelenen değerleri düzeltin."
+
+#: venv/lib/python3.11/site-packages/django/forms/models.py:1357
+msgid "The inline value did not match the parent instance."
+msgstr "Satır içi değer üst örnekle eşleşmedi."
+
+#: venv/lib/python3.11/site-packages/django/forms/models.py:1448
+msgid "Select a valid choice. That choice is not one of the available choices."
+msgstr "Geçerli bir seçim seçin. Bu seçim mevcut seçeneklerden biri değil."
+
+#: venv/lib/python3.11/site-packages/django/forms/models.py:1587
+#, python-format
+msgid "“%(pk)s” is not a valid value."
+msgstr "“%(pk)s ” geçerli bir değer değil."
+
+#: venv/lib/python3.11/site-packages/django/forms/utils.py:227
+#, python-format
+msgid ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+"%(datetime)ssaat diliminde yorumlanamadı%(current_timezone)s ; belirsiz "
+"olabilir veya mevcut olmayabilir."
+
+#: venv/lib/python3.11/site-packages/django/forms/widgets.py:461
+msgid "Clear"
+msgstr "Temizlemek"
+
+#: venv/lib/python3.11/site-packages/django/forms/widgets.py:462
+msgid "Currently"
+msgstr "Şu anda"
+
+#: venv/lib/python3.11/site-packages/django/forms/widgets.py:463
+msgid "Change"
+msgstr "Değiştirmek"
+
+#: venv/lib/python3.11/site-packages/django/forms/widgets.py:800
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: venv/lib/python3.11/site-packages/django/forms/widgets.py:801
+msgid "Yes"
+msgstr "Evet"
+
+#: venv/lib/python3.11/site-packages/django/forms/widgets.py:802
+msgid "No"
+msgstr "HAYIR"
+
+#. Translators: Please do not add spaces around commas.
+#: venv/lib/python3.11/site-packages/django/template/defaultfilters.py:876
+msgid "yes,no,maybe"
+msgstr "Evet Hayır Belki"
+
+#: venv/lib/python3.11/site-packages/django/template/defaultfilters.py:906
+#: venv/lib/python3.11/site-packages/django/template/defaultfilters.py:923
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] "%(size)dbayt"
+msgstr[1] "%(size)dbayt"
+
+#: venv/lib/python3.11/site-packages/django/template/defaultfilters.py:925
+#, python-format
+msgid "%s KB"
+msgstr "%sbilgi bankası"
+
+#: venv/lib/python3.11/site-packages/django/template/defaultfilters.py:927
+#, python-format
+msgid "%s MB"
+msgstr "%sMB"
+
+#: venv/lib/python3.11/site-packages/django/template/defaultfilters.py:929
+#, python-format
+msgid "%s GB"
+msgstr "%sBüyük Britanya"
+
+#: venv/lib/python3.11/site-packages/django/template/defaultfilters.py:931
+#, python-format
+msgid "%s TB"
+msgstr "%sverem"
+
+#: venv/lib/python3.11/site-packages/django/template/defaultfilters.py:933
+#, python-format
+msgid "%s PB"
+msgstr "%sPB"
+
+#: venv/lib/python3.11/site-packages/django/utils/dateformat.py:74
+msgid "p.m."
+msgstr "öğleden sonra"
+
+#: venv/lib/python3.11/site-packages/django/utils/dateformat.py:75
+msgid "a.m."
+msgstr "ben"
+
+#: venv/lib/python3.11/site-packages/django/utils/dateformat.py:80
+msgid "PM"
+msgstr "ÖĞLEDEN SONRA"
+
+#: venv/lib/python3.11/site-packages/django/utils/dateformat.py:81
+msgid "AM"
+msgstr "AM"
+
+#: venv/lib/python3.11/site-packages/django/utils/dateformat.py:153
+msgid "midnight"
+msgstr "gece yarısı"
+
+#: venv/lib/python3.11/site-packages/django/utils/dateformat.py:155
+msgid "noon"
+msgstr "öğlen"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:7
+msgid "Monday"
+msgstr "Pazartesi"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:8
+msgid "Tuesday"
+msgstr "Salı"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:9
+msgid "Wednesday"
+msgstr "Çarşamba"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:10
+msgid "Thursday"
+msgstr "Perşembe"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:11
+msgid "Friday"
+msgstr "Cuma"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:12
+msgid "Saturday"
+msgstr "Cumartesi"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:13
+msgid "Sunday"
+msgstr "Pazar"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:16
+msgid "Mon"
+msgstr "Benim"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:17
+msgid "Tue"
+msgstr "Salı"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:18
+msgid "Wed"
+msgstr "evlenmek"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:19
+msgid "Thu"
+msgstr "TOPLAMAK"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:20
+msgid "Fri"
+msgstr "Cuma"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:21
+msgid "Sat"
+msgstr "Doygunluk"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:22
+msgid "Sun"
+msgstr "Güneş"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:25
+msgid "January"
+msgstr "Ocak"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:26
+msgid "February"
+msgstr "Şubat"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:27
+msgid "March"
+msgstr "Mart"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:28
+msgid "April"
+msgstr "Nisan"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:29
+msgid "May"
+msgstr "Mayıs"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:30
+msgid "June"
+msgstr "Haziran"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:31
+msgid "July"
+msgstr "Temmuz"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:32
+msgid "August"
+msgstr "Ağustos"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:33
+msgid "September"
+msgstr "Eylül"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:34
+msgid "October"
+msgstr "Ekim"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:35
+msgid "November"
+msgstr "Kasım"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:36
+msgid "December"
+msgstr "Aralık"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:39
+msgid "jan"
+msgstr "Ocak"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:40
+msgid "feb"
+msgstr "Şubat"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:41
+msgid "mar"
+msgstr "Mart"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:42
+msgid "apr"
+msgstr "Nisan"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:43
+msgid "may"
+msgstr "Mayıs"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:44
+msgid "jun"
+msgstr "haziran"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:45
+msgid "jul"
+msgstr "Temmuz"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:46
+msgid "aug"
+msgstr "ağustos"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:47
+msgid "sep"
+msgstr "Eylül"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:48
+msgid "oct"
+msgstr "Ekim"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:49
+msgid "nov"
+msgstr "kasım"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:50
+msgid "dec"
+msgstr "Aralık"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:53
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr "Ocak"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:54
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr "Şubat."
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:55
+msgctxt "abbrev. month"
+msgid "March"
+msgstr "Mart"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:56
+msgctxt "abbrev. month"
+msgid "April"
+msgstr "Nisan"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:57
+msgctxt "abbrev. month"
+msgid "May"
+msgstr "Mayıs"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:58
+msgctxt "abbrev. month"
+msgid "June"
+msgstr "Haziran"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:59
+msgctxt "abbrev. month"
+msgid "July"
+msgstr "Temmuz"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:60
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr "Ağustos"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:61
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr "Eylül."
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:62
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr "Ekim"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:63
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr "Kasım"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:64
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr "Aralık"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:67
+msgctxt "alt. month"
+msgid "January"
+msgstr "Ocak"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:68
+msgctxt "alt. month"
+msgid "February"
+msgstr "Şubat"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:69
+msgctxt "alt. month"
+msgid "March"
+msgstr "Mart"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:70
+msgctxt "alt. month"
+msgid "April"
+msgstr "Nisan"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:71
+msgctxt "alt. month"
+msgid "May"
+msgstr "Mayıs"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:72
+msgctxt "alt. month"
+msgid "June"
+msgstr "Haziran"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:73
+msgctxt "alt. month"
+msgid "July"
+msgstr "Temmuz"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:74
+msgctxt "alt. month"
+msgid "August"
+msgstr "Ağustos"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:75
+msgctxt "alt. month"
+msgid "September"
+msgstr "Eylül"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:76
+msgctxt "alt. month"
+msgid "October"
+msgstr "Ekim"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:77
+msgctxt "alt. month"
+msgid "November"
+msgstr "Kasım"
+
+#: venv/lib/python3.11/site-packages/django/utils/dates.py:78
+msgctxt "alt. month"
+msgid "December"
+msgstr "Aralık"
+
+#: venv/lib/python3.11/site-packages/django/utils/ipv6.py:8
+msgid "This is not a valid IPv6 address."
+msgstr "Bu geçerli bir IPv6 adresi değil."
+
+#: venv/lib/python3.11/site-packages/django/utils/text.py:123
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s…"
+msgstr "%(truncated_text)s…"
+
+#: venv/lib/python3.11/site-packages/django/utils/text.py:323
+msgid "or"
+msgstr "veya"
+
+#. Translators: This string is used as a separator between list elements
+#: venv/lib/python3.11/site-packages/django/utils/text.py:342
+#: venv/lib/python3.11/site-packages/django/utils/timesince.py:135
+msgid ", "
+msgstr ","
+
+#: venv/lib/python3.11/site-packages/django/utils/timesince.py:8
+#, python-format
+msgid "%(num)d year"
+msgid_plural "%(num)d years"
+msgstr[0] "%(num)dyıl"
+msgstr[1] "%(num)dYıllar"
+
+#: venv/lib/python3.11/site-packages/django/utils/timesince.py:9
+#, python-format
+msgid "%(num)d month"
+msgid_plural "%(num)d months"
+msgstr[0] "%(num)day"
+msgstr[1] "%(num)dAylar"
+
+#: venv/lib/python3.11/site-packages/django/utils/timesince.py:10
+#, python-format
+msgid "%(num)d week"
+msgid_plural "%(num)d weeks"
+msgstr[0] "%(num)dhafta"
+msgstr[1] "%(num)dHaftalar"
+
+#: venv/lib/python3.11/site-packages/django/utils/timesince.py:11
+#, python-format
+msgid "%(num)d day"
+msgid_plural "%(num)d days"
+msgstr[0] "%(num)dGün"
+msgstr[1] "%(num)dGünler"
+
+#: venv/lib/python3.11/site-packages/django/utils/timesince.py:12
+#, python-format
+msgid "%(num)d hour"
+msgid_plural "%(num)d hours"
+msgstr[0] "%(num)dsaat"
+msgstr[1] "%(num)dsaat"
+
+#: venv/lib/python3.11/site-packages/django/utils/timesince.py:13
+#, python-format
+msgid "%(num)d minute"
+msgid_plural "%(num)d minutes"
+msgstr[0] "%(num)ddakika"
+msgstr[1] "%(num)ddakika"
+
+#: venv/lib/python3.11/site-packages/django/views/csrf.py:29
+msgid "Forbidden"
+msgstr "Yasaklı"
+
+#: venv/lib/python3.11/site-packages/django/views/csrf.py:30
+msgid "CSRF verification failed. Request aborted."
+msgstr "CSRF doğrulaması başarısız oldu. İstek iptal edildi."
+
+#: venv/lib/python3.11/site-packages/django/views/csrf.py:34
+msgid ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+"Bu mesajı görüyorsunuz çünkü bu HTTPS sitesi, web tarayıcınız tarafından bir "
+"&quot;Yönlendiren başlığının&quot; gönderilmesini gerektiriyor ancak hiçbiri "
+"gönderilmiyor. Bu başlık, tarayıcınızın üçüncü şahıslar tarafından ele "
+"geçirilmediğinden emin olmak için güvenlik nedeniyle gereklidir."
+
+#: venv/lib/python3.11/site-packages/django/views/csrf.py:40
+msgid ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+msgstr ""
+"Tarayıcınızı &quot;Yönlendiren&quot; başlıklarını devre dışı bırakacak "
+"şekilde yapılandırdıysanız, lütfen bunları en azından bu site veya HTTPS "
+"bağlantıları veya &quot;aynı kaynaklı&quot; istekler için yeniden "
+"etkinleştirin."
+
+#: venv/lib/python3.11/site-packages/django/views/csrf.py:45
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
+"including the “Referrer-Policy: no-referrer” header, please remove them. The "
+"CSRF protection requires the “Referer” header to do strict referer checking. "
+"If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+msgstr ""
+"Eğer kullanıyorsanız<meta name=\"referrer\" content=\"no-referrer\"> etiketi "
+"veya “Referrer-Policy: no-referrer” başlığını dahil ediyorsanız lütfen "
+"bunları kaldırın. CSRF koruması, &quot;Yönlendiren&quot; başlığının sıkı bir "
+"yönlendiren kontrolü yapmasını gerektirir. Gizlilik konusunda endişeleriniz "
+"varsa aşağıdaki gibi alternatifleri kullanın:<a rel=\"noreferrer\" …> üçüncü "
+"taraf sitelere bağlantılar için."
+
+#: venv/lib/python3.11/site-packages/django/views/csrf.py:54
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+"Bu sitenin form gönderirken CSRF çerezi gerektirmesi nedeniyle bu mesajı "
+"görüyorsunuz. Bu çerez, tarayıcınızın üçüncü şahıslar tarafından ele "
+"geçirilmemesini sağlamak amacıyla güvenlik nedeniyle gereklidir."
+
+#: venv/lib/python3.11/site-packages/django/views/csrf.py:60
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+msgstr ""
+"Tarayıcınızı çerezleri devre dışı bırakacak şekilde yapılandırdıysanız, "
+"lütfen çerezleri en azından bu site için veya &quot;aynı kaynaklı&quot; "
+"istekler için yeniden etkinleştirin."
+
+#: venv/lib/python3.11/site-packages/django/views/csrf.py:66
+msgid "More information is available with DEBUG=True."
+msgstr "DEBUG=True ile daha fazla bilgiye ulaşılabilir."
+
+#: venv/lib/python3.11/site-packages/django/views/generic/dates.py:44
+msgid "No year specified"
+msgstr "Yıl belirtilmedi"
+
+#: venv/lib/python3.11/site-packages/django/views/generic/dates.py:64
+#: venv/lib/python3.11/site-packages/django/views/generic/dates.py:115
+#: venv/lib/python3.11/site-packages/django/views/generic/dates.py:214
+msgid "Date out of range"
+msgstr "Tarih aralığın dışında"
+
+#: venv/lib/python3.11/site-packages/django/views/generic/dates.py:94
+msgid "No month specified"
+msgstr "Ay belirtilmedi"
+
+#: venv/lib/python3.11/site-packages/django/views/generic/dates.py:147
+msgid "No day specified"
+msgstr "Gün belirtilmedi"
+
+#: venv/lib/python3.11/site-packages/django/views/generic/dates.py:194
+msgid "No week specified"
+msgstr "Hafta belirtilmedi"
+
+#: venv/lib/python3.11/site-packages/django/views/generic/dates.py:349
+#: venv/lib/python3.11/site-packages/django/views/generic/dates.py:380
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr "HAYIR%(verbose_name_plural)s mevcut"
+
+#: venv/lib/python3.11/site-packages/django/views/generic/dates.py:652
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because %(class_name)s."
+"allow_future is False."
+msgstr ""
+"Gelecek%(verbose_name_plural)s mevcut değil çünkü%(class_name)s ."
+"allow_future Yanlıştır."
+
+#: venv/lib/python3.11/site-packages/django/views/generic/dates.py:692
+#, python-format
+msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgstr "Geçersiz tarih dizisi &quot;%(datestr)s “verilen format”%(format)s ”"
+
+#: venv/lib/python3.11/site-packages/django/views/generic/detail.py:56
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr "HAYIR%(verbose_name)s sorguyla eşleşen bulundu"
+
+#: venv/lib/python3.11/site-packages/django/views/generic/list.py:70
+msgid "Page is not “last”, nor can it be converted to an int."
+msgstr "Sayfa “son” değildir ve int&#39;ye dönüştürülemez."
+
+#: venv/lib/python3.11/site-packages/django/views/generic/list.py:77
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr "Geçersiz sayfa (%(page_number)s ):%(message)s"
+
+#: venv/lib/python3.11/site-packages/django/views/generic/list.py:169
+#, python-format
+msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgstr "Boş liste ve “%(class_name)s .allow_empty” Yanlıştır."
+
+#: venv/lib/python3.11/site-packages/django/views/static.py:49
+msgid "Directory indexes are not allowed here."
+msgstr "Burada dizin indekslerine izin verilmiyor."
+
+#: venv/lib/python3.11/site-packages/django/views/static.py:51
+#, python-format
+msgid "“%(path)s” does not exist"
+msgstr "“%(path)s &quot; bulunmuyor"
+
+#: venv/lib/python3.11/site-packages/django/views/static.py:68
+#: venv/lib/python3.11/site-packages/django/views/templates/directory_index.html:8
+#: venv/lib/python3.11/site-packages/django/views/templates/directory_index.html:11
+#, python-format
+msgid "Index of %(directory)s"
+msgstr "İndeksi%(directory)s"
+
+#: venv/lib/python3.11/site-packages/django/views/templates/default_urlconf.html:7
+#: venv/lib/python3.11/site-packages/django/views/templates/default_urlconf.html:220
+msgid "The install worked successfully! Congratulations!"
+msgstr "Kurulum başarıyla çalıştı! Tebrikler!"
+
+#: venv/lib/python3.11/site-packages/django/views/templates/default_urlconf.html:206
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+"Görüş<a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\"> sürüm notları</a> Django için%(version)s"
+
+#: venv/lib/python3.11/site-packages/django/views/templates/default_urlconf.html:221
+#, python-format
+msgid ""
+"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
+"%(version)s/ref/settings/#debug\" target=\"_blank\" "
+"rel=\"noopener\">DEBUG=True</a> is in your settings file and you have not "
+"configured any URLs."
+msgstr ""
+"Bu sayfayı görüyorsunuz çünkü<a href=\"https://docs.djangoproject.com/en/"
+"%(version)s/ref/settings/#debug\" target=\"_blank\" rel=\"noopener\"> HATA "
+"AYIKLAMA=Doğru</a> ayarlar dosyanızdadır ve herhangi bir URL "
+"yapılandırmamışsınızdır."
+
+#: venv/lib/python3.11/site-packages/django/views/templates/default_urlconf.html:229
+msgid "Django Documentation"
+msgstr "Django Belgeleri"
+
+#: venv/lib/python3.11/site-packages/django/views/templates/default_urlconf.html:230
+msgid "Topics, references, &amp; how-to’s"
+msgstr "Konular, referanslar ve nasıl yapılır"
+
+#: venv/lib/python3.11/site-packages/django/views/templates/default_urlconf.html:238
+msgid "Tutorial: A Polling App"
+msgstr "Öğretici: Bir Anket Uygulaması"
+
+#: venv/lib/python3.11/site-packages/django/views/templates/default_urlconf.html:239
+msgid "Get started with Django"
+msgstr "Django&#39;yu kullanmaya başlayın"
+
+#: venv/lib/python3.11/site-packages/django/views/templates/default_urlconf.html:247
+msgid "Django Community"
+msgstr "Django Topluluğu"
+
+#: venv/lib/python3.11/site-packages/django/views/templates/default_urlconf.html:248
+msgid "Connect, get help, or contribute"
+msgstr "Bağlanın, yardım alın veya katkıda bulunun"
+
+#: venv/lib/python3.11/site-packages/etc/admin/models.py:38
+msgid "Custom page"
+msgstr "Özel sayfa"
+
+#: venv/lib/python3.11/site-packages/etc/admin/models.py:79
+msgid "Done."
+msgstr "Tamamlamak."
+
+#~ msgid "Message"
+#~ msgstr "İleti"
+
+#~ msgid "SEND"
+#~ msgstr "Göndermek"
+
+#~ msgid "Your Email"
+#~ msgstr "E-posta adresiniz"
+
+#~ msgid "Your Phone"
+#~ msgstr "Telefonunuz"
+
+#~ msgid "Your name"
+#~ msgstr "Adınız"
+

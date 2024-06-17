@@ -1,0 +1,141 @@
+{% extends 'base.html' %}
+{% load i18n %}
+{% load static %}
+
+{% block content %}
+<div class="sub-banner-section-outer contact-banner-section position-relative">
+        {% include 'menu.html' %}
+    <!-- SUB BANNER SECTION -->
+    <section class="banner-section position-relative">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="banner-section-content position-relative" data-aos="fade-up">
+                        <h1>{% trans 'Contact Us' %}</h1>
+                        <div class="btn_wrapper">
+                            <span>{% trans 'Home' %} </span><i class="fa-solid fa-angles-right" aria-hidden="true"></i><span class="sub_span"> {% trans 'Contact Us' %}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <figure class="sub_banner_shape top_bottom_shape mb-0 position-absolute">
+        <img src="{% static 'images/contact_banner_background_shape.png' %}" alt="" class="img-fluid">
+    </figure>
+</div>
+<!-- CONTACT DETAIL SECTION -->
+<section class="contact_detail_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="contact_detail_content">
+                    <h2>{% trans 'Contact Details' %}</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row" data-aos="fade-up">
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="contact_detail_box_content">
+                    <h4>{% trans 'Address' %}</h4>
+                    <p class="text-size-16 mb-0">Liman, 5. Sk. No:10 B, Konyaaltı/Antalya</p>
+                    <div class="figure_wrapper">
+                        <figure class="mb-0">
+                            <img src="{% static 'images/contact_detail_1.png' %}" alt="" class="img-fluid">
+                        </figure>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="contact_detail_box_content box">
+                    <h4>{% trans 'Phones' %}</h4>
+                    <a href="tel:+90 545 480 9604" class="text-decoration-none"><p class="text-size-16 mb-0">+90 545 480 9604</p></a>
+                    <div class="figure_wrapper">
+                        <figure class="mb-0">
+                            <img src="{% static 'images/contact_detail_2.png' %}" alt="" class="img-fluid">
+                        </figure>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="contact_detail_box_content box">
+                    <h4>{% trans 'Email' %}</h4>
+                    <a href="mailto:info@aboutturkey.com" class="text-decoration-none"><p class="text-size-16 mb-0">info@aboutturkey.com</p></a>
+                    <div class="figure_wrapper">
+                        <figure class="mb-0">
+                            <img src="{% static 'images/contact_detail_3.png' %}" alt="" class="img-fluid">
+                        </figure>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="contact_detail_box_content social_box">
+                    <h4>{% trans 'Follow Us' %}</h4>
+                    <ul class="mb-0">
+                        <li class="list-unstyled d-inline-block"><a class="hover-effect d-inline-block" href="https://www.facebook.com/cr7rv7/"><i class="fa-brands fa-facebook-f"></i></a></li>
+                        <li class="list-unstyled d-inline-block"><a class="hover-effect d-inline-block" href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                        <li class="list-unstyled d-inline-block"><a class="hover-effect d-inline-block" href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                        <li class="list-unstyled d-inline-block"><a class="hover-effect d-inline-block" href="#"><figure class="mb-0"><img src="{% static 'images/google_symbol.png' %}" alt="" class="img-fluid"></figure></a></li>
+                    </ul>
+                    <div class="figure_wrapper">
+                        <figure class="mb-0">
+                            <img src="{% static 'images/contact_detail_4.png' %}" alt="" class="img-fluid">
+                        </figure>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- CONTACT MAP SECTION -->
+<div class="contact_map_section">
+    <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d199.53594741738502!2d30.62056958593524!3d36.85264956139224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2str!4v1717404625287!5m2!1sru!2str" width="1920" height="515" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
+</div>
+<!-- CONTACT FORM SECTION -->
+<section class="contact_form_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="contact_form_content">
+                    <h2>{% trans 'Get In Touch' %}</h2>
+                </div>
+            </div>
+        </div>
+        <form id= "contactpage" method="POST" data-aos="fade-up">{% csrf_token %}
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                                <div class="form-group mb-0">
+                                <input type="text" placeholder="{% trans 'Your Name' %}" name="name" id="name">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                                <div class="form-group mb-0 form_margin">
+                                <input type="tel" placeholder="{% trans 'Phone Number' %}" name="phone" id="phonenum">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                                <div class="form-group mb-0">
+                                <input type="email" placeholder="{% trans 'Email Address' %}" name="email" id="emailid">
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class=" form-group mb-0">
+                                <textarea placeholder="{% trans 'Your Message' %}" rows="3" name="comments" id="message"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form_button_wrapper position-relative">
+                            <button type="submit">{% trans 'SUBMIT' %}</button>
+                            <figure class="mb-0 white_arrow"><img src="{% static 'images/arrow_right.png' %} " alt="" class="img-fluid"></figure>
+                        </div>
+        </form>
+    </div>
+</section>
+{% endblock %}

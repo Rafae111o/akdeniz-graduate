@@ -1,0 +1,100 @@
+{% extends 'base.html' %}
+{% load i18n %}
+{% load static %}
+{% block content %}
+<div class="sub-banner-section-outer services-banner-section position-relative">
+    {% include 'menu.html' %}
+    <!-- SUB BANNER SECTION -->
+    <section class="banner-section position-relative">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="banner-section-content position-relative" data-aos="fade-up">
+                        <h1>{% trans 'FAQ' %}</h1>
+                        <div class="btn_wrapper">
+                            <span>{% trans 'Home' %} </span><i class="fa-solid fa-angles-right" aria-hidden="true"></i><span class="sub_span"> {% trans 'FAQ' %}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <figure class="sub_banner_shape top_bottom_shape mb-0 position-absolute">
+        <img src="{% static 'images/services_banner_background_shape.png'%}" alt="" class="img-fluid">
+    </figure>
+</div>
+<!-- BUSINESS TURNAROUND SECTION -->
+<section class="business_turn_bond_communicate_section position-relative">
+    <div class="container">
+        {% for item in faq_list %}
+        {% if forloop.counter|divisibleby:2  %}
+            <div class="second_part_outer ">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-12 d-flex align-items-center">
+                    <div class="business_turn_bond_communicate_content" data-aos="fade-up">
+                        <figure class="mb-0 zero_one">
+<!--                            <img src="{% static 'images/02.png'%}" alt="" class="img-fluid">-->
+                        </figure>
+                        <h2>{{ item.title}}</h2>
+                        <p class="text-size-14">{{ item.content}}</p>
+
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                    <div class="business_turn_padding">
+                        <div class="business_turn_bond_communicate_images position-relative">
+                            <figure class="mb-0 position-absolute main_image">
+                                <img src="{{item.image.url}}" alt="" class="img-fluid">
+                            </figure>
+                            <figure class="mb-0 position-absolute bottom_shape left_right_shape">
+                                <img src="{% static 'images/turnaround_bottom_shape.png'%}" alt="" class="img-fluid">
+                            </figure>
+                            <figure class="mb-0 position-absolute top_shape">
+                                <img src="{% static 'images/turnaround_top_shape.png'%}" alt="" class="img-fluid">
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% else %}
+            <div class="row" style="margin-top:170px">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                <div class="business_turn_bond_communicate_images position-relative">
+                    <figure class="mb-0 position-absolute main_image">
+                        <img src="{{item.image.url}}" alt="" class="img-fluid">
+                    </figure>
+                    <figure class="mb-0 position-absolute bottom_shape left_right_shape">
+                        <img src="{% static 'images/business_bottom_shape.png'%}" alt="" class="img-fluid">
+                    </figure>
+                    <figure class="mb-0 position-absolute top_shape">
+                        <img src="{% static 'images/business_top_shape.png'%}" alt="" class="img-fluid">
+                    </figure>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-12 d-flex align-items-center">
+                <div class="business_turn_bond_communicate_content" data-aos="fade-right">
+                    <figure class="mb-0 zero_one">
+<!--                        <img src="{% static 'images/01.png'%}" alt="" class="img-fluid">-->
+                    </figure>
+                    <h2>{{ item.title}}</h2>
+                    <p class="text-size-14">{{ item.content}}</p>
+
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+
+
+        <figure class="mb-0 right_top_shape top_bottom_shape position-absolute">
+            <img src="{% static 'images/business_right_top_shape.png'%}" alt="" class="img-fluid">
+        </figure>
+        <figure class="mb-0 left_bottom_shape left_right_shape position-absolute">
+            <img src="{% static 'images/business_left_bottom_shape.png'%}" alt="" class="img-fluid">
+        </figure>
+    </div>
+</section>
+
+{% endblock %}

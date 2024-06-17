@@ -1,0 +1,65 @@
+{% extends 'base.html' %}
+{% load i18n %}
+{% load static %}
+{% load hitcount_tags %}
+{% block content %}
+<body>
+<div class="sub-banner-section-outer blog-banner-section position-relative">
+    {% include 'menu.html' %}
+    <!-- SUB BANNER SECTION -->
+    <section class="banner-section position-relative">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="banner-section-content position-relative" data-aos="fade-up">
+                        <h1>{% trans 'News' %}</h1>
+                        <div class="btn_wrapper">
+                            <span>{% trans 'Home' %} </span><i class="fa-solid fa-angles-right" aria-hidden="true"></i><span class="sub_span"> {% trans 'News' %}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <figure class="sub_banner_shape top_bottom_shape mb-0 position-absolute">
+        <img src="{% static 'images/blog_banner_background_shape.png'%}" alt="" class="img-fluid">
+    </figure>
+</div>
+<!-- MAIN SECTION -->
+<section class="blog-posts articles_section two_column_main_section">
+    <div class="container">
+        <div class="first_row_wrapper" data-aos="fade-up">
+            <div class="row">
+                {% for item in post_list %}
+                <div class="col-lg-6 col-md-6 col-sm-6 col-12"><a href="{% url 'post-detail' item.id %}">
+                    <div class="articles_box_content articles_box">
+                        <div class="upper_portion">
+                            <figure class="mb-0"><img src="{{item.image.url}}" alt="" class="img-fluid"></figure>
+                        </div>
+                        <div class="lower_portion_wrapper">
+                            <div class="lower_portion">
+                                <div class="span_wrapper position-relative">
+                                    <span class="date">{{ item.date.day }}</span>
+                                    <div class="month_wrapper position-absolute d-inline-block">
+                                        <span>{{ item.date|date:'M' }}</span>
+                                        <span class="d-block">{{ item.date.year }}</span>
+                                    </div>
+                                </div>
+                                <h3>{{ item.title}}</h3>
+                                <div class="admin_wrapper">
+                                    <span class="admin_comments">by Admin</span> <span class="admin_comments slash">/</span> <span class="admin_comments">{{ item.comment_set.count }} Comments</span><span class="admin_comments slash">/</span><span class="admin_comments">{% get_hit_count for item %} Views</span>
+                                </div>
+                                <p class="text-size-14 mb-0">{{ item.short}}</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                </div>
+                {% endfor %}
+
+            </div>
+        </div>
+    </div>
+
+</section>
+{% endblock %}

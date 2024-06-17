@@ -1,0 +1,86 @@
+{% load i18n %}
+{% load static %}
+{% load custom_tags %}
+{% get_current_language as LANGUAGE_CODE %}
+<header>
+        <div class="main-header">
+            <div class="container-fluid">
+                <figure class="navbar_background mb-0 position-absolute">
+                    <img src="{% static 'images/navbar_background.png' %} " alt="" class="img-fluid">
+                </figure>
+                <nav class="navbar navbar-expand-lg navbar-light">
+                    <a class="navbar-brand" href="{% url 'index' %}"><figure class="mb-0"><img src="{% static 'images/header logo.png' %} " alt="" class="img-fluid"></figure></a>
+                    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                    <span class="navbar-toggler-icon"></span>
+                    <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav">
+                            <li class="nav-item {% if 'home' in request.path %} active {% endif %}">
+                                <a class="nav-link" href="{% url 'index' %}">{% trans 'Home' %}</a>
+                            </li>
+                            <li class="nav-item{% if 'faq' in request.path %} active {% endif %}">
+                                <a class="nav-link" href="{% url 'faq' %}">{% trans 'FAQ' %}</a>
+                            </li>
+                            <li class="nav-item {% if 'contact' in request.path %} active {% endif %}">
+                                <a class="nav-link" href="{% url 'contacts' %}">{% trans 'Contact' %}</a>
+                            </li>
+                            <li class="nav-item{% if 'news' in request.path %} active {% endif %}">
+                                <a class="nav-link" href="{% url 'news' %}">{% trans 'News' %}</a>
+                            </li>
+                            <li class="nav-item{% if 'about' in request.path %} active {% endif %}">
+                                <a class="nav-link" href="{% url 'about' %}">{% trans 'About' %}</a>
+                            </li>
+                        {% if request.user.is_authenticated %}
+                            <li class="nav-item{% if 'login' in request.path %} active {% endif %}">
+                                {{ request.user.email }}
+                                <form method="post" action="{% url 'logout' %}">
+                                    {% csrf_token %}
+                                    <button style="background: transparent; border: none;" type="submit" class="nav-link"  >{% trans 'Logout' %}</button>
+                                </form>
+
+                            </li>
+                        {% else %}
+                            <li class="nav-item{% if 'login' in request.path %} active {% endif %}">
+                                <a class="nav-link" href="{% url 'login' %}">{% trans 'Login/Register' %}</a>
+                            </li>
+                        {% endif %}
+
+                        </ul>
+                        <div class="outer-div position-relative float-left w-100" style="margin-left:200px">
+                            <a href="#"><i class="fa-solid fa-headset"></i></a>
+                            <div class="callus_outer position-absolute">
+                                <span class="text-white">{% trans 'Have Any Question?' %}</span>
+                                <a href="tel:+905454809604" class="text-decoration-none text-white">+905454809604</a>
+                            </div>
+                        </div>
+
+
+
+                    </div>
+
+
+                </nav>
+            {% get_language_info for LANGUAGE_CODE as lang %}
+                <div class="dropdown show position-absolute" style="right: 0;top: 30px;">
+                          <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <img alt="" class="lang-extra" src="https://flagcdn.com/24x18/{% if LANGUAGE_CODE == 'en' %}gb{% elif LANGUAGE_CODE == 'uk' %}ua{% else %}{{ LANGUAGE_CODE }}{% endif %}.png">{{ lang.name_local }}</a>
+
+                          <div class="dropdown-menu pr-2 pl-2" aria-labelledby="dropdownMenuLink">
+                              {% get_available_languages as LANGUAGES %}
+                                {% for LANGUAGE in LANGUAGES %}
+                                    {% if LANGUAGE.0 != LANGUAGE_CODE %}
+                                    {% get_language_info for LANGUAGE.0 as lang %}
+                                        <div class="mt-2 mb-2" style="display: flex;align-items: center;">
+                                            <img class="lang-extra" alt="" src="https://flagcdn.com/24x18/{% if LANGUAGE.0 == 'en' %}gb{% elif LANGUAGE.0 == 'uk' %}ua{% elif LANGUAGE.0 == 'ar' %}ae{% else %}{{ LANGUAGE.0 }}{% endif %}.png">
+                                            <a style="color: black" hreflang="{{ LANGUAGE.0 }}" href="{% change_lang LANGUAGE.0 %}">{{ lang.name_local|title }} </a>
+                                        </div>
+                              {% endif %}
+                                {% endfor %}
+                          </div>
+                        </div>
+
+            </div>
+        </div>
+    </header>
